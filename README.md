@@ -20,7 +20,7 @@ V. O relatório de cada etapa deverá ser digitado no documento de cada grupo pr
 
 VI. Os grupos **não serão mudados em hipótese alguma**, exceto em casos a serem decididos pelo professor.
 
-Cada etapa está subdividida em tarefas que o grupo deverá executar. Os resultados deverão ser registrados no próprio arquivo README, usando a ferramenta de edição do GitHub. **Não serão aceitas outras formas para envio dos projetos!**
+Cada etapa está subdividida em tarefas que o grupo deverá executar. Os resultados deverão ser registrados no próprio arquivo README, usando a ferramenta de edição do GitHub. O grupo escolherá um membro que fará as edições no arquivo README no GitHub. **Não serão aceitas outras formas para envio dos projetos!**
 
 Abaixo segue como colocar equações e imagens:
 
