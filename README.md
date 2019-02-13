@@ -55,7 +55,7 @@ Inicialmente, cada grupo deverá escolher um tema para o experimento. Temas pode
 -	Turbulência em Fluidos
 -	Experimentos em túnel de vento
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 19/08/2018**, contendo os seguintes tópicos:
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 13/04/2019**, contendo os seguintes tópicos:
 
 -	Integrantes do grupo;
 -	Tema escolhido;
@@ -66,7 +66,7 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 Nesta etapa, o experimento deverá ser planejado. A teoria envolvida deverá ser apresentada e os procedimentos experimentais deverão ser planejados nesta etapa.
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 26/08/2018**, contendo os seguintes tópicos:
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 29/04/2019**, contendo os seguintes tópicos:
 
 - Identificação do grupo;
 - Teoria do experimento;
@@ -82,7 +82,7 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 Nesta etapa, o experimento deverá ser montado e executado. A montagem e execução do experimento deverão ser apresentados nesta etapa.
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 15/06/2019**, contendo os seguintes tópicos:
 
 - Integrantes do grupo;
 - Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
@@ -93,7 +93,7 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
   
   
 OBSERVAÇÕES: 
--	Os grupos que desejarem usar o laboratório de termofluidos para a montagem e execução do experimento poderão fazê-lo nos horários de sexta-feira a partir de **17/08/2018**. 
+-	Os grupos que desejarem usar o laboratório de termofluidos para a montagem e execução do experimento poderão fazê-lo nos horários de quarta-feira a partir de **03/04/2019**. 
 -	O grupo deverá avisar o professor com antecedência, e poderá ir ao laboratório o número de vezes necessária para a completa execução do experimento;
 -	Será permitido um máximo de quatro grupos por dia;
 
@@ -101,7 +101,7 @@ OBSERVAÇÕES:
 
 Nesta etapa, os dados medidos na etapa 3 deverão ser analisados e o experimento deverá ser concluído. A análise de dados deverá ser apresentada nesta etapa.
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
+O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 29/06/2019**, contendo os seguintes tópicos:
 
 -	Integrantes do grupo;
 -	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
