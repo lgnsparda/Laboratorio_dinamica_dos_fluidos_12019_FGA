@@ -1,7 +1,7 @@
 Grupo 2:
-Erika Yamaguti Cherubini - 130109053
-Ana Luísa de Brito - 17/0078833
-Fernanda Viana Ribeiro - 14/0020101
+- Erika Yamaguti Cherubini - 130109053
+- Ana Luísa de Brito - 17/0078833
+- Fernanda Viana Ribeiro - 14/0020101
 
 ### 1.	Início:
 
