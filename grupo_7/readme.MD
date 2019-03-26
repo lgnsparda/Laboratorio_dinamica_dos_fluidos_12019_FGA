@@ -1,4 +1,4 @@
-Grupo 1:
+Grupo 7:
 - Danilo Marinho - 18/0136313
 - Mateus Lino do Amaral - 14/0155457
 - Giovanni Rambo - 16/0007445
