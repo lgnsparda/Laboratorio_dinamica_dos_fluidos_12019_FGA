@@ -1,4 +1,4 @@
-Grupo 1:
+Grupo 6:
 - Vitor Rossi - 14/0066632
 - Blenda Rodrigues - 15/0119551
 - Giulliano Cezar - 13/0026270
