@@ -1,5 +1,5 @@
 Grupo 1:
-- Bruon Ramos Ribeiro - 17/0007369
+- Bruno Ramos Ribeiro - 17/0007369
 - Vinicius Hiroshi Souza Miwa - 17/0046753
 
 
