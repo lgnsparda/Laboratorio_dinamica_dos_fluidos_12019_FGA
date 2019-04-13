@@ -10,7 +10,7 @@ Grupo 13:
     1.2 Experimento:
         Túnel de vento.
     1.3 Objetivo:
-        Verificar experimentalmtente a equação de Bernoulli.
+        Verificar experimentalmente a equação de Bernoulli.
     1.4 Escopo:
        - Verificar os sensores de medição que estão no túnel de vento;
        - Anexar sensores no túnel de vento caso esse não possua todos os aparelhos necessários;
