@@ -4,6 +4,12 @@ Grupo 7:
 - Giovanni Rambo - 16/0007445
 
 ### 1.	Início:
+•	Integrantes do grupo;
+
+•	Danilo Marinho - 18/0136313
+•	Mateus Lino do Amaral - 14/0155457
+•	Giovanni Rambo - 16/0007445
+
 •	Tema escolhido;
 
 Placa de orifício  
