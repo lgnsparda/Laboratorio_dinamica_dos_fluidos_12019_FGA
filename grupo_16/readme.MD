@@ -16,7 +16,7 @@ O experimento tem como objetivo gerar um escoamento turbulento e laminar, aponta
 ### Metodologia:
 Para a realização do experimento, será utilizado um aparato conhecido como dispositivo de Reynolds, figura 1, que será feito pelos próprios alunos. O dispositivo de Reynolds consiste na injeção de um fluido colorido em um escoamento transiente de água.
 
-![exp din](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/expdin.png) <br/>
+![exp din](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/dis.png) <br/>
 **Figura 1:** Dispositivo de Reynolds. </br>
 
 Para a montagem dele será utilizado um recipiente grande para armazenamento da água, uma mangueira conectada por uma torneira no reservatório e uma seringa com agulha injetando água com tinta dentro da mangueira. O experimento pode ser visualizado na figura 2. 
