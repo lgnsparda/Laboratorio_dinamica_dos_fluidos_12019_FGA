@@ -32,14 +32,14 @@ Grupo 10:
 * Mateus de Alencar - 17/0018849
 
 ### Teoria do experimento
-  Embora o número de Reynolds tenha sido introduzido em 1851 por  G. G. Stokes, o seu uso tornou-se popular só a partir de 1883, quando Osborne Reynolds, um engenheiro hidráulico e físico Irlandês, realizou um experimento em laboratório que demonstrou a existência de três tipos de escoamentos: o laminar, o transitório e o turbulento.[]
+  Embora o número de Reynolds tenha sido introduzido em 1851 por  G. G. Stokes, o seu uso tornou-se popular só a partir de 1883, quando Osborne Reynolds, um engenheiro hidráulico e físico Irlandês, realizou um experimento em laboratório que demonstrou a existência de três tipos de escoamentos: o laminar, o transitório e o turbulento.[3]
   
   ![Escoamentos](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Escoamentos.jpg)
   
-  **Figura 1:** Diferentes tipos de escoamento.[]
+  **Figura 1:** Diferentes tipos de escoamento.[4]
   
-  O número de Reynolds é utilizado no estudo dos fluidos em geral, constituindo a base do comportamento de sistemas reais, pelo uso de modelos físicos reduzidos. O que permite caracterizar o tipo de escoamento.[]
-  O cálculo do número de Reynolds é feito por meio da relação entre as forças de inércia e as forças viscosas (Equação 1). []
+  O número de Reynolds é utilizado no estudo dos fluidos em geral, constituindo a base do comportamento de sistemas reais, pelo uso de modelos físicos reduzidos. O que permite caracterizar o tipo de escoamento.[1]
+  O cálculo do número de Reynolds é feito por meio da relação entre as forças de inércia e as forças viscosas (Equação 1). [2]
   
   ![Eq Forças](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Eq%20For%C3%A7as.gif)
   
@@ -92,7 +92,7 @@ Após a realização do experimento, será calculo o número de Reynolds para do
 Com este experimento, espera-se visualizar as linhas de corrente do escoamento e calcular seu respectivo número de Reynolds. Para o escoamento com uma linha de corrente mais caótica, espera-se que o número de Reynolds esteja acima de 2400, enquanto que para o escoamento mais suave, esteja abaixo de 2000.
 
 #### Considerações:
-Serão usados as seguintes constantes no experimento: []
+Serão usados as seguintes constantes no experimento: [5]
   * Re < 2000 - Escoamento Laminar;
   * 2000 < Re < 2400 - Escoamento de Transição;
   * Re > 2400 - Escoamento Turbulento;
@@ -102,3 +102,15 @@ Serão usados as seguintes constantes no experimento: []
 ### 3.	Execução:
 
 ### 4.	Análise e conclusão:
+
+
+### Referências
+**[1] Coeficiente de Reynolds.** Disponível em: https://pt.wikipedia.org/wiki/Coeficiente_de_Reynolds. Acesso em: 28 de Abril de 2019.
+
+**[2] Escoamento Laminar e Escoamento Turbulento.** Página 2 e 3. Disponível em: http://meusite.mackenzie.com.br/eangelo/Exp_Reynolds.pdf. Acesso em: 28 de Abril de 2019.
+
+**[3] Número de Reynolds.** Página 1. Disponível em: http://lamon.com.br/ckfinder/userfiles/files/Numero_Reynolds.pdf. Acesso em: 28 de Abril de 2019.
+
+**[4] Relatorio Numero de Reynolds.** Disponível em: https://pt.scribd.com/document/358529565/Relatorio-Numero-de-Reynolds. Acesso em: 28 de Abril de 2019.
+
+**[5] Aula 10 - Escoamento Laminar e Escoamento Turbulento.** Slides 7 e 8. Disponível em: http://www.engbrasil.eng.br/pp/mf/aula10.pdf. Acesso em: 28 de Abril de 2019.
