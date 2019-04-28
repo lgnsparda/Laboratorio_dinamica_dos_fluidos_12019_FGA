@@ -68,6 +68,7 @@ Após a montagem, serão realizados os cálculos para obter o número de Reynold
  - Utilizando valores tabelados para a viscosidade dinâmica da água e a massa específica da água, será calculado o número de Reynolds para o escoamento.
  
  **Membros do grupo responsáveis pela montagem:** Cláudio e Lucas
+ 
  **Membro do grupo responsável pela execução:** Mateus
  
  #### Cronograma
