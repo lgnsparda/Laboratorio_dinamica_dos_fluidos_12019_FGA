@@ -34,6 +34,7 @@ Grupo 10:
 ### Teoria do experimento
   Embora o número de Reynolds tenha sido introduzido em 1851 por  G. G. Stokes, o seu uso tornou-se popular só a partir de 1883, quando Osborne Reynolds, um engenheiro hidráulico e físico Irlandês, realizou um experimento em laboratório que demonstrou a existência de três tipos de escoamentos: o laminar, o transitório e o turbulento.[]
   
+  ![Escoamentos]
   **Figura 1:** Diferentes tipos de escoamento.[]
   
   O número de Reynolds é utilizado no estudo dos fluidos em geral, constituindo a base do comportamento de sistemas reais, pelo uso de modelos físicos reduzidos. O que permite caracterizar o tipo de escoamento.[]
