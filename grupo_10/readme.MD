@@ -45,7 +45,7 @@ Grupo 10:
   
   **Equação 1**
   
-  Considerando escoamentos em dutos circulares de diâmetro D, podemos dizer que a força de inércia é dada pelo produto da velocidade do escoamento pela massa específica do fluido e a força viscosa é dada pelo quociente da viscosidade dinâmica do fluido pelo diâmetro do tubo. Então, a Equação 1 pode ser reescrita como:
+  Considerando escoamentos em dutos circulares de diâmetro D, podemos dizer que a força de inércia é dada pelo produto da velocidade do escoamento pela massa específica do fluido e a força viscosa é dada pelo quociente da viscosidade dinâmica do fluido pelo diâmetro do tubo. Então, a Equação 1 pode ser reescrita como: [1][2]
   
   ![Reynolds](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Reynolds.gif)
   
@@ -107,7 +107,7 @@ Serão usados as seguintes constantes no experimento: [5]
 ### Referências
 **[1] Coeficiente de Reynolds.** Disponível em: https://pt.wikipedia.org/wiki/Coeficiente_de_Reynolds. Acesso em: 28 de Abril de 2019.
 
-**[2] Escoamento Laminar e Escoamento Turbulento.** Página 2 e 3. Disponível em: http://meusite.mackenzie.com.br/eangelo/Exp_Reynolds.pdf. Acesso em: 28 de Abril de 2019.
+**[2] Escoamento Laminar e Escoamento Turbulento.** Páginas 2 e 3. Disponível em: http://meusite.mackenzie.com.br/eangelo/Exp_Reynolds.pdf. Acesso em: 28 de Abril de 2019.
 
 **[3] Número de Reynolds.** Página 1. Disponível em: http://lamon.com.br/ckfinder/userfiles/files/Numero_Reynolds.pdf. Acesso em: 28 de Abril de 2019.
 
