@@ -35,20 +35,25 @@ Grupo 10:
   Embora o número de Reynolds tenha sido introduzido em 1851 por  G. G. Stokes, o seu uso tornou-se popular só a partir de 1883, quando Osborne Reynolds, um engenheiro hidráulico e físico Irlandês, realizou um experimento em laboratório que demonstrou a existência de três tipos de escoamentos: o laminar, o transitório e o turbulento.[]
   
   ![Escoamentos](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Escoamentos.jpg)
+  
   **Figura 1:** Diferentes tipos de escoamento.[]
   
   O número de Reynolds é utilizado no estudo dos fluidos em geral, constituindo a base do comportamento de sistemas reais, pelo uso de modelos físicos reduzidos. O que permite caracterizar o tipo de escoamento.[]
   O cálculo do número de Reynolds é feito por meio da relação entre as forças de inércia e as forças viscosas (Equação 1). []
   
+  ![Eq Forças](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Eq%20For%C3%A7as.gif)
+  
   **Equação 1**
   
-  Considerando escoamentos em dutos circulares de diâmetro D, podemos dizer que a força de inércia é dada pelo produto da velocido do escoamento pela masse específica do fluido e a força viscosa é dada pelo quociente da viscosidade dinâmica do fluido pelo diâmetro do tubo. Então, a Equação 1 pode ser reescrita como:
+  Considerando escoamentos em dutos circulares de diâmetro D, podemos dizer que a força de inércia é dada pelo produto da velocidade do escoamento pela massa específica do fluido e a força viscosa é dada pelo quociente da viscosidade dinâmica do fluido pelo diâmetro do tubo. Então, a Equação 1 pode ser reescrita como:
+  
+  ![Reynolds](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Reynolds.gif)
   
   **Equação 2**
   
   Sendo:
-  * rho a massa específica [kg/m³];
-  * mu a viscosidade dinâmica do fluido [Pa.s];
+  * ![Rho](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Rho.gif) a massa específica [kg/m³];
+  * ![Mu](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Mu.gif) a viscosidade dinâmica do fluido [Pa.s];
   * V a velocidade do escoamento [m/s];
   * D o diâmetro do tubo [m].
   
