@@ -48,6 +48,7 @@ Grupo 10:
   Considerando escoamentos em dutos circulares de diâmetro D, podemos dizer que a força de inércia é dada pelo produto da velocidade do escoamento pela massa específica do fluido e a força viscosa é dada pelo quociente da viscosidade dinâmica do fluido pelo diâmetro do tubo. Então, a Equação 1 pode ser reescrita como: [1][2]
   
   ![Reynolds](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Reynolds.gif)
+ 
   
   **Equação 2**
   
@@ -59,15 +60,18 @@ Grupo 10:
   
   Para o cálculo da velocidade, tem-se que a vazão volumétrica de um escoamento é dada de dois jeitos:
   
-  ![Vazao 1] (https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Vazao%201.gif)
+  ![Vazao 1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Vazao%201.gif)
+  
   **Equação 3**
   
   ![Vazao 2](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Vazao%202.gif)
+  
   **Equação 4**
   
   Igualando as duas equações obtemos:
   
-  ![Velocidade] (https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Velocidade.gif)
+  ![Velocidade](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Velocidade.gif)
+  
   **Equação 5**
   
   Sendo:
