@@ -68,7 +68,7 @@ Grupo 10:
   
   **Equação 4**
   
-  Igualando as duas equações obtemos:
+  Igualando as duas equações, obtemos:
   
   ![Velocidade](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Velocidade.gif)
   
