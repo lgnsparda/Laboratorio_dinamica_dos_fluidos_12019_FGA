@@ -75,8 +75,8 @@ Grupo 10:
   **Equação 5**
   
   Sendo:
-  * ![Volume] (https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Volume.gif) o volume [m³];
-  * ![Tempo] (https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Tempo.gif) o intervalo de tempo [s];
+  * ![Volume](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Volume.gif) o volume [m³];
+  * ![Tempo](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Tempo.gif) o intervalo de tempo [s];
   * A a área do tubo [m²];
   * Q a vazão volumétrica [m³/s].
   
