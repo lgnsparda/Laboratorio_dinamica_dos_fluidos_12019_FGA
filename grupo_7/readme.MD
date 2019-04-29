@@ -45,7 +45,7 @@ O experimento será feito no laboratório de termofluidos da FGA e a execução 
 # •	Membro do grupo responsável pelo procedimento de montagem e execução; #
 •	Todos os membros do grupo serão responsáveis pela montagem e execução do procedimento.
 # • Cronograma estimado para a montagem e realização do experimento completo; #
-•	
+•	Conforme imagem https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_7/Cronogramacerto.jpg
 # •	Os dados a serem medidos e/ou calculados são: #
 •	A diferença de Pressão
 •	A vazão
