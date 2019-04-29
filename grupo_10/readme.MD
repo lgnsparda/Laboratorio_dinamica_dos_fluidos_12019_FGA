@@ -57,6 +57,25 @@ Grupo 10:
   * V a velocidade do escoamento [m/s];
   * D o diâmetro do tubo [m].
   
+  Para o cálculo da velocidade, tem-se que a vazão volumétrica de um escoamento é dada de dois jeitos:
+  
+  ![Vazao 1] (https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Vazao%201.gif)
+  **Equação 3**
+  
+  ![Vazao 2](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Vazao%202.gif)
+  **Equação 4**
+  
+  Igualando as duas equações obtemos:
+  
+  ![Velocidade] (https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Velocidade.gif)
+  **Equação 5**
+  
+  Sendo:
+  * ![Volume] (https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Volume.gif) o volume [m³];
+  * ![Tempo] (https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Tempo.gif) o intervalo de tempo [s];
+  * A a área do tubo [m²];
+  * Q a vazão volumétrica [m³/s].
+  
 ### Procedimento experimental
 
 A montagem do experimento será realizada da seguinte maneira:
