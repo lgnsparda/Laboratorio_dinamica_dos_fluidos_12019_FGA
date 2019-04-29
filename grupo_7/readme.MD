@@ -42,7 +42,7 @@ O experimento será feito no laboratório de termofluidos da FGA e a execução 
 •	As placas de orifício são dispositivos de baixo custo de instalação e manutenção. Sua grande desvantagem reside na perda de carga que impõe ao escoamento (intrusão importante), em função da expansão a jusante da placa. A incerteza de medição desse dispositivo se situa em cerca de 2 a 4 % do fundo de escala.
 # • Estimativa do tempo necessário para a montagem e execução do procedimento; #
 •	Será necessário um ou dois dias no laboratório de termofluidos da UnB-Fga para a montagem e execução do experimento.
-# o	Membro do grupo responsável pelo procedimento de montagem e execução; #
+# •	Membro do grupo responsável pelo procedimento de montagem e execução; #
 •	Todos os membros do grupo serão responsáveis pela montagem e execução do procedimento.
 # • Cronograma estimado para a montagem e realização do experimento completo; #
 •	
