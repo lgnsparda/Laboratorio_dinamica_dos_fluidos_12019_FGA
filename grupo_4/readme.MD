@@ -92,5 +92,6 @@ Onde W é a velocidade angular, Cs; o coeficiente de sustentação-grandeza adim
 
   ALMEIDA, Bruno Seixas Gomes de; SILVA, Robson Coutinho. Aerodinâmica de bolas.Rev. Bras. Ensino Fís.,  São Paulo ,  v. 37, n. 3, p. 3505-1-3505-9,  Sept.  2015 .   Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172015000300505&lng=en&nrm=iso>. acesso em: 29  Abr.  2019.  http://dx.doi.org/10.1590/S1806-11173731789.   
 
- Rotor ship. Disponível em: <https://en.wikipedia.org/wiki/Rotor_ship>. Acesso em: 04 abr. 2019.
+ Rotor ship. Disponível em: <https://en.wikipedia.org/wiki/Rotor_ship>. Acesso em: 04 abr. 2019.  
+ 
  Magnus effect. Disponível em: <https://en.wikipedia.org/wiki/Magnus_effect>. Acesso em: 29 mar. 2019.
