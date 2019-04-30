@@ -64,7 +64,7 @@ Grupo 11:
   
   - Cronograma de execução
     
-  ![Teste de legenda de imagem 04](cronograma.jpg) 
+  ![Teste de legenda de imagem 04](cronograma.JPG) 
   
   ### 2.2 Aquisição de dados:
   
@@ -74,9 +74,9 @@ Grupo 11:
   
   onde:
   
-    - u é a velocidade;
-    - Q é a vazão medida;
-    - A é área de vazão;
+   - u é a velocidade;
+   - Q é a vazão medida;
+   - A é área de vazão;
   
   e com isso chegar no valores do número de Reynolds a partir considerando os dados tabelados da água para o fluído.
   
