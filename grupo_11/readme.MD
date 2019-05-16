@@ -11,10 +11,10 @@ Grupo 11:
   - Turbulência em Fluidos
 
   ### 1.2 Objetivo do experimento:
-  Este experimento tem como objetivo verificar o número de reynolds de um fluído variando a velocidade do fluído.
+  Este experimento tem como objetivo verificar as velocidades de vazão para uma situação determinada para que o fluído seja turbulento, e a partir dos dados de vazão coletados.
   
   ### 1.3 Escopo do experimento:
-  Será trabalhado um fluído newtoniano, neste caso a água, onde será variado a velocidade da água em uma mangueira transparente e com uma seringa será injentado no fluído uma água com corante onde será possível verificar visualmente qual o regime do fluído a parte do regime da água com corante injetada no sistema.
+  Será trabalhado um fluído newtoniano, neste caso a água, onde será variado a velocidade da água em uma mangueira transparente e com uma seringa será injentado no fluído uma água com corante onde será possível verificar visualmente a turbulência no fluído.
 
 ### 2.	Planejamento e Preparação:
 
