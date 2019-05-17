@@ -83,18 +83,21 @@ Grupo 10:
 ### Procedimento experimental
 
 A montagem do experimento será realizada da seguinte maneira:
- - Uma das extremidades de uma mangueira transparente de aproximadamente um metro será acoplada em um reservatório de água;
+ - Uma das extremidades de uma mangueira transparente de aproximadamente dois metros será acoplada em um reservatório de água;
  - Será colocado um registro, de modo a controlar a vazão d'água, na outra extremidade;
- - Em um local entre o meio da mangueira e o reservatório, será injetado, por meio de uma seringa, um corante insolúvel em água para visualizar as linhas de corrente do escoamento;
+ - Será injetado, por meio de uma seringa, um corante insolúvel em água para visualizar as linhas de corrente do escoamento laminar e transitório em uma região da mangueira;
  - Também será colocado no reservatório uma válvula de escape, a fim de manter o nível de água constante.
  
 O tempo estimado para a montagem do experimento é de duas horas.
  
 Após a montagem, serão realizados os cálculos para obter o número de Reynolds. Isso será feito da seguinte maneira:
- - Depois de montar, será aberto o registro para dar uma vazão;
- - Será colocado um recipiente graduado na saída do registro para saber o volume exato de 500 mL, em um tempo que será cronometrado;
- - Com o volume, o tempo e a área do tubo, será calculada a velocidade do escoamento;
- - Utilizando valores tabelados para a viscosidade dinâmica da água e a massa específica da água, será calculado o número de Reynolds para o escoamento.
+ - Depois de montar, o registro será um pouco aberto para dar uma vazão;
+ - Será colocado um recipiente graduado na saída do registro para obter um volume arbitrário de aproximadamente 250 mL;
+ - Será cronometrado o tempo necessário para obter o volume arbitrário;
+ - Também será anotado um palpite inicial sobre o possível tipo de escoamento;
+ - Em seguida, será aberto ainda mais o registro e o passos anteriores serão repetidos;
+ - Com o volume, o tempo e a área do tubo, será calculada a velocidade do escoamento para cada amostra;
+ - Utilizando valores tabelados para a viscosidade dinâmica da água e a massa específica da água, será calculado o número de Reynolds para o escoamento de cada amostra. 
  
  **Membros do grupo responsáveis pela montagem:** Cláudio e Lucas
  
@@ -108,11 +111,11 @@ Após a montagem, serão realizados os cálculos para obter o número de Reynold
 
 ### Determinação dos dados a serem medidos
 
-Após a realização do experimento, será calculo o número de Reynolds para dois escoamentos com velocidades diferentes: um escoamento com uma velocidade baixa e outro com uma velocidade muito maior.
+Após a realização do experimento, será calculado o número de Reynolds para cada amostra realizada, comparando os valores obtidos com o respectivo palpite inicial do grupo. Vale ressaltar que serão o foco do experimento é observar os escoamentos laminar e transitório. 
 
 ### Resultados esperados
 
-Com este experimento, espera-se visualizar as linhas de corrente do escoamento e calcular seu respectivo número de Reynolds. Para o escoamento com uma linha de corrente mais caótica, espera-se que o número de Reynolds esteja acima de 2400, enquanto que para o escoamento mais suave, esteja abaixo de 2000.
+Com este experimento, espera-se visualizar as linhas de corrente do escoamento e calcular seu respectivo número de Reynolds. Para os escoamentos com linhas de corrente mais suaves, espera-se que o número de Reynolds esteja abaixo de 2000, enquanto que para as amostras um pouco mais desordenadas esteja entre 2000 e 2400.
 
 #### Considerações:
 Serão usados as seguintes constantes no experimento: [5]
