@@ -105,7 +105,7 @@ Após a montagem, serão realizados os cálculos para obter o número de Reynold
  
  #### Cronograma
 
-
+![Cronograma](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Cronograma.PNG)
 
 **Tabela 1:** Cronograma do experimento.
 
