@@ -111,7 +111,7 @@ Após a montagem, serão realizados os cálculos para obter o número de Reynold
 
 ### Determinação dos dados a serem medidos
 
-Após a realização do experimento, será calculado o número de Reynolds para cada amostra realizada, comparando os valores obtidos com o respectivo palpite inicial do grupo. Vale ressaltar que serão o foco do experimento é observar os escoamentos laminar e transitório. 
+Após a realização do experimento, será calculado o número de Reynolds para cada amostra realizada, comparando os valores obtidos com o respectivo palpite inicial do grupo. Vale ressaltar que o foco do experimento é observar os escoamentos laminar e transitório. 
 
 ### Resultados esperados
 
