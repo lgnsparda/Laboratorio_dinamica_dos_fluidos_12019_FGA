@@ -11,43 +11,33 @@ Grupo 16:
 * João Pedro Leal Vieira - 17/0036910 
 
 ### Objetivo:
-O experimento tem como objetivo gerar um escoamento turbulento e laminar, apontar as diferenças e demonstrar o que gerou cada caso através de demonstrações matemáticas.
+O experimento tem como objetivo gerar um vortice em um escoamento, mostrar o efeito de vórtice trançado e demonstrar como o mesmo foi gerado através de demonstrações matemáticas.
 
 ### Metodologia:
-Para a realização do experimento, será utilizado um aparato conhecido como dispositivo de Reynolds, figura 1, que será feito pelos próprios alunos. O dispositivo de Reynolds consiste na injeção de um fluido colorido em um escoamento transiente de água.
-
-![exp din](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/dis.png) <br/>
-**Figura 1:** Dispositivo de Reynolds. </br>
-
-Para a montagem dele será utilizado um recipiente grande para armazenamento da água, uma mangueira conectada por uma torneira no reservatório e uma seringa com agulha injetando água com tinta dentro da mangueira. O experimento pode ser visualizado na figura 2. 
+Para a realização do experimento, serão utilizadas duas garrafas pet e uma junção entre as garrafas que será feita com as tampas das mesmas e cola. 
 
 ### Procedimentos:
 
-Escoamento Laminar
-Após a montagem do dispositivo de Reynolds, libera-se a passagem de água do recipiente para o tubo, cronometrando o tempo total do experimento.
-Pressiona-se a seringa contendo corante ligada ao tubo para a melhor visualização de forma a acompanhar escoamento presente.
-Ao terminar a observação, demarcar a altura de água perdida do recipiente junto ao final do tempo no cronômetro para fins de cálculo. 
+Tendo todos os componentes à disposição, preenche-se uma das garrafas com água a temperatura ambiente e conecta-se as duas utilizando a junção como mostra a figura abaixo. Após a montagem, aplica-se movimento circulas as garrafas, afim de que a água escoe da garrafa cheia para a vazia circularmente, dessa forma será possível a visualização de vórtice.
 
-Escoamento Turbulento
-Para continuar o experimento para o escoamento turbulento, fecha-se a passagem de água e preenche-se de água o recipiente novamente de forma a ter maior volume que o utilizado no escoamento laminar. Libera-se a passagem de água do recipiente para o tubo, porém, desta vez, aguardando o fluído ter uma certa velocidade antes de cronometrar e começar o experimento.
-Pressiona-se a seringa contendo corante ligada ao tubo para a melhor visualização de forma a acompanhar escoamento presente.
-Ao terminar a observação, demarcar a altura de água perdida do recipiente junto ao final do tempo no cronômetro para fins de cálculo.
-
-Figura 3
+Figura 1
 	
-Para concluir o experimento utilizaremos a equação da vazão e a equação do número de Reynolds a fim de aferir o caráter do escoamento, ou seja, laminar ou turbulento. Para tanto é necesária a utilização das seguintes equações:
 
 ### Referâncias Bibliográficas:
 
-[1] MACKENZIE. Escoamento laminar e escoamento turbulento. Disponível em: <http://meusite.mackenzie.com.br/eangelo/Exp_Reynolds.pdf>. Acesso em 13 de Abril de 2019.
-
-[2] ALGETEC. Bancada didática para experimento de Reynolds. Disponível em: <http://www.algetec.com.br/index.php/pt-BR/produtos/product/21-bancada-para-experimento-de-reynolds>. Acesso em 13 de Abril de 2019.
-
-[3] SILVA, Ana Paula Vieira. Experiência de Reynolds. Maceió, 2014. Disponível em: <https://www.ebah.com.br/content/ABAAAgcEwAL/experiencia-reynolds>. Acesso em 13 de Abril de 2019.
-
-
 ### 2.	Planejamento e Preparação:
 
+### Procedimentos experimentais
+ Por se tratar de um experimento de fácil montagem e execução, será necessário apenas duas horas para sua montagem e um dia para esperar a vedação de durepox secar. No dia seguinte, o experimento pode ser executado em menos de uma hora. Os membros responsáveis pelo procedimento de montagem e execução serão Isla Marques e João Pedro Leal Vieira.
+ O experimento será montado no dia 03 de maio e executado no dia 05 de abril. Na execução do experimento será observado o vórtice gerado e se houve formação de vórtice trançado.
+### Resultados esperados
+Sabendo da relação entre vórtice e a velocidade angular das partículas do fluido e tendo-se definido o conceito de vórtice como medida de rotação de um escoamento, faremos neste experimento com que seja possível a visualização de um escoamento após o recipiente receber uma certa força centrípeta que irá alterar a vorticidade do escoamento e mostrará o feito de vórtice trançado.
+
+Fig 2
+
+
+Para o efeito a ser tratado, a imagem acima explicita o comportamento da água sob efeito do vórtice trançado. 
+    Portanto, o resultado e análise final do experimento sugere um comportamento próximo ao mostrado na imagem 1
 ### 3.	Execução:
 
 ### 4.	Análise e conclusão:
