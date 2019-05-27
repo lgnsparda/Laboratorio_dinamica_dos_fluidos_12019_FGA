@@ -6,14 +6,17 @@ Grupo 16:
 ### 1.	Início:
  
 ### Alunos:
-* Thaís Gomes de Melo - 17/0028046
+* Thaís Gomes de Melo - 17/0022749
 * Isla Kalleny Marques Brandão - 17/0059308
 * João Pedro Leal Vieira - 17/0036910 
 
 ### Objetivo:
-O experimento tem como objetivo gerar um vortice em um escoamento, mostrar o efeito de vórtice trançado e demonstrar como o mesmo foi gerado através de demonstrações matemáticas.
+O tema escolhido foi vorticidade e o experimento tem por objetivo demonstrar a formação de vórtice e justificar a geração do mesmo através de demonstrações matemáticas, além da possível formação de vórtice trançado, obtendo resultados visuais e experimentais.
 
-### Metodologia:
+### Escopo:
+
+A vorticidade mede a rotação de parcelas de ar muito pequenas. Uma parcela tem vorticidade quando gira em seu eixo enquanto se move ao longo de seu caminho. Uma parcela que não gira em seu eixo é considerada como tendo vorticidade zero. O eixo de rotação ou rotação pode se estender em qualquer direção, mas, para nossos propósitos, estamos principalmente preocupados com o movimento de rotação em torno de um eixo que é perpendicular à superfície da Terra. Por exemplo, podemos jogar um pedaço de madeira em um riacho e observar seu progresso. O pedaço vai se mover para baixo com o fluxo de água, mas pode ou não girar enquanto se move para baixo. Se girar, a madeira terá vorticidade. Quando tentamos isolar a causa do giro, descobrimos que duas propriedades do fluxo de água fazem o pedaço girar: (1) Se o fluxo de água está se movendo mais rápido em um lado da peça do que o outro, isso é cisalhamento da corrente; (2) se o leito do riacho se curva, o caminho tem curvatura.Podemos examinar este ponto e dizer que a parcela tem ou não vorticidade. No entanto, para esta discussão, parcelas maiores terão que ser usadas para visualizar mais facilmente os efeitos. Na verdade, uma parcela na atmosfera tem três movimentos rotacionais ao mesmo tempo: (1) rotação da parcela em torno de seu próprio eixo (cisalhamento), (2) rotação da parcela em torno do eixo de um sistema de pressão (curvatura) e (3) rotação da parcela devido à rotação atmosférica. A soma dos dois primeiros componentes é conhecida como vorticidade relativa, e a soma total dos três é conhecida como vorticidade absoluta. [1]
+
 Para a realização do experimento, serão utilizadas duas garrafas pet e uma junção entre as garrafas que será feita com as tampas das mesmas e cola. 
 
 ### Procedimentos:
