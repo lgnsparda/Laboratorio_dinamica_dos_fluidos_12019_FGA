@@ -32,9 +32,13 @@ Figura 1
 ### Referâncias Bibliográficas:
 
 **[1]** VORTICITY. 2014. Disponível em: <http://meteorologytraining.tpub.com>. Acesso em: 28 abr. 2019.
+
 **[2]** VÓRTICE. 2013. Disponível em: <https://pt.wikipedia.org/wiki>. Acesso em: 27 abr. 2019.
 
 ### 2.	Planejamento e Preparação:
+
+### Introdução teórica 
+
 
 ### Procedimentos experimentais
  Por se tratar de um experimento de fácil montagem e execução, será necessário apenas duas horas para sua montagem e um dia para esperar a vedação de durepox secar. No dia seguinte, o experimento pode ser executado em menos de uma hora. Os membros responsáveis pelo procedimento de montagem e execução serão Isla Marques e João Pedro Leal Vieira.
