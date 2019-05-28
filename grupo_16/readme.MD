@@ -41,6 +41,10 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 - Durepox;
 - Água.
 
+### Procedimentos experimentais
+Por se tratar de um experimento de fácil montagem e execução, será necessário apenas duas horas para sua montagem e um dia para esperar a vedação de durepox secar. No dia seguinte, o experimento pode ser executado em menos de uma hora. Os membros responsáveis pelo procedimento de montagem e execução serão Isla Marques e João Pedro Leal Vieira. O experimento será montado no dia 03 de maio e executado no dia 05 de abril. Na execução do experimento será observado o vórtice gerado e se houve formação de vórtice trançado.
+
+
 
 ### Resultados esperados
 Sabendo da relação entre vórtice e a velocidade angular das partículas do fluido e tendo-se definido o conceito de vórtice como medida de rotação de um escoamento, faremos neste experimento com que seja possível a visualização de um escoamento após o recipiente receber uma certa força centrípeta que irá alterar a vorticidade do escoamento e mostrará o feito de vórtice trançado.
