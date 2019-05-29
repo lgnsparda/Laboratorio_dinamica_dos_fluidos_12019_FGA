@@ -35,7 +35,13 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 
 ### Introdução teórica 
 Define-se vorticidade como uma medida da rotação do escoamento, matematimaticamente tem-se que:
+![Equacao1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Equacao1.PNG)<br/>
+**Equação 1** </br><br/>
 
+Onde:
+- ![vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort.PNG) é a vorticidade;
+- ![ômega](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/velangular.PNG) é a velocidade angular;
+- ![delta]()
 
 ### Materiais necessários:
 - Duas Garrafas pet;
@@ -58,8 +64,6 @@ Sabendo da relação entre vórtice e a velocidade angular das partículas do fl
 
 ![figura2](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Fig2.png) <br/>
 **Figura 2** </br><br/>
-Figura 2
-
 
 Para o efeito a ser tratado, a imagem acima explicita o comportamento da água sob efeito do vórtice trançado. Portanto, o resultado e análise final do experimento sugere um comportamento próximo ao mostrado na figura 2.
 
