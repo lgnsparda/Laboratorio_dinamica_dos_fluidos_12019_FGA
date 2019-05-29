@@ -60,6 +60,11 @@ Figura 2
 
 
 Para o efeito a ser tratado, a imagem acima explicita o comportamento da água sob efeito do vórtice trançado. Portanto, o resultado e análise final do experimento sugere um comportamento próximo ao mostrado na figura 2.
+
+### Cronograma
+Para realização do experimento, as seguintes tarefas são necessárias: obtenção dos materiais, preparação do dispositivo (montagem), execução e análise. Portanto, a tabela abaixo explicita a duração de cada tarefa, data da realizaação e membro resposável.
+
+
     
 ### 3.	Execução:
 
