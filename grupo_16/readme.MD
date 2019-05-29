@@ -56,6 +56,8 @@ Por se tratar de um experimento de fácil montagem e execução, será necessár
 ### Resultados esperados
 Sabendo da relação entre vórtice e a velocidade angular das partículas do fluido e tendo-se definido o conceito de vórtice como medida de rotação de um escoamento, faremos neste experimento com que seja possível a visualização de um escoamento após o recipiente receber uma certa força centrípeta que irá alterar a vorticidade do escoamento e mostrará o feito de vórtice trançado.
 
+![figura2](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Fig2.png) <br/>
+**Figura 2** </br><br/>
 Figura 2
 
 
