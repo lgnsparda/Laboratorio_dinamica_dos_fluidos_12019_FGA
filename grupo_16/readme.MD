@@ -35,7 +35,9 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 
 ### Introdução teórica 
 Define-se vorticidade como uma medida da rotação do escoamento, matematimaticamente tem-se que:
-![Equacao1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Equacao1.PNG)**Equação 1**</br><br/>
+
+![Equacao1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Equacao1.PNG)
+**Equação 1**
 
 Onde:
 - ![vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort.PNG) é a vorticidade;
@@ -62,8 +64,8 @@ Por se tratar de um experimento de fácil montagem e execução, será necessár
 ### Resultados esperados
 Sabendo da relação entre vórtice e a velocidade angular das partículas do fluido e tendo-se definido o conceito de vórtice como medida de rotação de um escoamento, faremos neste experimento com que seja possível a visualização de um escoamento após o recipiente receber uma certa força centrípeta que irá alterar a vorticidade do escoamento e mostrará o feito de vórtice trançado.
 
-![figura2](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/trancado.PNG) <br/>
-**Figura 2**: Vórtice trançado. </br><br/>
+![figura2](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/trancado.PNG)
+**Figura 2**: Vórtice trançado. 
 
 Para o efeito a ser tratado, a imagem acima explicita o comportamento da água sob efeito do vórtice trançado. Portanto, o resultado e análise final do experimento sugere um comportamento próximo ao mostrado na figura 2.
 
