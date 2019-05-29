@@ -36,12 +36,12 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 ### Introdução teórica 
 Define-se vorticidade como uma medida da rotação do escoamento, matematimaticamente tem-se que:
 
-![Equacao1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Equacao1.PNG)
-**Equação 1**
+![Equacao1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Equacao1.PNG)<br/>
+**Equação 1**<br/><br/>
 
 Onde:
 - ![vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort.PNG) é a vorticidade;
-- ![ômega](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/velangular.PNG) é a velocidade angular;
+-![ômega](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/velangular.PNG) é a velocidade angular;
 - ![delta](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/rotacional.PNG) é rotacional da velocidade;
 
 ### Materiais necessários:
@@ -54,8 +54,8 @@ Onde:
 
 Tendo todos os componentes à disposição, preenche-se uma das garrafas com água a temperatura ambiente e conecta-se as duas utilizando a junção como mostra a figura abaixo. Após a montagem, aplica-se movimento circulas as garrafas, afim de que a água escoe da garrafa cheia para a vazia circularmente, dessa forma será possível a visualização de vórtice.
 
-![disp](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/dispos.PNG)
-**Figura 1: Dispositivo para obeservação e análise de vórtice.
+![disp](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/dispos.PNG)<br/>
+**Figura 1**: Dispositivo para obeservação e análise de vórtice.<br/><br/>
 
 Por se tratar de um experimento de fácil montagem e execução, será necessário apenas duas horas para sua montagem e um dia para esperar a vedação de durepox secar, totalizando aproximadamente dois dias de montagem. Em seguida, o experimento pode ser executado em menos de uma hora. Os membros responsáveis pelo procedimento de montagem e execução serão Isla Marques e João Pedro e Thaís Gomes. O experimento será montado do dia 30 ao dia 31 de Maio e executado no dia 05 de . Na execução do experimento será observado o vórtice gerado e se houve formação de vórtice trançado.
 
@@ -64,16 +64,16 @@ Por se tratar de um experimento de fácil montagem e execução, será necessár
 ### Resultados esperados
 Sabendo da relação entre vórtice e a velocidade angular das partículas do fluido e tendo-se definido o conceito de vórtice como medida de rotação de um escoamento, faremos neste experimento com que seja possível a visualização de um escoamento após o recipiente receber uma certa força centrípeta que irá alterar a vorticidade do escoamento e mostrará o feito de vórtice trançado.
 
-![figura2](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/trancado.PNG)
-**Figura 2**: Vórtice trançado. 
+![figura2](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/trancado.PNG)<br/>
+**Figura 2**: Vórtice trançado.<br/><br/>
 
 Para o efeito a ser tratado, a imagem acima explicita o comportamento da água sob efeito do vórtice trançado. Portanto, o resultado e análise final do experimento sugere um comportamento próximo ao mostrado na figura 2.
 
 ### Cronograma
 Para realização do experimento, as seguintes tarefas são necessárias: obtenção dos materiais, preparação do dispositivo (montagem), execução e análise. Portanto, a tabela abaixo explicita a duração de cada tarefa, data da realizaação e membro resposável.
 
-![cronograma](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/nvCronograma.PNG)
-**Figura 3**:Cronograma
+![cronograma](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/nvCronograma.PNG)<br/>
+**Figura 3**:Cronograma.<br/><br/>
     
 ### 3.	Execução:
 
