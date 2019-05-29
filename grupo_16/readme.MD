@@ -35,7 +35,7 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 
 ### Introdução teórica 
 Define-se vorticidade como uma medida da rotação do escoamento, matematimaticamente tem-se que:
-![Equacao1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Equacao1.PNG)<br/>**Equação 1*</br><br/>
+![Equacao1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Equacao1.PNG)**Equação 1**</br><br/>
 
 Onde:
 - ![vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort.PNG) é a vorticidade;
@@ -52,9 +52,10 @@ Onde:
 
 Tendo todos os componentes à disposição, preenche-se uma das garrafas com água a temperatura ambiente e conecta-se as duas utilizando a junção como mostra a figura abaixo. Após a montagem, aplica-se movimento circulas as garrafas, afim de que a água escoe da garrafa cheia para a vazia circularmente, dessa forma será possível a visualização de vórtice.
 
-Figura 1
+![disp](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/dispos.PNG)
+**Figura 1: Dispositivo para obeservação e análise de vórtice.
 
-Por se tratar de um experimento de fácil montagem e execução, será necessário apenas duas horas para sua montagem e um dia para esperar a vedação de durepox secar. No dia seguinte, o experimento pode ser executado em menos de uma hora. Os membros responsáveis pelo procedimento de montagem e execução serão Isla Marques e João Pedro Leal Vieira. O experimento será montado no dia 03 de maio e executado no dia 05 de abril. Na execução do experimento será observado o vórtice gerado e se houve formação de vórtice trançado.
+Por se tratar de um experimento de fácil montagem e execução, será necessário apenas duas horas para sua montagem e um dia para esperar a vedação de durepox secar, totalizando aproximadamente dois dias de montagem. Em seguida, o experimento pode ser executado em menos de uma hora. Os membros responsáveis pelo procedimento de montagem e execução serão Isla Marques e João Pedro e Thaís Gomes. O experimento será montado do dia 30 ao dia 31 de Maio e executado no dia 05 de . Na execução do experimento será observado o vórtice gerado e se houve formação de vórtice trançado.
 
 
 
@@ -69,7 +70,8 @@ Para o efeito a ser tratado, a imagem acima explicita o comportamento da água s
 ### Cronograma
 Para realização do experimento, as seguintes tarefas são necessárias: obtenção dos materiais, preparação do dispositivo (montagem), execução e análise. Portanto, a tabela abaixo explicita a duração de cada tarefa, data da realizaação e membro resposável.
 
-![cronograma](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/cronograma.PNG)**Figura 3**:Cronograma
+![cronograma](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/nvCronograma.PNG)
+**Figura 3**:Cronograma
     
 ### 3.	Execução:
 
