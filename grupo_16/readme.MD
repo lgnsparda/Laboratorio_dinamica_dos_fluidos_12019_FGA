@@ -37,12 +37,16 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 Define-se vorticidade como uma medida da rotação do escoamento, matematimaticamente tem-se que:
 
 ![Equacao1](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Equacao1.PNG)<br/>
-**Equação 1**<br/><br/>
+**Equação 1** [1]<br/><br/>
 
 Onde:
 - ![vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort.PNG) é a vorticidade;
 - ![ômega](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/velangular.PNG) é a velocidade angular;
 - ![delta](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/rotacional.PNG) é rotacional da velocidade;
+
+Tecnicamente um vórtice pode ser qualquer escoamento circular ou rotacional que possui vorticidade. Nos estudos atmosféricos, vorticidade é uma propriedade que caracteriza a rotacionalidade em grande escala das massas de ar. Se a circulação atmosférica é aproximadamente horizontal, a vorticidade é aproximadamente vertical. [2]
+
+A direção de rotação que um vórtice adota, sentido horário ou anti-horário, depende da força que o provocou. Em condições autônomas, sofre influência inercial da rotação do planeta, chamada força de Coriolis, e faz com que os vórtices naturais do hemisfério norte girem no sentido anti-horário, e os do hemisfério sul no sentido horário. [2]
 
 ### Materiais necessários:
 - Duas Garrafas pet;
@@ -74,6 +78,12 @@ Para realização do experimento, as seguintes tarefas são necessárias: obten�
 
 ![cronograma](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/nvCronograma.PNG)<br/>
 **Tabela 1**: Cronograma.<br/><br/>
+
+### Referências bibliográficas
+
+**[1]** NOLETO, Luciano; OLIVEIRA, Taygoara. DINAMICA DOS FLUIDOS: NOTAS DE AULA. 2019. 147 f. Curso de Engenharia, Faculdade Unb Gama, Universidade de BrasÍilia, Brasília, 2019. Disponível em: <https://aprender.ead.unb.br/pluginfile.php/166074/mod_resource/content/9/dinflu.pdf>. Acesso em: 24 fev. 2019
+
+**[2]** VÓRTICE. 2013. Disponível em: <https://pt.wikipedia.org/wiki>. Acesso em: 24 Abr. 2019.
     
 ### 3.	Execução:
 
