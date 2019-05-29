@@ -41,7 +41,7 @@ Define-se vorticidade como uma medida da rotação do escoamento, matematimatica
 
 Onde:
 - ![vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort.PNG) é a vorticidade;
--![ômega](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/velangular.PNG) é a velocidade angular;
+- ![ômega](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/velangular.PNG) é a velocidade angular;
 - ![delta](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/rotacional.PNG) é rotacional da velocidade;
 
 ### Materiais necessários:
