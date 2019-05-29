@@ -34,6 +34,8 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 - Grupo 16: Vorticidade 
 
 ### Introdução teórica 
+Define-se vorticidade como uma medida da rotação do escoamento, matematimaticamente tem-se que:
+
 
 ### Materiais necessários:
 - Duas Garrafas pet;
@@ -42,6 +44,11 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 - Água.
 
 ### Procedimentos experimentais
+
+Tendo todos os componentes à disposição, preenche-se uma das garrafas com água a temperatura ambiente e conecta-se as duas utilizando a junção como mostra a figura abaixo. Após a montagem, aplica-se movimento circulas as garrafas, afim de que a água escoe da garrafa cheia para a vazia circularmente, dessa forma será possível a visualização de vórtice.
+
+Figura 1
+
 Por se tratar de um experimento de fácil montagem e execução, será necessário apenas duas horas para sua montagem e um dia para esperar a vedação de durepox secar. No dia seguinte, o experimento pode ser executado em menos de uma hora. Os membros responsáveis pelo procedimento de montagem e execução serão Isla Marques e João Pedro Leal Vieira. O experimento será montado no dia 03 de maio e executado no dia 05 de abril. Na execução do experimento será observado o vórtice gerado e se houve formação de vórtice trançado.
 
 
