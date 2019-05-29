@@ -73,7 +73,7 @@ Para o efeito a ser tratado, a imagem acima explicita o comportamento da água s
 Para realização do experimento, as seguintes tarefas são necessárias: obtenção dos materiais, preparação do dispositivo (montagem), execução e análise. Portanto, a tabela abaixo explicita a duração de cada tarefa, data da realizaação e membro resposável.
 
 ![cronograma](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/nvCronograma.PNG)<br/>
-**Figura 3**:Cronograma.<br/><br/>
+**Tabela 1**: Cronograma.<br/><br/>
     
 ### 3.	Execução:
 
