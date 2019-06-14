@@ -60,20 +60,20 @@ Todos os membros do grupo estavam envolvidos com as etapas de montagem e execuç
   		Cola branca.
 Montagem:
 1º- As garrafas foram cortadas pela metade, e estas foram utilizadas e unidas com a massa epoxi. Dois furos foram feitos, um na junção das bocas das garrafas e outro no corpo de uma das garrafas;
-grupo_9/IMG-20190614-WA0060.jpg
-grupo_9/IMG-20190614-WA0058.jpg
+https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/bdc24f5dbf65b0e5d862b1b72dc23c3873ce8d35/grupo_9/IMG-20190614-WA0060.jpg
+https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/bdc24f5dbf65b0e5d862b1b72dc23c3873ce8d35/grupo_9/IMG-20190614-WA0058.jpg
 Imagens 1 e 2: Montagem do experimento.
 2º- Após esperar a massa epoxi secar, a mangueira transparente foi colada nos furos feitos e preenchida com água;
-grupo_9/IMG-20190614-WA0059.jpg
+https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/bdc24f5dbf65b0e5d862b1b72dc23c3873ce8d35/grupo_9/IMG-20190614-WA0059.jpg
 Imagem 3: Montagem do experimento.
 3º- Depois de todas as partes secas e firmes, o experimento foi posicionado e colado em sua base;
 4º- Na base, com cola branca, colocamos a folha milimetrada que serviu de medida para observar o deslocamento da água devido a diferença de pressão que foi gerada com o secador de cabelo. Para gerar esse fluxo de ar com menos interferência, a boca do secador foi envolvido com toalha pequena para que a entrada do experimento fosse vetada.
 - Execução:
 Com o experimento montado, o secador foi ligado e a água na mangueira se deslocou, mostrando uma diferença de altura, devido a diferença de pressão no Tubo Venturi.
 As imagens abaixo ilustram a diferença de altura medida:
-grupo_9/IMG-20190614-WA0063.jpg
+https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/bdc24f5dbf65b0e5d862b1b72dc23c3873ce8d35/grupo_9/IMG-20190614-WA0063.jpg
 Imagem 4: Manômetro sem fluxo de ar no Tubo Venturi.
-grupo_9/IMG-20190614-WA0064.jpg
+https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/bdc24f5dbf65b0e5d862b1b72dc23c3873ce8d35/grupo_9/IMG-20190614-WA0064.jpg
 Imagem 5: Manômetro com fluxo de ar no Tubo Venturi.
 - Medidas:
 As medidas necessárias para cálculos futuros foram: os diâmetros da secção maior e da secção menor da garrafa, onde o tubo transparente estava conectado, e a variação de altura da água observada dos dois lados da mangueira transparente.
