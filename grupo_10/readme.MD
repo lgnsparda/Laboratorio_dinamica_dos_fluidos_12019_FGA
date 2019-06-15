@@ -133,7 +133,9 @@ Serão usados as seguintes constantes no experimento: [5]
 * Mateus de Alencar - 17/0018849
 
 **Membro do grupo responsável pela montagem:** Mateus de Alencar.
+
 **Membros do grupo responsáveis pela realização do experimento:** Cláudio, Lucas e Mateus.
+
 ### Materiais
 * 3 torneiras de água;
 * 2 metros de mangueira transparente;
@@ -150,12 +152,32 @@ Serão usados as seguintes constantes no experimento: [5]
 #### Montagem do ladrão d'água:
   Inicialmente, furou-se o balde na parte superior para montar o ladrão d'água, que serve para limitar o nível de água: quando a água chegasse a uma certa altura, ela seria despejada meio do ladrão para um outro reservatório, de modo a evitar o transbordamento.
   Depois de furado o balde, colocou-se um adapatador para colocar um registro (torneira), cuja extremidade estava conectada a uma mangueira de quintal para facilitar o despejo de água. Também tinha uma presilha na conexão torneira-mangueira para evitar possíveis vazamentos.  
+  
+ ![Ladrão](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Ladr%C3%A3o.jfif)
+  
+  
+  **Figura 2:** Ladrão
+  
+  
 #### Montagem do tubo:
   Após a montagem do ladrão, furou-se novamente o balde na parte inferior e colocou-se um outro adaptador. Prendeu-se, com presilhas, uma extremidade da mangueira transparente de 2 metros a um registro e a outra foi conectada em outra torneira que estava no adaptador.
+  
+  ![Tubo](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Tubo.jfif)
+  
+  **Figura 3:** Tubo no qual o experimento será realizado
+  
+   
 #### Realização do experimento:
   Após a montagem, realizou-se o experimento. Colocou-se um recipiente com volume graduado em uma extremidade da mangueira, abriu-se a torneira do adaptador debaixo e fechou-se o registro que não estava conectado no adaptador. Com a torneira fechada, ligou-se uma mangueira de quintal para encher o balde até chegar na altura do ladrão, cuja torneira estava aberta. 
   Logo em seguida, abriu-se um pouco o registro embaixo e foi cronometrado o tempo necessário para se encher 500mL do recipiente. Depois, com o auxílio da seringa, injetou-se o corante (tinta) no tubo e observou-e as linhas de corrente. Com base nos conhecimentos adquiridos em sala de aula, o grupo deu um palpite sobre qual seria o possível tipo de escoamento observado.
   Por fim, abriu-se mais um pouco o registro da mangueira e as demais etapas foram repetidas.
+  
+  ![Experimento](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Experimento.jfif)
+  
+  
+  **Figura 4:** Experimento com todas as componente montado
+  
+  
 #### Dados medidos:
   Para este experimento, sabendo o diâmetro do tubo, anotou-se o tempo e o volume preenchido para calcular a velocidade do escoamento, de acordo com a Equação 5 e, em seguida, calcular o número de Reynolds para o escoamento, de acordo com a Equação 2.
   A pressão manométrica também foi medida, uma vez que a pressão tem grande influência sobre a velocidade do escoamento:
