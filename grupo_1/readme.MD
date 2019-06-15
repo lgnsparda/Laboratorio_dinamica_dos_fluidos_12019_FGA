@@ -69,20 +69,28 @@ Após a colagem das duas garrafas foram feitos quatro furos, alinhados, na super
 Em um dos furos, foi posicionado o Tubo de Pitot, utilizando-se cola quente para fixar o mesmo de frente para o sentido do escoamento, produzindo dessa forma, a condição necessária para se atingir a pressão de estagnação, uma vez que, na quina do tubo, a velocidade do escoamento será igual a zero.
 Foram utilizadas duas mangueiras de aproximadamente 0,4 m de comprimento. A primeira, teve uma de suas extremidades fixada na região de maior área e a outra na de menor área de forma a se medir a variação de pressão nas duas regiões do Tubo de Venturi. Já a outra mangueira, teve uma de suas extremidades fixada na região de maior área, posterior ao estrangulamento e a outra fixada ao Tubo de Pitot.
 Por fim, a estrutura foi fixada numa placa de papelão, com a utilização de braçadeiras, de forma a facilitar a visualização dos tubos.
+
 ![Tubo de Venturi ](https://lh3.googleusercontent.com/Pep-S2iTaIP0c2klUVKAoe5fRNf0JC4r92pCFFGpBabUdhlIg1FKZ_fb-kzOI2mPkHbTqF6cMMvIzA)
+
 Imagem 01 - Estrutura Montada para o Tubo de Venturi
+
 ![tubo de Pitot e Mangueira](https://lh3.googleusercontent.com/mlH89eh4NIWY7hpgt5_4QnVT3w3tUB2nRlhy6e8LwAAjBDIn5n988lFv1p1HOE_8qGJiaau5kiFZgw)
+
 Imagem 02 - Conexão tubo de Pitot e Mangueira
 
 Execução:
 De forma a gerar um fluxo de ar no Tubo de Venturi para se obter as medições, foi utilizado um secador de cabelos de XXW, posicionado na entrada do tubo e vedado com um pano para minimizar a perda de fluxo. Assim, foi possível visualizar a diferença de pressão nas duas regiões do tubo e o funcionamento do Tubo de Pitot, uma vez que o mesmo provocou uma diferença de altura na água dentro da mangueira. Após uma espera de 5 segundos para a obter o desenvolvimento pleno do escoamento, foram tomadas as medidas.
+
 ![Medição Tubo de Venturi](https://lh3.googleusercontent.com/7Mv2FdoFZGZEmjVcryScObwDF4oGTMurlCv-2wGFsDvnMmasXq5slobzxtdXCTrqD3FeES6U0Dbvlg)
+
 Imagem 03 - Medição Tubo de Venturi
 
 ![Medição Pitot](https://lh3.googleusercontent.com/HUlYvoaGfsstDmz8v3gKkTbfif_Cbvt2QSNJ4xW8Eq8LEugqdJDzB2oq5N69r7V2O1GktMObIbLj6Q)
+
 Imagem 04 - Medição Tubo de Pitot
 
 ![Regiões Pitot](https://lh3.googleusercontent.com/QWs6Fv0eRSIDPlFdwGh7_sg4zUqLVYZcEiSSfKa8wiAi0_3te-E76OXLAgJAIJTklG6zddSwUL-7iQ)
+
 Imagem 05 - Definição das regiões do Tubo
 
 
@@ -91,7 +99,9 @@ Conforme previsto na segunda etapa do relatório, os dados medidos na realizaç�
 Diâmetro da região 1:  8,6 cm
 Diâmetro da região 2:  2,0 cm
 Variações de altura da coluna d'água nos tubos:
+
 ![](https://lh3.googleusercontent.com/heXx9igNqefwSe31C0hn0d7QQQW3lW6op5-xlMJLIdv-AvaXv0DgOmSq-n1JZ0KaHHyS65PcKOhmRg)
+
 Tabela 01 - Dados obtidos na leitura das mangueiras
 
 # 4.	Análise e conclusão:
