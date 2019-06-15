@@ -175,7 +175,7 @@ Espera-se obter valores de coeficiente de vazão próximos aos valores fornecido
 
 ### 3.	Execução:
 
--**Correções necessárias**<br>
+- **Correções necessárias**<br>
 
 Analisando os procedimentos numéricos para a obtenção dos valores de Coeficiente de Vazão e de número de Reynolds é possível observar que existe a necessidade de se obter os valores diâmetro do orifício da placa, da pressão à montante e à jusante da placa, além dos valores dos coeficientes de correção. 
 Os coeficientes de correção são necessários pois, os valores calculados relacionados a posição 2, ou seja, velocidade, pressão, área na posição 2, estão relacionadas a posição da "vena contracta" ou seja, a menor área de contração do escoamento. Essa posição é dificilmente calculada, sendo estimados coeficientes com o intuito de efetuar correções nos parâmetros hidráulicos.São utilizados coeficientes de velocidade, de contração e de vazão.
