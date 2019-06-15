@@ -90,4 +90,33 @@ Após a realização do experimento espera-se por meio da análise das imagens o
 
 ### 3.	Execução:
 
+A execução do experimento foi realizada dentro da sala S9 da Faculdade UnB-Gama. Estavam presentes todos os 3 integrantes do grupo. Os integrantes Dérick Fernando Oliveira e Charles Henrique dos Santos foram responsáveis pela montagem e lançamento do planador de Magnus, enquanto o integrante Rodrigo Ribeiro responsabilisou-se pela filmagem. <br/><br/>
+
+### Procedimentos:
+
+![Material utilizado](Material_utilizado.jpg)<br/>
+
+Utilizando 2 copos de isopor e uma fita adesiva, o planador é construído e elásticos que dão a força inicial para a sua navegação são enrolados em volta de sua garganta.  <br/><br/>
+
+![Planador Magnus](Planador_Magnus.jpg)<br/>
+
+Características do planador: <br/><br/>
+
+* Volume do planador: 0,480 m³;
+* Peso do planador: 5g;
+* Diâmetros mínimo e máximo: 5cm e 8cm. <br/><br/>
+
+Parâmetros que impactam a trajetória: <br/><br/>
+
+* Peso: Se o peso do planador for muito alto, a força de sustentação será menor;
+* Velocidade inicial: Se a velocidade inicial for baixa, a aceleração será menor;
+* Material do planador: Muda o atrito entre o ar e o planador;
+* Velocidade angular: Muda as forças que atuam sobre o planador. <br/><br/>
+
+O planador, então, é segurado no ar com seus elásticos esticados. A câmera começa a filmar e o planador é solto no ar, empurrado pela força elástica, realizando uma trajetória não-parabólica. <br/><br/>
+
+Utilizando a filmagem produzida, é feito um gráfico da trajetória do planador de Magnus por meio do programa Tracker.
+
+![Trajetória do planador](Trajeto_planador.jpg)<br/>
+
 ### 4.	Análise e conclusão:
