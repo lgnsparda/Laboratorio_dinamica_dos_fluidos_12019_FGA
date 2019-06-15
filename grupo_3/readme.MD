@@ -325,6 +325,12 @@ Como a pressão possui certo desvio padrão, calculamos a velocidade final para 
 
 
 ### 4.	Análise e conclusão:
+### Alunos:
+* Alexandre Alencar de Melo - 17/0028046
+* Lara Emilly Pereira Santos - 17/0070352 
+
+### Apresentação dos dados medidos
+
 
 ### Referências:
 
