@@ -278,7 +278,7 @@ Esperamos, matematicamente, obter uma velocidade entre as velas maior do que a v
 * Funil de plástico;
 * Super cola Tekbond. <br/>
 
-![MONTAGEM TUBO](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/TUBO%20EM%20U%20MONTADO.jpeg) <br/>
+![MONTAGEM TUBO](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/TUBO%20EM%20U%20MONTADO_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
 **Figura 1:** Montagem da parede de mdf e fixação da mangueira em U. <br/><br/>
 
 
@@ -289,9 +289,9 @@ Esperamos, matematicamente, obter uma velocidade entre as velas maior do que a v
 * Super cola Tekbond;
 * Pedaço de mangueira. <br/>
 
-![velas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/VELAS%20POSICIONADAS.jpeg) <br/>
+![velas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/VELAS%20POSICIONADAS_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
 **Figura 2.1:** Posicionamento das velas (visão lateral). <br/><br/>
-![velas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/VELAS%20POSICIONADAS%202.jpeg) <br/>
+![velas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/VELAS%20POSICIONADAS%202_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
 **Figura 2.2:** Posicionamento das velas (visão superior). <br/><br/>
 
 ### Procedimentos
@@ -312,9 +312,9 @@ Para cada diferença obtida foi calculada uma pressão, para depois obtermos um 
 Levamos o suporte com as velas para uma sala com pouquíssimo fluxo de vento, com janelas e portas fechadas, a fim de não haver interferência no resultado do experimento e podermos considerar a velocidade inicial nula. <br/>
 Acendemos as velas, posicionamos o pedaço de mangueira entre as velas (Figura 2.1), assopramos com a mesma constância que sopramos no tubo em U e observamos o fenômeno das chamas horizontais, contastando, de forma simples, o Princípio de Bernoulli, como esperávamos. <br/>
 
-![chamas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/chamas%20verticais.jpeg) <br/>
+![chamas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/chamas%20verticais_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
 **Figura 3:** Chamas verticais, sem a presença do fluxo de ar entre elas. <br/><br/>
-![chamas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/chamas%20horizontais.jpeg) <br/>
+![chamas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/chamas%20horizontais_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
 **Figura 4:** Fenômeno das chamas horizontais, com a presença do fluxo de ar entre elas. <br/><br/>
 
 **Parte 5:** Cálculo da velocidade do fluxo de ar entre as velas: <br/>
