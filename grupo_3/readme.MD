@@ -263,10 +263,10 @@ Esperamos, matematicamente, obter uma velocidade entre as velas maior do que a v
 ### Divisão de tarefas
 
 **Membro do grupo responsável pela montagem do experimento:** Alexandre Alencar <br/>
-**Membros do grupo responsáveis pela execução:** Alexandre Alencar e Lara Santos <br/><br/>
+**Membros do grupo responsáveis pela execução:** Alexandre Alencar e Lara Santos <br/>
 
 ### Materiais 
-**Parte 1:** Montagem da parede de pdf e fixação da mangueira. <br/><br/>
+**Parte 1:** Montagem da parede de pdf e fixação da mangueira. <br/>
 * 2 metros de mangueira transparente;
 * Escalímetro;
 * Duas mão francesas;
@@ -282,7 +282,7 @@ Esperamos, matematicamente, obter uma velocidade entre as velas maior do que a v
 **Figura 1:** Montagem da parede de mdf e fixação da mangueira em U. <br/><br/>
 
 
-**Parte 2:** Posicionamento das velas. <br/><br/>
+**Parte 2:** Posicionamento das velas. <br/>
 * Placa de mdf;
 * 2 velas;
 * Fósforo;
@@ -292,7 +292,7 @@ Esperamos, matematicamente, obter uma velocidade entre as velas maior do que a v
 ![velas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/VELAS%20POSICIONADAS_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
 **Figura 2.1:** Posicionamento das velas (visão lateral). <br/><br/>
 ![velas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/VELAS%20POSICIONADAS%202_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
-**Figura 2.2:** Posicionamento das velas (visão superior). <br/><br/>
+**Figura 2.2:** Posicionamento das velas (visão superior). <br/>
 
 ### Procedimentos
 **Parte 1:** Montagem da parede de mdf e fixação da mangueira em U: </br>
@@ -315,7 +315,7 @@ Acendemos as velas, posicionamos o pedaço de mangueira entre as velas (Figura 2
 ![chamas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/chamas%20verticais_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
 **Figura 3:** Chamas verticais, sem a presença do fluxo de ar entre elas. <br/><br/>
 ![chamas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/chamas%20horizontais_Easy-Resize.com_Easy-Resize.com.jpg) <br/>
-**Figura 4:** Fenômeno das chamas horizontais, com a presença do fluxo de ar entre elas. <br/><br/>
+**Figura 4:** Fenômeno das chamas horizontais, com a presença do fluxo de ar entre elas. <br/>
 
 **Parte 5:** Cálculo da velocidade do fluxo de ar entre as velas: <br/>
 Após verificar a validade do experimento, calculamos a velocidade do fluxo de ar entre as velas através da Equação 10.3 da Seção 2 (Planejamento e Preparação). Porém, nela, desprezamos a diferença de altura, já que o suporte das velas ficou na mesma posição todo o tempo, e o termo da velocidade inicial, pois impusemos a condição de ar parado no início do experimento. Então, a equação ficou: <br/>
