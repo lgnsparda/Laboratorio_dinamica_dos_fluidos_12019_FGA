@@ -71,6 +71,7 @@ Observa-se tambem a partir da "Imagem 2" abaixo o comportamento do escoamento no
 ![Imagem2](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/118a37cb5c24d1e130c0e7a918082fb6c926f929/grupo_5/f2.png)
 
 **2.1  Procedimento numérico:**<br>
+
 Um dos objetivos do presente experimento é calcular o coeficiente de vazão do medidor de pressão do tipo placa de orifício. Sabe-se que Cd = vazão real / vazão teórica. Podemos calcular a vazão teórica aplicando a equação derivada de bernoulli, considerando o fluido que escoa na tubulação como uma fluído ideal, ou seja, com viscosidade nula, portanto sem perda de carga. 
 A partir da equação derivada de bernoulli temos:
 
@@ -172,7 +173,116 @@ Coletar os dados de pressão a montante e a jusante da placa para realizar os c�
 
 Espera-se obter valores de coeficiente de vazão próximos aos valores fornecidos pela literatura, valores entre 0,6 e 0,9.
 
-
 ### 3.	Execução:
+
+-**Correções necessárias**<br>
+
+Analisando os procedimentos numéricos para a obtenção dos valores de Coeficiente de Vazão e de número de Reynolds é possível observar que existe a necessidade de se obter os valores diâmetro do orifício da placa, da pressão à montante e à jusante da placa, além dos valores dos coeficientes de correção. 
+Os coeficientes de correção são necessários pois, os valores calculados relacionados a posição 2, ou seja, velocidade, pressão, área na posição 2, estão relacionadas a posição da "vena contracta" ou seja, a menor área de contração do escoamento. Essa posição é dificilmente calculada, sendo estimados coeficientes com o intuito de efetuar correções nos parâmetros hidráulicos.São utilizados coeficientes de velocidade, de contração e de vazão.
+
+**Coeficiente de velocidade**
+
+Calculado a partir da razão entre a velocidade real e a velocidade teórica. A velocidade real dos jatos é menor que a velocidade teórica do escoamento, que pode ser calculada a partir da equação de Torricelli. Essa diferença entre valores de velocidade real e velocidade teórica é ocasionada pelas perdas de carga devidas à viscosidade do fluído e à rugosidade do material em que o orifício foi executado. Tem-se  na literatura um valor médio para Cv = 0,985.
+
+**Coeficiente de contração**
+
+Definido como a razão entre a área da secção contraída e a área do orifício da placa. Sabe-se que os filetes líquidos tocam as bordas do orifício e continuam a convergir, até uma área na qual o jato tem área sensivelmente menor que a do orifício. O valor médio usual para o coeficiente de contração é da ordem de 0,62.
+
+**Coeficiente de vazão**
+
+Refere-se ao produto dos coeficientes de velocidade e contração. Assim, sabe-se que o cálculo da vazão real considera, além da perda de carga, a contração do fluído, um fenômeno que ocorre a jusante do orifício.  Na literatura, é utilizado como valor médio de coeficiente de vazão, o valor de 0,62. 
+Fazendo a adaptação da “Equação (2.5)" aplicando os coeficientes de correção para a placa de orifício, obtemos a “Equação (3.1)” onde obtém-se o coeficiente de vazão.
+
+- Equação (3.1)
+
+![Equação3.1](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/b063421ef3f3d8481b95d46459d44cec80f5e2aa/grupo_5/v2teocorri.png)<br>
+Onde “a2” é a área do orifício. 
+Já se pode utilizar a área mínima “a2” como a área do orifício por já ter  sido introduzido o coeficiente de contração na equação.
+
+**3.1 Divisão de tarefas**<br>
+
+A divisão de tarefas foi dividida de maneira:<br>
+Desenvolvimento teórico e numérico: Maria Eduarda Galvão.<br>
+Execução do experimento e procedimentos: Carlos Yan de Souza Gomes.<br>
+
+**3.2 Descrição dos procedimentos realizados**<br>
+
+- **Procedimento**<br>
+
+Identificado a bancada a ser realizado o experimento, foi verificado a tensão de funcionamento da bomba certificando que é a mesma tensão da rede a qual a bancada está conectada. Posteriormente identificando as linhas de fluxo presentes na bancada, certificamos de que os registros das linhas que não se referem à placa de orifício estavam fechados e se o tanque de fluido de trabalho, neste caso água, se apresentava com um nível apropriado para o funcionamento da bomba sem que houvesse entrada de ar ou perda de pressão durante o funcionamento.
+
+- Imagem 4: "Especificações da bomba conectada à bancada”<br>
+
+![Imagem4](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/4af057203d5836a9937e3454e1c57e90edd473e4/grupo_5/WhatsApp%20Image%202019-06-11%20at%2010.59.25.jpeg)<br>
+
+Com isto, verificamos as tomadas de pressão a montante e a jusante da placa realizando as conexões nos manômetros presentes na bancada. Ao ligar a bomba, aguardamos cerca de 5s para que o escoamento estivesse plenamente desenvolvido, e ao observar o instrumento de diferença de pressão foi visto que o mercúrio presente no manômetro passou para o fluxo do escoamento, não sendo possível realizar a medição através da escala milimétrica presente no mesmo, sendo assim o dado de diferença de pressão nos foi fornecido pelo professor.
+
+- Imagem 5: "Verificação das tomadas de pressão conectadas ao manômetro”<br>
+
+![Imagem5](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/4af057203d5836a9937e3454e1c57e90edd473e4/grupo_5/WhatsApp%20Image%202019-06-11%20at%2010.59.22%20(1).jpeg)<br>
+
+Observando o medidor de vazão presente após a placa de orifício verificamos um valor de aproximadamente 5.000L/h e também foi possível identificar pequenos grãos de mercúrio acima da placa que restringe o fluxo no medidor de vazão, o que confirma que o mercúrio presente no manômetro entrou no fluxo do escoamento. Como o  valor de vazão real foi obtido a partir do rotâmetro montado na bancada, não foi necessário monitorar o tempo de funcionamento do experimento, já que o objetivo desse procedimento era apenas obter a vazão de volume de água real a partir do volume de água e do tempo de escoamento deste volume.
+A execução do experimento seguiu o roteiro citado na parte de planejamento e preparação sem nenhuma alteração, o que observamos foi que o tempo necessário para a execução do experimento, 15 minutos, foi bem menor do que o tempo o qual estimamos, cerca de 50 minutos, já que a estrutura do laboratório e a bancada, já estavam preparadas, sendo necessário apenas ligar a bomba e observar o escoamento e os valores de vazão e diferença de pressão.
+	Foram coletados então, os dados de vazão real, diferença de pressão a montante e a jusante da placa e dimensões da placa de orifício.
+
+- Imagem 6: "Bancada de hidráulica em funcionamento, para um fluxo de água em uma linha conectada a placa de orifício”.<br>
+
+![Imagem6](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/08bdfcc6fa0e7870d62e39e98a0f6e1c127d7bab/grupo_5/WhatsApp%20Image%202019-06-11%20at%2010.59.22.jpeg)<br>
+
+- **Dados medidos**<br>
+
+**A vazão real**<br>
+
+ A vazão real foi obtida a partir de um rotâmetro BLI. O rotâmetro é um dispositivo de medição de vazão de líquidos e gases limpos, mais conhecido como medidor de vazão, utilizado para indicar e controlar a vazão instantânea de qualquer tipo de fluído, sendo líquidos ou gases, sem partículas em tubulações com condições de pressão e temperatura dentro dos limites de resistência do rotâmetro. 
+ 
+- Imagem 7: "Rotâmetro montado na bancada de hidráulica”.<br>
+
+![Imagem7](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/4af057203d5836a9937e3454e1c57e90edd473e4/grupo_5/WhatsApp%20Image%202019-06-11%20at%2010.59.27.jpeg)<br>
+A partir do rotâmetro foi obtido o valor de 5000 litros por hora , na qual foi convertido para unidades SI, equivalente a 1,38 *10^-3 m³/s.<br>
+
+**A pressão a montante e a jusante da placa**<br>
+
+Seria utilizado a princípio, para se obter a diferença de pressão a montante e a jusante da placa de orifício, um manômetro diferencial de mercúrio como fluido manométrico. 
+Como foi observado anteriormente, o  mercúrio presente no manômetro passou para o fluxo do escoamento de água, o que interferiu nos resultados da medição da variação de altura em milímetros do fluido manométrico, não sendo possível realizar a medição através da escala milimétrica presente no mesmo. Foi obtido então o dado de diferença de altura em milímetros de mercúrio a partir de dados ideais da bancada de hidráulica, fornecido pelo professor.
+
+- Imagem 8:"Manômetro de mercúrio montado na bancada de hidráulica”<br>
+
+![Imagem8](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/4af057203d5836a9937e3454e1c57e90edd473e4/grupo_5/WhatsApp%20Image%202019-06-11%20at%2010.59.28.jpeg)<br>
+
+Foi fornecido então, o valor da altura do fluido manométrico mercurio de 163 mmHg.
+Obteve-se a diferença de pressão a partir da aplicação da equação manométrica (Equação (2.3)) onde, ΔP = 20,139 KPa<br>
+
+**Dimensões do orifício da placa**<br>
+
+ Anteriormente foi citado a impossibilidade de aferir as dimensões do orifício e, foi, dado como solução obter os valores do diâmetro interno do orifício a partir do valor da vazão real obtida. Porém, não foi necessário realizar os cálculos das dimensões da placa de orifício já que as mesmas foram fornecidas pelo fabricante da bancada de hidráulica- HD98B.
+ 
+ - Imagem 9: "Placa de orifício montada na bancada de hidráulica”<br>
+ 
+ ![Imagem9](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/4af057203d5836a9937e3454e1c57e90edd473e4/grupo_5/WhatsApp%20Image%202019-06-11%20at%2010.59.29.jpeg)<br>
+ 
+Obteve-se os valores, a partir do fabricante da bancada:<br>
+
+-Raio interno do orifício = 5,25 mm;<br>
+-Diâmetro externo da placa de orifício= 33,7 mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 4.	Análise e conclusão:
