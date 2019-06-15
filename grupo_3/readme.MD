@@ -254,6 +254,76 @@ Esperamos, matematicamente, obter uma velocidade entre as velas maior do que a v
 
 ### 3.	Execução:
 
+## Universidade de Brasília - FGA
+### Laboratório de Dinâmica dos Fluidos - 2019.1  
+### Alunos:
+* Alexandre Alencar de Melo - 17/0028046
+* Lara Emilly Pereira Santos - 17/0070352 
+
+### Divisão de tarefas
+
+**Membro do grupo responsável pela montagem do experimento:** Alexandre Alencar <br/>
+**Membros do grupo responsáveis pela execução:** Alexandre Alencar e Lara Santos <br/><br/>
+
+### Materiais 
+**Parte 1:** Montagem da parede de pdf e fixação da mangueira. <br/><br/>
+* 2 metros de mangueira transparente;
+* Escalímetro;
+* Duas mão francesas;
+* Dez abraçadeiras de nylon;
+* Quatro parafusos com porca;
+* Corante vermelho;
+* Água;
+* Placa de mdf;
+* Funil de plástico;
+* Super cola Tekbond. <br/>
+
+![MONTAGEM TUBO](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/TUBO%20EM%20U%20MONTADO.jpeg) <br/>
+**Figura 1:** Montagem da parede de mdf e fixação da mangueira em U. <br/><br/>
+
+
+**Parte 2:** Posicionamento das velas. <br/><br/>
+* Placa de mdf;
+* 2 velas;
+* Fósforo;
+* Super cola Tekbond;
+* Pedaço de mangueira. <br/>
+
+![velas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/VELAS%20POSICIONADAS.jpeg) <br/>
+**Figura 2.1:** Posicionamento das velas (visão lateral). <br/><br/>
+![velas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/VELAS%20POSICIONADAS%202.jpeg) <br/>
+**Figura 2.2:** Posicionamento das velas (visão superior). <br/><br/>
+
+### Procedimentos
+**Parte 1:** Montagem da parede de mdf e fixação da mangueira em U: </br>
+Foram fixadas as mãos francesas na placa de mdf para manter ela na posição vertical. Depois, fixamos a mangueira no formato de U com as abraçadeiras de nylon no mdf. Para medir a altura foi colocado o escalímetro na mangueira coincidindo com a medida de 3 centímetros, onde se encontrava a superfície da água, como pode-se ver na Figura 1. <br/>
+
+**Parte 2:** Posicionamento das velas: <br/>
+Fixamos as duas velas com uma distância de 6 centímetros entre elas, visto que essa era a maior distância que permitia que o sopro fizesse o efeito desejado, com cola Tekbond. <br/>
+
+**Parte 3:** Encontrando a pressão: <br/>
+A mangueira foi parcialmente preenchida com água com corante, de modo que não escapasse do outro lado quando fosse soprado. <br/>
+Utilizando a extremidade solta da mangueira, cada um dos integrantes do grupo assoprou 3 vezes de forma semelhante e constante, de forma que fosse possível a água estabilizar para medirmos a diferença de altura. <br/>
+Cada vez que assopramos, medimos o valor da diferença de altura. (Os dados obtidos serão apresentados posteriormente) <br/>
+De posse das diferenças de altura utilizamos a Equação 12, apresentada na Seção 2 (Planejamento e Preparação), para calcularmos as pressões correspondentes. Porém, desprezamos o termo Po, já que estávamos atrás apenas da pressão do sopro, e não de sua interação com a pressão atmosférica. Ou seja, estávamos em busca da pressão manométrica. <br/>
+Para cada diferença obtida foi calculada uma pressão, para depois obtermos um desvio padrão das pressões. <br/>
+ 
+**Parte 4:** Observação das chamas das velas: <br/>
+Levamos o suporte com as velas para uma sala com pouquíssimo fluxo de vento, com janelas e portas fechadas, a fim de não haver interferência no resultado do experimento e podermos considerar a velocidade inicial nula. <br/>
+Acendemos as velas, posicionamos o pedaço de mangueira entre as velas (Figura 2.1), assopramos com a mesma constância que sopramos no tubo em U e observamos o fenômeno das chamas horizontais, contastando, de forma simples, o Princípio de Bernoulli, como esperávamos. <br/>
+
+![chamas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/chamas%20verticais.jpeg) <br/>
+**Figura 3:** Chamas verticais, sem a presença do fluxo de ar entre elas. <br/><br/>
+![chamas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/chamas%20horizontais.jpeg) <br/>
+**Figura 4:** Fenômeno das chamas horizontais, com a presença do fluxo de ar entre elas. <br/><br/>
+
+**Parte 5:** Cálculo da velocidade do fluxo de ar entre as velas: <br/>
+Após verificar a validade do experimento, calculamos a velocidade do fluxo de ar entre as velas através da Equação 10.3 da Seção 2 (Planejamento e Preparação). Porém, nela, desprezamos a diferença de altura, já que o suporte das velas ficou na mesma posição todo o tempo, e o termo da velocidade inicial, pois impusemos a condição de ar parado no início do experimento. Então, a equação ficou: <br/>
+![eq](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/equa%C3%A7%C3%A3o%20velocidade%20final.gif) 
+**Equação 12** <br/>
+Como a pressão possui certo desvio padrão, calculamos a velocidade final para duas pressões. A pressão máxima, que é a média das pressões obtidas somada com seu desvio padrão, e, analogamente, a pressão mínima, que é a média das pressões menos seu desvio padrão. Então, obtemos duas velocidades finais. Entretanto, é possível observar que ambas apresentam pouca discrepância. <br/>
+
+
 ### 4.	Análise e conclusão:
 
 ### Referências:
