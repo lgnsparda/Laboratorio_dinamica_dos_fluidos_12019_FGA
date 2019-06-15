@@ -321,6 +321,7 @@ Acendemos as velas, posicionamos o pedaço de mangueira entre as velas (Figura 2
 Após verificar a validade do experimento, calculamos a velocidade do fluxo de ar entre as velas através da Equação 10.3 da Seção 2 (Planejamento e Preparação). Porém, nela, desprezamos a diferença de altura, já que o suporte das velas ficou na mesma posição todo o tempo, e o termo da velocidade inicial, pois impusemos a condição de ar parado no início do experimento. Então, a equação ficou: <br/>
 ![eq](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/equa%C3%A7%C3%A3o%20velocidade%20final.gif)<br/> 
 **Equação 12** <br/>
+Sendo P1 a pressão atmosférica, cujo valor adotado foi 102400Pa [7], P2 a pressão que calculamos anteriormente, e, no denominador a massa específica da água (997 kg/ metros cúbicos). <br/>
 Como a pressão possui certo desvio padrão, calculamos a velocidade final para duas pressões. A pressão máxima, que é a média das pressões obtidas somada com seu desvio padrão, e, analogamente, a pressão mínima, que é a média das pressões menos seu desvio padrão. Então, obtemos duas velocidades finais. Entretanto, é possível observar que ambas apresentam pouca discrepância. <br/>
 
 
@@ -340,3 +341,4 @@ Como a pressão possui certo desvio padrão, calculamos a velocidade final para 
 **[4]** PRIMEIRA Lei da Termodinâmica. [S. l.], [20-]. Disponível em: https://pt.wikipedia.org/wiki/Lei_da_conserva%C3%A7%C3%A3o_da_energia#A_primeira_lei_da_termodin%C3%A2mica. Acesso em: 27 abr. 2019. <br/>
 **[5]** IMAGEM fronteira e sistema. [S. l.], [20-]. Disponível em: https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi0m6uVmPHhAhW4HrkGHXgMAoQQjRx6BAgBEAU&url=https%3A%2F%2Fclipperfisica.wordpress.com%2Fcategory%2F3-energia-fenomenos-termicos-e-radiacao%2F&psig=AOvVaw3n_YtcASEtbahBcd7feI_x&ust=1556485943175137. Acesso em: 27 abr. 2019. <br/>
 **[6]** EQUAÇÃO de Bernoulli. [S. l.], [20-]. Disponível em: https://edisciplinas.usp.br/pluginfile.php/371638/mod_resource/content/1/Auladocap15MecFluidos2%C2%AA%20parte%20Equa%C3%A7%C3%B5a%20de%20Bernoulli.pdf. Acesso em: 27 abr. 2019. <br/>
+**[7]** PRESSÃO atmosférica em Brasília. [S. l.], [20-]. Disponível em: http://tempo1.cptec.inpe.br/cidades/tempo/224. Acesso em: 12 jun. 2019. <br/>
