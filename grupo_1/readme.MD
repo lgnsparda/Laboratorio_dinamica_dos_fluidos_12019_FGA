@@ -79,7 +79,7 @@ Imagem 01 - Estrutura Montada para o Tubo de Venturi
 Imagem 02 - Conexão tubo de Pitot e Mangueira
 
 Execução:
-De forma a gerar um fluxo de ar no Tubo de Venturi para se obter as medições, foi utilizado um secador de cabelos de XXW, posicionado na entrada do tubo e vedado com um pano para minimizar a perda de fluxo. Assim, foi possível visualizar a diferença de pressão nas duas regiões do tubo e o funcionamento do Tubo de Pitot, uma vez que o mesmo provocou uma diferença de altura na água dentro da mangueira. Após uma espera de 5 segundos para a obter o desenvolvimento pleno do escoamento, foram tomadas as medidas.
+De forma a gerar um fluxo de ar no Tubo de Venturi para se obter as medições, foi utilizado um secador de cabelos de 2000W, posicionado na entrada do tubo e vedado com um pano para minimizar a perda de fluxo. Assim, foi possível visualizar a diferença de pressão nas duas regiões do tubo e o funcionamento do Tubo de Pitot, uma vez que o mesmo provocou uma diferença de altura na água dentro da mangueira. Após uma espera de 5 segundos para a obter o desenvolvimento pleno do escoamento, foram tomadas as medidas.
 
 ![Medição Tubo de Venturi](https://lh3.googleusercontent.com/7Mv2FdoFZGZEmjVcryScObwDF4oGTMurlCv-2wGFsDvnMmasXq5slobzxtdXCTrqD3FeES6U0Dbvlg)
 
@@ -96,9 +96,12 @@ Imagem 05 - Definição das regiões do Tubo
 
 ## Dados medidos:
 Conforme previsto na segunda etapa do relatório, os dados medidos na realização do ensaio foram:
-Diâmetro da região 1:  8,6 cm
-Diâmetro da região 2:  2,0 cm
-Variações de altura da coluna d'água nos tubos:
+
+- Diâmetro da região 1:  8,6 cm
+
+- Diâmetro da região 2:  2,0 cm
+
+- Variações de altura da coluna d'água nos tubos:
 
 ![](https://lh3.googleusercontent.com/heXx9igNqefwSe31C0hn0d7QQQW3lW6op5-xlMJLIdv-AvaXv0DgOmSq-n1JZ0KaHHyS65PcKOhmRg)
 
