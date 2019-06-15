@@ -156,7 +156,7 @@ Serão usados as seguintes constantes no experimento: [5]
  ![Ladrão](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Ladr%C3%A3o.jfif)
   
   
-  **Figura 2:** Ladrão
+  **Figura 2:** Ladrão.
   
   
 #### Montagem do tubo:
@@ -164,7 +164,7 @@ Serão usados as seguintes constantes no experimento: [5]
   
   ![Tubo](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Tubo.jfif)
   
-  **Figura 3:** Tubo no qual o experimento será realizado
+  **Figura 3:** Tubo no qual o experimento será realizado.
   
    
 #### Realização do experimento:
@@ -175,7 +175,7 @@ Serão usados as seguintes constantes no experimento: [5]
   ![Experimento](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/Experimento.jfif)
   
   
-  **Figura 4:** Experimento com todas as componente montado
+  **Figura 4:** Experimento com todas as componente montado.
   
   
 #### Dados medidos:
