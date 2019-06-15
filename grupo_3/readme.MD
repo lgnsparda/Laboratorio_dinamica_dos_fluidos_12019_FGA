@@ -321,7 +321,7 @@ Acendemos as velas, posicionamos o pedaço de mangueira entre as velas (Figura 2
 Após verificar a validade do experimento, calculamos a velocidade do fluxo de ar entre as velas através da Equação 10.3 da Seção 2 (Planejamento e Preparação). Porém, nela, desprezamos a diferença de altura, já que o suporte das velas ficou na mesma posição todo o tempo, e o termo da velocidade inicial, pois impusemos a condição de ar parado no início do experimento. Então, a equação ficou: <br/>
 ![eq](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/equa%C3%A7%C3%A3o%20velocidade%20final.gif)<br/> 
 **Equação 12** <br/>
-Sendo P1 a pressão atmosférica, cujo valor adotado foi 102400Pa [7], P2 a pressão que calculamos anteriormente, e, no denominador a massa específica da água (997 kg/ metros cúbicos). <br/>
+Sendo P1 a pressão atmosférica, cujo valor adotado foi 102400Pa [7], P2 a pressão que calculamos anteriormente, no denominador a massa específica da água (997 kg/ metros cúbicos), e V2 a velocidade que estamos procurando. <br/>
 Como a pressão possui certo desvio padrão, calculamos a velocidade final para duas pressões. A pressão máxima, que é a média das pressões obtidas somada com seu desvio padrão, e, analogamente, a pressão mínima, que é a média das pressões menos seu desvio padrão. Então, obtemos duas velocidades finais. Entretanto, é possível observar que ambas apresentam pouca discrepância. <br/>
 
 
