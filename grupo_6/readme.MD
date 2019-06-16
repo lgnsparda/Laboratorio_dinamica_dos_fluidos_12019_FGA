@@ -110,7 +110,68 @@ WHITE, F, Mecanica dos Fluidos, McGrawHill, RJ, 1991.
 
 
 
-
 ### 3.	Execução:
+
+#### Integrantes do grupo
+  - Vitor Rossi - 14/0066632
+  - Blenda Rodrigues - 15/0119551
+  - Giulliano Cezar - 13/0027260
+  
+#### Divisão de tarefas
+
+ Como previsto na etapa 02, não houve a necessidade de uma divisão de tarefas porque todos os membros do grupo acompanharam todos os procedimentos do experimento. Por se tratar de um teste de bancada, onde a bancada já estava montada, todos os integrantes puderam verificar as medições e entrar em um consenso sobre as medições.
+ 
+#### Descrição dos procedimentos realizados
+
+  - Por causa de um vazamento na tubulação com a placa de orifício, não foi possível fazer as medições nessa tubulação. Apesar disso, nos foram fornecidos dados de duas medições nessa tubulação, que estão organizados na tabela 2.
+  - Como o experimento foi feito em uma bancada hidráulica didática do Laboratório de Termociências da FGA, foi preciso apenas: 
+    1) Verificar a conexão do manômetro de tubo em U na tubulação do tubo de venturi para fazer as leituras de pressão; 
+    2) Abrir a válvula da bancada para liberar o escoamento para a tubulação utilizada; 
+    3) Esperar até o fluxo de água se estabilizar para considerar um escoamento de regime permanente; 
+    4) Ler a medição de vazão no rotâmetro; 
+    5) Ler as medidas de pressão no manômetro 
+    6) Repetir os passos v e vi para uma vazão diferente
+  - No planejamento, foi dito que faríamos as medições de pressão para 10 vazões diferentes. Por restrições do laboratório, foram feitas apenas duas. Como o objetivo desse experimento é determinar o coeficiente de descarga (Cd) para ambos os medidores de vazão: um tubo de Venturi e uma placa de orifício, essas medições obtidas são suficientes.
+
+
+  - Dados medidos:
+
+    Tabela 1. Dados das medições para o tubo de venturi
+
+    |Medição|Vazão Rotâmetro (LPH)|P1 (mmHg)|P2 (mmHg)|P1 - P2 (mmHg)|
+    |-|-|-|-|-|
+    |1|6900|200|130|70|
+    |2|3300|173|157|16|
+
+    Tabela 2. Dados das medições para a placa de orifício
+
+    |Medição|Vazão Rotâmetro (LPH)|P1 (mmHg)|P2 (mmHg)|P1 - P2 (mmHg)|
+    |-|-|-|-|-|
+    |1|6500|216|132|84|
+    |2|2900|177|153|24|
+
+
+  - Fotos do experimento montado e medições para o tubo de venturi:
+
+    Figura 1. Bancada hidráulica didática do Laboratório de Termociências da FGA
+
+    ![bancada](https://github.com/Gezards/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_6/bancada.jpg)
+
+    Figura 2. Manômetro em tubo U - Medição 1
+
+    ![](https://github.com/Gezards/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_6/pressao1.jpg) 
+
+    Figura 3. Rotâmetro - Medição 1
+
+    ![](https://github.com/Gezards/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_6/rotametro1.jpg.jpg)
+
+    Figura 4. Manômetro em tubo U - Medição 2
+
+    ![](https://github.com/Gezards/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_6/press%C3%A3o2.jpg)
+
+
+    Figura 5. Rotâmetro - Medição 2
+
+    ![](https://github.com/Gezards/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_6/rotametro2.jpg) 
 
 ### 4.	Análise e conclusão:
