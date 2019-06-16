@@ -56,8 +56,8 @@ O experimento será feito no laboratório de termofluidos da FGA e a execução 
 
 ### 3.	Execução:
 # •	Identificação do grupo; #
-•	Danilo Marinho - 18/0136313
-•	Mateus Lino Do Amaral - 14/0155457
+-	Danilo Marinho - 18/0136313
+-	Mateus Lino Do Amaral - 14/0155457
 # •	Divisão de tarefas, conforme descrito na etapa 2; #
 Como especificado na etapa anterior, não ocorreu mudança na divisão de tarefas.
 # Membro do grupo responsável pelo procedimento de montagem e execução:
@@ -68,11 +68,11 @@ Todos os integrantes do grupo na etapa 3 foram responsáveis pela montagem e exe
 •	Conforme imagem 
 https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_7/experimentomontado.jpg
 # • Dados medidos; #
-• Diâmetro externo da placa de orifício: 3,37 centimetros
-• Raido interno da placa de orifício: 0,525 centimetros
-• Vazão:5000 Litros por hora
-• Diâmetro do cano: 60 milimetros
-• Comprimento do cano a esquerda da placa de orifício: 50 centimetros
-• Comprimento do cano a direita da placa de orifício: 67 centimetros
+- Diâmetro externo da placa de orifício: 3,37 centimetros
+- Raido interno da placa de orifício: 0,525 centimetros
+- Vazão:5000 Litros por hora
+- Diâmetro do cano: 60 milimetros
+- Comprimento do cano a esquerda da placa de orifício: 50 centimetros
+- Comprimento do cano a direita da placa de orifício: 67 centimetros
 - Diferença de pressão: 163 mmHg
 ### 4.	Análise e conclusão:
