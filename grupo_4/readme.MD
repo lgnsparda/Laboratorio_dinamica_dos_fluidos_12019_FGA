@@ -119,7 +119,7 @@ Vista superior
   
   Após a montagem e os testes o experimento foi realizado em duas etapas, na primeira o barco foi colocado na água e com o rotor de Flettner ligado foi observado a sua trajetória, já na segunda parte além do rotor ligado um ventilador foi ligado e o fluxo de ar foi direcionado para o rotor e foi observado sua trajetória. As trajetórias foram medidas de forma qualitativa em relação ao tempo de translação. 
   
-A seguir as trajetórias aferidas:   
+A seguir as trajetórias observadas:   
 
 ![vido1](vido1.gif)  
 
