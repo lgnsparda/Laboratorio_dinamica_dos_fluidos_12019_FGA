@@ -65,6 +65,7 @@ Todos os integrantes do grupo na etapa 3 foram responsáveis pela montagem e exe
 # •	Descrição de cada procedimento executado #
 • Primeiramente, o integrante Matheus com o auxilio do professor verificou a configuração das válvulas da bancada . Como a bancada possui mais de um experimento em seu sistema, é necessário direcionar o fluxo de água para o encanamento do respectivo experimento. Feito isso o integrante Danilo ligou a bomba de água do sistema usando o interruptor da bancada e em seguida, abriu o registro para permitir o escoamento de água através da tubulação. Com a água fluindo, os integrantes matheus e danilo certificaram que não existe ar na tubulação da placa de orifício para medir a pressão, pois interfere nos valores. Por fim, o integrante Danilo mediu os diâmetros e o comprimento da tubulação e da placa de orifício usando um paquímetro e o integrante Mateus coletou os dados de vazão e de pressão de experimentos anteriores, pois ao ligar a bancada de hidraúlica o mercúrio foi parar dentro da placa de orifico e nao conseguimos obter nossos dados. Depois, a bomba de água da bancada foi desligada. 
 # •	Fotos do experimento montado; #
+•	Conforme imagem 
 https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_7/experimentomontado.jpg
 # • Dados medidos; #
 • Diâmetro externo da placa de orifício: 3,37 centimetros
