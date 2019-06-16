@@ -107,14 +107,26 @@ Onde W é a velocidade angular, Cs; o coeficiente de sustentação-grandeza adim
   A estimativa do cronograma apresentado no ponto de controle anterior não pode ser seguido devido ao erro na estimativa de duração e tempo de início de cada tarefa esse erro foi causado pela falta de ponderação de outras tarefas em outras disciplinas dos membros do grupo. O início da montagem sofreu um atraso de quase 2 semanas.  
   
   A montagem foi dividida em dois subsistemas, o circuito e a parte mecânica do barco, o circuito foi montado e este foi acoplado ao barco. A seguir fotos do barco após a montagem. 
- ![vistasupe](https://upload.wikimedia.org/wikipedia/commons/3/3f/Buckau_Flettner_Rotor_Ship_LOC_37764u.jpg)
+  
+ ![vistasupe](sup.jpg)
+Vista superior  
 
+ ![vistalat](lat.jpg)
+ Vista Lateral 
+ 
+  ![vistasiso](iso.jpg)
+  Vista isométrica  
+  
   Após a montagem e os testes o experimento foi realizado em duas etapas, na primeira o barco foi colocado na água e com o rotor de Flettner ligado foi observado a sua trajetória, já na segunda parte além do rotor ligado um ventilador foi ligado e o fluxo de ar foi direcionado para o rotor e foi observado sua trajetória. As trajetórias foram medidas de forma qualitativa em relação ao tempo de translação. 
   
-A seguir as trajetórias aferidas: 
-![vido1](gif)
-Trajetória 1
-![vido2](gif)
+A seguir as trajetórias aferidas:   
+
+![vido1](vido1.gif)  
+
+Trajetória 1  
+
+![vido2](vido2.gif)  
+
 Trajetória 2
 
 ### 4.	Análise e conclusão:
