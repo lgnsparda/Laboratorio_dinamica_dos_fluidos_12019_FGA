@@ -74,5 +74,5 @@ https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/mas
 • Diâmetro do cano: 60 milimetros
 • Comprimento do cano a esquerda da placa de orifício: 50 centimetros
 • Comprimento do cano a direita da placa de orifício: 67 centimetros
-• Diferença de pressão: 163 mmHg
+- Diferença de pressão: 163 mmHg
 ### 4.	Análise e conclusão:
