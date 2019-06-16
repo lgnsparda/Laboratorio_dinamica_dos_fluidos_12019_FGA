@@ -29,7 +29,7 @@ O Efeito Magnus é um fenômeno pelo qual a rotação de um objeto altera sua tr
 
  O Rotor de Flettner é um sistema de propulsão criado por Aton Flettner, esse sistema se consiste em uma cilindro em rotação que em conjunto com os ventos geram áreas de baixa e alta pressão e assim gerando uma força perpendicular ao eixo dos cilindros, essa é utilizada para a propulsão do veículo. O MS Buckau em 1921 foi o primeiro navio construído com este tipo de propulsão.  
  
- ![Flettner](https://upload.wikimedia.org/wikipedia/commons/3/3f/Buckau_Flettner_Rotor_Ship_LOC_37764u.jpg)   
+ ![Flettner](https://upload.wikimedia.org/wikipedia/commons/3/3f/Buckau_Flettner_Rotor_Ship_LOC_37764u.jpg) 
    
    
 
