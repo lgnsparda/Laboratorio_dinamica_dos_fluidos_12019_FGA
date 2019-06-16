@@ -84,7 +84,38 @@ Onde W é a velocidade angular, Cs; o coeficiente de sustentação-grandeza adim
 
   O resultado esperado do experimento é a visualização do efeito magnus, esse será feito através da aplicação de um escoamento no rotor de Flettner, o qual gerará um força que transladar o carro, ou seja, o resultado do esperado será o movimento do carro após aplicado um escoamento no rotor.
 
-### 3.	Execução:
+### 3.	Execução:  
+
+## Materiais  
+
+  Os materiais utilizados para a montagem do barco e do rotor seguem abaixo: 
+  
+* Isopor - Utilizado como casco do barco, além de invólucro para embarcação sua estanquicidade contribui para a flutuação do barco.  
+* Pilhas - Quatro pilhas de 1,5 V que geram a ddp para o motor elétrico.
+* Base para as pilhas - A base serve para armazenar as pilhas e ao mesmo tempo somar a tensão de cada pilha com a finalidade de aumentar a ddp resultante.
+* Fios - Conectores para permitir o fluxo da corrente elétrica. 
+* Chave seletora - Liga/Desliga do circuito. 
+* Fita isolante - Utilizado para fixar as partes ao isopor exceto a base do tubo.
+* Cola quente - Utilizado para fixar o tubo pvc.
+* Motor elétrico - Com tensão nominal de  9/12V.
+* Tubo pvc - Com 25mm de diâmetro.
+* Base de acoplamento - base de plastico aplicado no isopor e no qual foi fixo o conjunto motor e tubo.
+* Porca e arruela - a fim de fixar o tubo no motor.  
+
+## Montagem  
+
+  A estimativa do cronograma apresentado no ponto de controle anterior não pode ser seguido devido ao erro na estimativa de duração e tempo de início de cada tarefa esse erro foi causado pela falta de ponderação de outras tarefas em outras disciplinas dos membros do grupo. O início da montagem sofreu um atraso de quase 2 semanas.  
+  
+  A montagem foi dividida em dois subsistemas, o circuito e a parte mecânica do barco, o circuito foi montado e este foi acoplado ao barco. A seguir fotos do barco após a montagem. 
+ ![vistasupe](https://upload.wikimedia.org/wikipedia/commons/3/3f/Buckau_Flettner_Rotor_Ship_LOC_37764u.jpg)
+
+  Após a montagem e os testes o experimento foi realizado em duas etapas, na primeira o barco foi colocado na água e com o rotor de Flettner ligado foi observado a sua trajetória, já na segunda parte além do rotor ligado um ventilador foi ligado e o fluxo de ar foi direcionado para o rotor e foi observado sua trajetória. As trajetórias foram medidas de forma qualitativa em relação ao tempo de translação. 
+  
+A seguir as trajetórias aferidas: 
+![vido1](gif)
+Trajetória 1
+![vido2](gif)
+Trajetória 2
 
 ### 4.	Análise e conclusão:
 
