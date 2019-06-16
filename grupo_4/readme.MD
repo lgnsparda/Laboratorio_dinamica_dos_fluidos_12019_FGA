@@ -108,13 +108,13 @@ Onde W é a velocidade angular, Cs; o coeficiente de sustentação-grandeza adim
   
   A montagem foi dividida em dois subsistemas, o circuito e a parte mecânica do barco, o circuito foi montado e este foi acoplado ao barco. A seguir fotos do barco após a montagem. 
   
- ![vistasupe](sup.jpg)
+ ![sup](sup.jpeg)
 Vista superior  
 
- ![vistalat](lat.jpg)
+ ![lat](lat.jpeg)
  Vista Lateral 
  
-  ![vistasiso](iso.jpg)
+  ![iso](iso.jpeg)
   Vista isométrica  
   
   Após a montagem e os testes o experimento foi realizado em duas etapas, na primeira o barco foi colocado na água e com o rotor de Flettner ligado foi observado a sua trajetória, já na segunda parte além do rotor ligado um ventilador foi ligado e o fluxo de ar foi direcionado para o rotor e foi observado sua trajetória. As trajetórias foram medidas de forma qualitativa em relação ao tempo de translação. 
