@@ -53,7 +53,8 @@ Estimativa do tempo necessário para montagem e execução do experimento: Como 
 |Etapa 4|Érika|15/05; 3-4 horas|
 |Etapa 5|Ana Luísa e Érika|22/05; 3-4 horas|
 
-#  Nota: 2,5
+#  Nota: 2,0
+# - Erros de digitação da equação;
 
 ### 3.	Execução:
 
