@@ -26,6 +26,9 @@ O que será medido:
 
 O experimento será feito no laboratório de termofluidos da FGA e a execução do experimento sera realizada por todos os integrantes do grupo conforme cronograma que será apresentado posteriormente.
 
+#  Nota: 2,0
+# - Escopo incompleto
+
 
 
 ### 2.	Planejamento e Preparação:
@@ -53,6 +56,8 @@ O experimento será feito no laboratório de termofluidos da FGA e a execução 
 # •	Resultados esperados; #
 •	O resultado esperado é conseguir medir e calcular os dados acima que foram julgados necessários para analisar a influencia da placa de orifício em um escoamento.
 
+#  Nota: 2,5
+
 
 ### 3.	Execução:
 # •	Identificação do grupo; #
@@ -76,4 +81,6 @@ https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/mas
 - Comprimento do cano a esquerda da placa de orifício: 50 centimetros
 - Comprimento do cano a direita da placa de orifício: 67 centimetros
 - Diferença de pressão: 163 mmHg
+
+#  Nota: 2,5
 ### 4.	Análise e conclusão:
