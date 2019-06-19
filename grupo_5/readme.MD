@@ -43,6 +43,8 @@ Onde:<br>
 Após verificar os resultados teóricos obtidos a partir das equações serão realizados os procedimentos experimentais. Para isto utilizaremos os recursos do laboratório de Termofluido para a execução do experimento, sendo necessário a bancada de fluxo, tubos para medição de pressão e demais equipamentos que podem se tornar necessário durante a execução.
 Assim, será possível verificar resultados da vazão teórica esperada e da vazão real obtida.
 
+#  Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 
 - **Identificação do grupo**<br>
@@ -173,6 +175,8 @@ Coletar os dados de pressão a montante e a jusante da placa para realizar os c�
 
 Espera-se obter valores de coeficiente de vazão próximos aos valores fornecidos pela literatura, valores entre 0,6 e 0,9.
 
+#  Nota: 2,5
+
 ### 3.	Execução:
 
 - **Correções necessárias**<br>
@@ -265,7 +269,7 @@ Obteve-se os valores, a partir do fabricante da bancada:<br>
 -Raio interno do orifício = 5,25 mm;<br>
 -Diâmetro externo da placa de orifício= 33,7 mm
 
-
+#  Nota: 2,5
 
 
 
