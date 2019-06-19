@@ -36,6 +36,8 @@ A partir dessa lei é explicado o Efeito Magnus, pois como a pressão na parte d
 
 O empuxo dinâmico resultante da combinação de um escoamento uniforme com uma circulação também é responsável pela sustentação dos aviões, gerando um “upforce” (força para cima, sustentação). Já nos carros de fórmula 1 a mesma força é responsável pela “downforce” (força para baixo), que pressiona os carros contra a pista. <br/><br/>
 
+# Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 
 A confecção material do experimento é simples, são necessários apenas alguns elementos e poucas horas para a montagem e reprodução do mesmo, a parte mais trabalhosa está relacionada à instrumentação necessária  para  acompanhar a trajetória dos corpos de prova após lançados e aos softwares que à avaliarão de modo a obter dados necessários para análise experimental. <br/><br/>
@@ -87,6 +89,8 @@ Após a realização do experimento espera-se por meio da análise das imagens o
 
 ![Resultados](resultados_esperados.png)<br/>
 **Figura 4.** Trajetória de voo obtida por cálculos analíticos. <br/><br/>
+
+# Nota: 2,5
 
 ### 3.	Execução:
 
