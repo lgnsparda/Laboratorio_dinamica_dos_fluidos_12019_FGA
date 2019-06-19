@@ -15,6 +15,8 @@ Grupo 11:
   
   ### 1.3 Escopo do experimento:
   Será trabalhado um fluído newtoniano, neste caso a água, onde será variado a velocidade da água em uma mangueira transparente e com uma seringa será injentado no fluído uma água com corante onde será possível verificar visualmente a turbulência no fluído.
+  
+  # Nota: 2,5
 
 ### 2.	Planejamento e Preparação:
 
@@ -86,6 +88,10 @@ Grupo 11:
   - Para valores menores que 2000, regime laminar;
   - Para valores entre 2000 e 2400, regime transitório;
   - Para valores maiores que 2400, regime turbolento.
+  
+  # Nota: 2,0
+  
+# - Erros de digitação 
 
 ### 3.	Execução:
 
