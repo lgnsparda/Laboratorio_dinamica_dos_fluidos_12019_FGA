@@ -22,6 +22,8 @@ Golpe de Aríete (Water hammer)
 * Estabelecer as características do fenômeno do Golpe de Aríete a partir de pesquisa na literatura;  
 * No decorrer do experimento, fazer todas as anotações necessárias e, se possível, repetir as medições, para que seja possível a medição de erros aleatórios.  
 
+#  Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 
 #### Teoria do experimento:   
@@ -51,6 +53,7 @@ Estimativa do tempo necessário para montagem e execução do experimento: Como 
 |Etapa 4|Érika|15/05; 3-4 horas|
 |Etapa 5|Ana Luísa e Érika|22/05; 3-4 horas|
 
+#  Nota: 2,5
 
 ### 3.	Execução:
 
@@ -82,6 +85,8 @@ Estimativa do tempo necessário para montagem e execução do experimento: Como 
 - GHIDAOUI, Mohamed S. et al. A review of water hammer theory and practice. Applied Mechanics Reviews, v. 58, n. 1, p. 49-76, 2005.
 - SCHMITT, C. et al. Water pipeline failure due to water hammer effects. Fatigue & Fracture of Engineering Materials & Structures, v. 29, n. 12, p. 1075-1082, 2006.
 - WOOD, Frederick Morris. History of water-hammer. 1970.
+
+#  Nota: 2,5
 
   
 ### 4.	Análise e conclusão:
