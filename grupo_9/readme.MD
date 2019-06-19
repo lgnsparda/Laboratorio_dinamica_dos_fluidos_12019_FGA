@@ -10,6 +10,8 @@ Medir as pressões antes e depois de um bocal, utilizando um tubo de escoamento 
 Escopo:
 Comparação da base teórica pesquisada sobre o Efeito de Bernoulli com o experimento a ser executado no laboratório de termofluidos, no qual serão medidas as pressões antes e depois de um bocal, utilizando um tubo de escoamento.
 
+# Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 Teoria:
 O Efeito Bernoulli é um fenômeno que ocorre quando um fluido entra em movimento criando uma zona de pressão menor em relação a pressão do fluido parado. Esse efeito pode ser provado com o auxílio das equações de Bernoulli, da Continuidade e de um Tubo Venturi. Para a realização dos cálculos experimentais, será necessário o auxílio de um manômetro caseiro. Para calcular a variação de pressão dentro do Tubo, será utilizado o princípio dos vasos comunicantes, com a Lei de Stevin. O Tubo Venturi é um instrumento que indica a variação de pressão exercida por um fluido em movimento por meio de  tubos com áreas variáveis. Para o experimento será utilizado um bocal convergente-divergente.
@@ -43,6 +45,8 @@ Dados a serem medidos:
 Os dados a serem medidos são as áreas antes e depois do bocal e a diferença de altura no cano do manômetro.
 Resultados esperados:
  É esperado a visualização de uma diferença de altura quando o secador de cabelo for ligado dentro do Tubo caseiro. Podendo assim ser calculada uma diferença de pressão positiva, para ser calculada a velocidade 1 e 2. Mostrando assim que a velocidade 1 é menor que a 2, e que a diferença de pressão do ponto 1 para o ponto 2 é positiva, logo, a pressão 1 é maior que a pressão 2 e provando o Efeito Bernoulli matematicamente e experimentalmente.
+ 
+ # Nota: 2,5
 
 ### 3.	Execução:
 - Divisão de tarefas:
@@ -80,5 +84,7 @@ As medidas necessárias para cálculos futuros foram: os diâmetros da secção 
 Diâmetro menor da garrafa: 3 cm
 Diâmetro maior da garrafa: 9 cm
 Diferença de altura entre os dois meniscos do fluido: 4,4 cm
+
+# Nota: 2,5
 
 ### 4.	Análise e conclusão:
