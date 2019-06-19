@@ -15,6 +15,8 @@ Em função disso o estudo do fenômeno da perda de carga foi escolhido no intui
 ####1.3 Escopo:
     Para que as grandezas desejadas possam ser corretamente aferidas deverão ser medidas no equipamento de simulação de escoamentos hidráulicos a pressão a montante e a jusante do fluido a diferentes vazões controladas por um rotâmetro e ambas as grandezas registradas.
     Com esses dados será possível obter um valor para a perda de carga a partir da equação de Navier-Stokes com o qual poderá ser determinado o fator de atrito pela equação de Darcy–Weisbach e a potência dissipada na seção do duto observada e a devida propagação de erros.
+    
+#  Nota: 2,5
 
 
 ### 2.	Planejamento e Preparação:
