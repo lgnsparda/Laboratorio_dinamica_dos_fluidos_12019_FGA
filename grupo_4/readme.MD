@@ -40,6 +40,9 @@ Para realizar o experimento algumas tarefas terão que ser realizadas pelo grupo
 * Estabelecer Aparato - Listar e definir materiais que serão utilizados para realização do experimento.
 * Observar e documentar - Consumar o experimento e documentar os dados obtidos e compará-los com a literatura.
 
+#  Nota: 2,0
+# - Objetivo ambicioso demais!
+# - Não se observou o escopo do experimento.
 
 ### 2.	Planejamento e Preparação: 
 
@@ -83,6 +86,8 @@ Onde W é a velocidade angular, Cs; o coeficiente de sustentação-grandeza adim
 ## Resultados Esperados  
 
   O resultado esperado do experimento é a visualização do efeito magnus, esse será feito através da aplicação de um escoamento no rotor de Flettner, o qual gerará um força que transladar o carro, ou seja, o resultado do esperado será o movimento do carro após aplicado um escoamento no rotor.
+  
+#  Nota: 2,5
 
 ### 3.	Execução:  
 
@@ -128,6 +133,8 @@ Trajetória 1
 ![vido2](vido2.gif)  
 
 Trajetória 2
+
+#  Nota: 2,5
 
 ### 4.	Análise e conclusão:
 
