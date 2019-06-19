@@ -19,6 +19,10 @@ Tarefas minímas para a realização do experimento:
 1. Estudar o funcionamento do túnel de vento;
 2. Estudar calibração de sensores;
 3. Obter um anemômetro.
+
+# Nota: 2,0
+
+# - Objetivo e Escopo incompletos
    
 ### 2.	Planejamento e Preparação:
 
@@ -85,6 +89,8 @@ Após a obtenção dos dados, será feita a comparação com resultados teórico
 #### 2.3. Resultados Esperados:
 
 Espera-se que dentro do túnel de vento a velocidade do ar seja maior que do lado de fora, a pressão, por sua vez, será menor do lado de dentro e maior do lado de fora, de forma mais exata, ao substuir oa valores na equação de Bernoulli espera-se os dois lados da igualdade com o mesmo resultado numérico.
+
+# Nota: 2,5
 
 ### 3.	Execução:
  
