@@ -24,6 +24,8 @@ Grupo 10:
   * 2000 < Re < 2400 - Escoamento de Transição;
   * Re > 2400 - Escoamento Turbulento;
   
+  # Nota: 2,5
+  
 ### 2.	Planejamento e Preparação:
 
 ### Integrantes
@@ -124,6 +126,8 @@ Serão usados as seguintes constantes no experimento: [5]
   * Re > 2400 - Escoamento Turbulento;
   * Viscosidade dinâmica da água [Pa.s]: 0,001030;
   * Massa específica da água [kg/m³]: 1000.
+  
+  # Nota: 2,5
 
 ### 3.	Execução:
 
@@ -187,6 +191,8 @@ Serão usados as seguintes constantes no experimento: [5]
 **Equação 6**
 
 Por fim, os erros experimentais do volume, da pressão e do tempo foram calculados, para saber quanto de variação houve durente a realização. 
+
+# Nota: 2,5
 
 ### 4.	Análise e conclusão:
 
