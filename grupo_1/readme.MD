@@ -18,6 +18,10 @@ Efeito Bernuolli
 ##Escopo:
   Para realização do experimento, será necessária a construção de um modelo caseiro do Tubo de Venturi, com garrafas pet e uma mangueira transparente, e a utilização de um secador de cabelo para gerar o fluxo de ar. No mesmo, será acoplado um tubo de Pitot, de forma a calcular a velocidade do escoamento. Uma vez determinadas as dimensões do tubo, será possível dimensionar as mudanças na velocidade e pressão do escoamento, de forma a manter a vazão constante e, consequentemente, o princípio de Bernuolli verdadeiro. 
   
+#  Nota: 2,0
+# - Erros de digitação;
+# - Escopo não está explicado corretamente;
+
 # 2.	Planejamento e Preparação:
 
 ##Integrantes:
@@ -43,6 +47,8 @@ Cronograma estimado para a montagem e realização do experimento completo:
 20 a 31/05 - execução do experimento
 03 a 07/06 - calculos
 10 a 14/06 - Elaboração do relatório.
+
+#  Nota: 2,5
 
 ##Determinação dos dados a serem medidos e/ou calculados:
 Os dados a serem medidos são: os diâmetros do tubo e as pressões e, no tubo de Pitot a variação de pressão. A partir disso, será possível calcular as áreas transversais, a vazão e as velocidades do escoamento.
@@ -106,6 +112,8 @@ Conforme previsto na segunda etapa do relatório, os dados medidos na realizaç�
 ![](https://lh3.googleusercontent.com/heXx9igNqefwSe31C0hn0d7QQQW3lW6op5-xlMJLIdv-AvaXv0DgOmSq-n1JZ0KaHHyS65PcKOhmRg)
 
 Tabela 01 - Dados obtidos na leitura das mangueiras
+
+#  Nota: 2,5
 
 # 4.	Análise e conclusão:
 
