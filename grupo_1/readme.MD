@@ -48,13 +48,13 @@ Cronograma estimado para a montagem e realização do experimento completo:
 03 a 07/06 - calculos
 10 a 14/06 - Elaboração do relatório.
 
-#  Nota: 2,5
-
 ##Determinação dos dados a serem medidos e/ou calculados:
 Os dados a serem medidos são: os diâmetros do tubo e as pressões e, no tubo de Pitot a variação de pressão. A partir disso, será possível calcular as áreas transversais, a vazão e as velocidades do escoamento.
 
 ##Resultados esperados:
 Espera-se que os valores obtidos com o experimento possam ser aplicados na equação de Bernuolli de forma que obtenhamos um valor constante unico, nos calculos das duas seções transversais.
+
+#  Nota: 2,5
 
 # 3.	Execução:
 ## Integrantes do grupo:
