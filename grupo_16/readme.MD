@@ -29,6 +29,8 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 
 **[2]** VÓRTICE. 2013. Disponível em: <https://pt.wikipedia.org/wiki>. Acesso em: 27 abr. 2019.
 
+# Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 
 - Grupo 16: Vorticidade 
@@ -84,6 +86,8 @@ Para realização do experimento, as seguintes tarefas são necessárias: obten�
 **[1]** NOLETO, Luciano; OLIVEIRA, Taygoara. DINAMICA DOS FLUIDOS: NOTAS DE AULA. 2019. 147 f. Curso de Engenharia, Faculdade Unb Gama, Universidade de BrasÍilia, Brasília, 2019. Disponível em: <https://aprender.ead.unb.br/pluginfile.php/166074/mod_resource/content/9/dinflu.pdf>. Acesso em: 24 fev. 2019
 
 **[2]** VÓRTICE. 2013. Disponível em: <https://pt.wikipedia.org/wiki>. Acesso em: 24 Abr. 2019.
+
+# Nota: 2,5
     
 ### 3.	Execução:
 
