@@ -80,6 +80,8 @@ Sendo:
 Após a obtenção de todos os dados experimentais e da observação, será feita uma discussão acerca do que foi estudado.
 Devido à simplicidade da atividade, o custo de produção será baixo, já que será preciso apenas duas velas médias, fósforos, um suporte, uma mangueira, água, canetão e régua. Analogamente, o tempo de produção não será uma limitação, pois a montagem e a observação poderão dar-se em cerca de 1 hora, se não menos. 
 
+#  Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 
 ## Universidade de Brasília - FGA
@@ -252,6 +254,8 @@ Neste experimento visamos entender na prática o Princípio de Bernoulli, então
 
 Esperamos, matematicamente, obter uma velocidade entre as velas maior do que a velocidade no outro lado (que consideraremos ser 0 m/s, já que o experimento será feito num local sem presença de corrente de ar). Além disso, esperamos conseguir calcular a pressão do sopro. E, visualmente, esperamos que a chama das velas se ‘deitem’ perpendicularmente à direção do fluxo de ar vindo do sopro. <br/><br/>
 
+#  Nota: 2,5
+
 ### 3.	Execução:
 
 ## Universidade de Brasília - FGA
@@ -323,6 +327,9 @@ Após verificar a validade do experimento, calculamos a velocidade do fluxo de a
 **Equação 12** <br/>
 Sendo P1 a pressão atmosférica, cujo valor adotado foi 102400Pa [7], P2 a pressão que calculamos anteriormente, no denominador a massa específica da água (997 kg/ metros cúbicos), e V2 a velocidade que estamos procurando. <br/>
 Como a pressão possui certo desvio padrão, calculamos a velocidade final para duas pressões. A pressão máxima, que é a média das pressões obtidas somada com seu desvio padrão, e, analogamente, a pressão mínima, que é a média das pressões menos seu desvio padrão. Então, obtemos duas velocidades finais. Entretanto, é possível observar que ambas apresentam pouca discrepância. <br/>
+
+#  Nota: 2,0
+# - Há análises nesta parte que devem estar na parte 4
 
 
 ### 4.	Análise e conclusão:
