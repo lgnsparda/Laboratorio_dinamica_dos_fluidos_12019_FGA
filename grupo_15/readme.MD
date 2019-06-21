@@ -20,7 +20,6 @@ Em cidades costeiras por todo o mundo há produção de resíduos que, mesmo tra
 Existe, entretanto, um efeito adverso causado pela presença de ventos na superfície da água, que deve ser levado em consideração no planejamento do local de instalação dos emissários. 
 Quando há ventos agitando a superfície da água, é criada a turbulência na água, o que causa a mistura das camadas profundas e superficiais. Desta maneira os resíduos acabam se misturando com a água e, muitas vezes, atingindo a superfície. Além de impactar o meio ambiente, estes resíduos podem também chegar a áreas costeiras e às praias, contaminando os banhistas e sendo um risco à saúde humana. Este experimento visa observar também o efeito da turbulência gerada pelos ventos. 
 	
-	
 ##### Procedimentos 
 Devido a simplicidade do experimento e dado que todos os equipamentos necessários serão fornecidos ao grupo, a montagem e execução do experimento completo não deve exceder 24 horas no total. É necessário um tanque com grande volume, água fria e quente, sal grosso, corante para água, uma seringa de 100 ml, tubos maleáveis finos, esponjas grandes e um secador de cabelo. 
 Para reunir os equipamentos necessários, cada membro irá fornecer os itens de fácil acesso. Caso nenhum membro do grupo tenha algum item necessário, este deverá ser comprado. Para tal, o valor do item será dividido entre todos os membros e um dos deles será sorteado para a compra. Todos os equipamentos deverão ser reunidos até o dia 15/05/2019, para que haja tempo de sobra para montagem e execução do experimento. No dia 22/05/2019 o experimento será montado e realizado, então, com a presença de todos os membros do grupo, os dados serão coletados. Posteriormente estes dados serão analisados e reunidos em um artigo final relatando toda a execução do experimento.
@@ -66,5 +65,9 @@ Ligue o secador e direcione o vento sobre a superfície da água do depósito.
 
 ##### Dados ocorridos ao usar a solução quente de água e corante vermelho
 A solução quente adicionada se dissipou rapidamente na superfície mais quente.
+
+##### Vídeo do experimento
+O experimento foi gravado e pode ser visualizado através do seguinte link:
+https://drive.google.com/file/d/1orbfhu4s3BQvqgE0vIq341sLQMs1Yhkk/view?usp=sharing
 
 ### 4.	Análise e conclusão:
