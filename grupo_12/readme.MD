@@ -50,7 +50,7 @@ construção do mecanismo para alteração do ângulo de ataque;
 
 #### Cronograma estimado para a montagem e realização do experimento completo;
 
-oo cronograma segue em anexo 
+O cronograma segue em anexo 
 ![cronograma](https://lh4.googleusercontent.com/t2NO2hZLXB1FJxg-BuvRYCZT8LTrbppmqkFjKbWHdJ63A8MnMTN3cyqSswnYR5ufIS5WfitVPMnaf_3ufoOkpQkOUf1rbIy4y3IHKqRw7VccN1MDeXwofiFfG40uoUKoZTf9VOXY)
 
 #### Determinação dos dados a serem medidos e/ou calculados;
