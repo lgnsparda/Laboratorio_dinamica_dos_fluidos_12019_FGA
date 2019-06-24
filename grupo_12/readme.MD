@@ -3,7 +3,7 @@ Grupo 12:
 - Arthur Pereira Teodoro - 17/0056384
 - Victor Augusto Pereira da Silva - 15/0047525
 
-### 1.	Início:
+# 1 Início:
 ## 1.1 Tema escolhido:
 Experimento em túnel de vento.
 ## 1.2 Objetivos do experimento:
@@ -13,7 +13,7 @@ Será necessário primeiramente dimensionar o túnel de vento, para que assim se
  No segundo momento será necessário criar um mecanismo para alteração do ângulo de ataque do do aerofólio, dentro do túnel de vento, a fim de ser possível analisar o comportamento das linhas de emissão.
 	Finalizando o experimento, será necessário acoplar o aerofólio dentro do túnel de vento e analisar o comportamento das linhas de emissão com a variação do ângulo de ataque.
 
-### 2.	Planejamento e Preparação:
+# 2 Planejamento e Preparação:
 ## 2.1 Teoria do experimento;
 Por meio do experimento será utilizado um túnel de vento para fazer a medição de pressão e velocidade de um perfil de asa e observar o comportamento das linhas de corrente no ângulo de stall, nesse ângulo é esperado encontrar um turbilhonamento do ar devido ao descolamento da camada limite do aerofólio, esse descolamento implica na perda de sustentação da asa e muitos acidentes aeronáuticos já aconteceram devido ao stall.  
 Nesse experimento também será utilizada a equação de Bernoulli:
@@ -63,7 +63,7 @@ Se o planejamento for bem executados é esperado que a pressão e velocidade sej
 Pela mudança do ângulo no bordo de ataque, dependendo do ângulo, haverá uma mudança nas pressões. Essas mudanças deverão ser medidas para que se comprove a maior sustentação gerada com sua mudança. A inclinação gera uma maior sustentação até certo ângulo, passado ele vamos poder observar os efeitos do descolamento da camada limite e o estol (perda de sustentação).
 
 
-### 3.	Execução:
+# 3 Execução:
 
 ## 3.1 Divisão de tarefas e cronograma
 Conforme descrito na etapa 2, a divisão de tarefas dos integrantes foi realizada sem nenhuma alteração.
@@ -116,12 +116,13 @@ Substituindo na equação de bernoulli, foi encontrado que a P2(pressão no extr
 Infelizmente, devido a baixa velocidade do túnel de vento, não foi possível visualizar as linhas de corrente, era esperado que com o aumento do ângulo de ataque fosse gerado um turbilhonamento na parte superior da asa, indicando assim o descolamento da camada limite (stall).
 
 ## Apêndices
-# Apêndice 1.1:
+### Apêndice 1.1:
 ![apendice1](https://lh5.googleusercontent.com/Ykbdco3saZVXX3WEuH7_5zdqmU2eFAC-OGBQCl1GjTxiLwCWXLzmPMCvKdM5JM972WYskToBFWwcMG60Bm3tk1j1uvxhzTy07SCnbAeHf4-22FJdIEoMnuesFZX6MFculEB0TBLq)
 Período real para o desenvolvimento do projeto 
 
-### 4.	Análise e conclusão:
-### links das etapas
+## 4.	Análise e conclusão:
+
+# links das etapas
 
 	etapa 1	
 https://github.com/lgnsparda/Lboratorio_dinamica_dos_fluidos_12019_FGA/files/3293584/Laboratorio.dinamica.dos.fluidos.parte.1.pdf
