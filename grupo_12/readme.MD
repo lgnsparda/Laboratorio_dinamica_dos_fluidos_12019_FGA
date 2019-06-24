@@ -17,8 +17,7 @@ Será necessário primeiramente dimensionar o túnel de vento, para que assim se
 ### Teoria do experimento;
 Por meio do experimento será utilizado um túnel de vento para fazer a medição de pressão e velocidade de um perfil de asa e observar o comportamento das linhas de corrente no ângulo de stall, nesse ângulo é esperado encontrar um turbilhonamento do ar devido ao descolamento da camada limite do aerofólio, esse descolamento implica na perda de sustentação da asa e muitos acidentes aeronáuticos já aconteceram devido ao stall.  
 Nesse experimento também será utilizada a equação de Bernoulli:
-P+gh+V22=constante 
-(ao longo de uma mesma linha de corrente)
+![oulongolinha](https://lh6.googleusercontent.com/6eXHEQ2aErzimH2m7xioQtG9n91A7xl0JWsgjvc7YE8WeF3qNstA8U9TSQQVD1emmaKU9TknaKj9opplX0laCmwVJwwtlHMSJfehea1fpN0nqGepP8emclcuJQWKern4p6EuAI5T)
 Com o intuito de medir a velocidade no extradorso da asa e avaliar o seu comportamento, espera-se que a velocidade aumente no extradorso da asa mostrando assim um efeito similar ao que acontece no tubo de venturi. De uma forma simples, podemos explicar a sustentação na asa de uma aeronave por meio da diferença de pressão entre o intradorso e o extradorso da asa, essa diferença de pressão ocorre pois na parte superior do aerofólio ocorre um aumento na velocidade devido ao seu formato, esse incremento na velocidade provoca uma redução na pressão, assim na parte inferior do aerofólio a pressão se mantém igual, logo a pressão embaixo é superior à de cima, criando assim a sustentação, a sustentação pode ser encontrada utilizando a fórmula:
 
 ![formula1](https://lh3.googleusercontent.com/QuoLhFWr0FRAlk0AZaQh4iM3PTWxSx1HQT71Bjl3xc5HnCtFu_uMJ8pCKmHMsjIauRhl2VGPztBr2lvI3ciKuMweSrSmagj7d1QKfxvx7_WOYQEXZwrFO7sJRzw39NLZtfBhFAJ2)
@@ -31,25 +30,26 @@ De acordo com o cronograma planejado será necessário aproximadamente 7 semanas
 Membro do grupo responsável pelo procedimento de montagem e execução;
 
 			Arthur:
-Auxílio em obter o perfil de asa em isopor e manutenção das medidas para realizar o experimento;
+ Auxílio em obter o perfil de asa em isopor e manutenção das medidas para realizar o experimento;
 Montagem do aerofólio para o experimento, será necessário a manutenção das medidas e é necessário prender as linhas de barbante na parte superior do perfil da asa (Extradorso);
-				Será Responsavel pela foto do experimento, filmagem.
+ Será Responsavel pela foto do experimento, filmagem.
 
 
 			Daniel:
-Auxílio em obter o perfil de asa em isopor e manutenção das medidas para realizar o experimento;
+ Auxílio em obter o perfil de asa em isopor e manutenção das medidas para realizar o experimento;
 construção do mecanismo para alteração do ângulo de ataque;			
-				Montagem do experimento e execução do mesmo;
-				Responsável por fazer o envio dos experimentos via github.
+ Montagem do experimento e execução do mesmo;
+ Responsável por fazer o envio dos experimentos via github.
 
 			Victor:
-Construção do mecanismo para alteração do ângulo de ataque;
-Montagem do aerofólio para o experimento, será necessário a manutenção das medidas e é necessário prender as linhas de barbante na parte superior do perfil da asa (Extradorso).
+ Construção do mecanismo para alteração do ângulo de ataque;
+ Montagem do aerofólio para o experimento, será necessário a manutenção das medidas e é necessário prender as linhas de barbante na parte superior do perfil da asa (Extradorso).
 				
 
 ### Cronograma estimado para a montagem e realização do experimento completo;
 
 oo cronograma segue em anexo 
+![cronograma](https://lh4.googleusercontent.com/t2NO2hZLXB1FJxg-BuvRYCZT8LTrbppmqkFjKbWHdJ63A8MnMTN3cyqSswnYR5ufIS5WfitVPMnaf_3ufoOkpQkOUf1rbIy4y3IHKqRw7VccN1MDeXwofiFfG40uoUKoZTf9VOXY)
 
 ### Determinação dos dados a serem medidos e/ou calculados;
 Os dados a serem medidos com esse experimento será a Pressão e a velocidade do escoamento sobre a asa utilizando a equação de bernoulli.
@@ -100,53 +100,11 @@ Abaixo é mostrado na imagem a foto do mecanismo para alteração do ângulo de 
  Outra alteração no projeto foi não refazer o experimento com fio de rabiola. Após discutir em grupo e buscar auxílio externo com o professor Luciano Gonçalves Noleto. Ficou claro que devido a baixa velocidade do túnel de vento não seria possível observar as linhas de corrente com certo material. Então como já tinha sido efetuado com barbante, foi optado por não efetuar novamente com fio de rabiola e sim uma série de testes com barbante.
  A quantidade de dias necessários para o desenvolvimento do experimento foi alterada no cronograma. Era pensado que seriam necessárias três semanas para fazer os testes, porém em uma semana conseguiu-se refazer os testes e tirar as conclusões necessárias diminuindo o cronograma inicial de 7 semanas para 4, demonstrada no Apêndice 1.1.  
 
-### Comparativo entre o experimento feito e o ensaio num tubo de vento com velocidade superior;
-Em paralelo, devido aos resultados não terem sido obtidos como esperados devido às limitações do aparato laboratorial utilizado, foram buscados resultados consistentes em outro experimento. Semelhante a ideia original do que foi proposto, no entanto de várias formas diferentes quanto a realização, condições de contorno e resultados obtidos.
-Primeiramente, foi utilizado um túnel de vento da companhia inglesa (já fora do mercado) Plint & Partners Ltd. e aparato técnico como se segue:
-
-Figura 2: Túnel de vento.
-Figura 3: Detalhe do medidor de ângulo de ataque.
- 
-Aerofólio NACA 0012 (com flap e barbantes);
-Túnel de vento (aprox. 46x46 cm de secção);
-Manômetro digital (Validyne PS309. Einstrumental: ±0,01 cm H2O);
-Controlador de ângulo de ataque (Einstrumental: ±0,5º);
-Régua (Einstrumental: ±0,5 cm);
-Paquímetro (Einstrumental: ±0,025 mm);
-Barômetro (Einstrumental: ±0,5 mm Hg);
-Termômetro (Einstrumental: ±0,5 ºC).
-
-Para temperatura e pressão na data do experimento foram medidos 26 ºC e 677 mmHg respectivamente (ou 299,15 K e 90259,3 Pa). Considerando o ar como sendo seco (sem umidade), podemos aproximar a medida da densidade do ar pela equação:
-
-	\rho_{ar} =\frac{P}{R_{esp}T }
-	Equação : Densidade do ar.
-
-A pressão antes do experimento, dentro do túnel de vento foi medida em 0,04 cm de H2O. Com o túnel de vento ligado, a uma distância segura onde o aerofólio não perturbasse o escoamento, a pressão foi medida em 1,04 cm de H2O. Podemos calcular a velocidade do escoamento a partir da equação:
-
-	v_(esc.)=√((2⋅(P_(estag.)-P_(estatic.)))/ρ_ar )=√((2⋅(101,9892-3,9226) [Pa])/(1,051 [kg⋅m^(-3)]))=13.66 m⁄s
-	Equação: velocidade do escoamento.
-	
-Com esses dados é possível calcular o número de Reynolds com a seguinte ressalva: vamos utilizar a viscosidade do ar seco a uma pressão de 1 bar, pois a viscosidade do mesmo depende majoritariamente da pressão. A viscosidade do ar é igual a μar=1,841⋅10-5 kg⋅m-1⋅s-1. Temos também as medidas do aerofólio: uma envergadura de 153 mm (que será nossa largura "L") e corda de 18,7 mm (são esses dados que o configuram como um NACA 0012). Com essas informações em mente podemos finalmente prosseguir:
-
-	Re=(ρ_ar⋅v_(esc.)⋅L)/μ_ar =119324,4594
-	Equação: número de Reynolds.
-	
-Com o aerofólio posicionado dentro do túnel de vento foi-se aumentando lentamente o ângulo de ataque. Com 8º já era possível visualizar um aumento da camada no bordo de fuga, com 10º havia um início de descolamento na traseira do aerofólio e com 12º o descolamento da camada limite propagou-se para todo o extradorso.
-
- 
- Figura 4: momento que o aerofólio começar a estola.
-
- É possível associar o comportamento do estol, o porque do ângulo crítico ser tão baixo, ao compararmos com a literatura. Em "Theory of Wing Sections" de Abott e Von Doenhoff é descrito que o ângulo de estol para um NACA 0012 é de 16°, no entanto o número de Reynolds no qual essa análise foi feita é de 3 milhões, o que pressupõe um escoamento turbulento. No experimento realizado, pela ordem do número de reynolds, é possível afirmar que o escoamento é predominantemente laminar com pequenas flutuações turbulentas.
-
-Figura 5: Coeficiente de sustentação e ângulo de ataque com Reynolds da ordem de 105.
-
-O aerofolio de isopor que foi utilizado no tunel de vento tinha uma corda "L" igual a 54 cm. Como a velocidade do escoamento  de 4,14 m/s e essa corda teorizamos que o ângulo de ataque para qual o aerofólio atingiria o estol seria ainda menor devido ao número de Reynolds ser da ordem de 104, o que reforça que, com os equipamentos utilizados, seria impossível verificar o ângulo de estol do aerofólio num túnel de vento com tão baixa velocidade. 	
-
 ### Dados medidos;
 Durante o procedimento foi medido a velocidade no extradorso da asa utilizando um anemômetro, obtendo uma velocidade de 4,14 m/s e também foi medido a velocidade antes atingir o aerofólio, essa velocidade encontrada foi de 4 m/s. Comprovando o fato de que a velocidade aumenta no extradorso da asa, gerando uma diminuição na pressão estática e assim devido a diferença de pressão no extradorso e intradorso da asa é gerada a sustentação.
 Utilizando a equação de bernoulli e desconsiderando efeitos de energia potencial, considerando o regime como permanente e escoamento subsônico a equação ficará:
-
-	P1/ρar+〖V1〗^2/2=P2/ρar+〖V2〗^2/2
+![bernoulli](https://lh5.googleusercontent.com/nnJvx81nQYBeXmvHCACZi7QNU2DCdxGkhibeBvQrNG3lkByInF35B-BSfmYQ5kdTb5Yao_721DfuABI9pgYk5RT82ejdV1exClLiQX_2E57jptwHTYPzi5L_anSZrz3Uz7RY4Sqf)
+	
 Considerando o termo P como a pressão atmosférica: 101325 PA
 A densidade do ar como: 1,225 kg/m3
 A V1 como: 4 m/s e V2 como 4,14 m/s
@@ -156,7 +114,9 @@ Substituindo na equação de bernoulli, foi encontrado que a P2(pressão no extr
 Infelizmente, devido a baixa velocidade do túnel de vento, não foi possível visualizar as linhas de corrente, era esperado que com o aumento do ângulo de ataque fosse gerado um turbilhonamento na parte superior da asa, indicando assim o descolamento da camada limite (stall).
 
 ### Apêndices
-Apêndice 1.1:Período real para o desenvolvimento do projeto 
+Apêndice 1.1:
+![apendice1](https://lh5.googleusercontent.com/Ykbdco3saZVXX3WEuH7_5zdqmU2eFAC-OGBQCl1GjTxiLwCWXLzmPMCvKdM5JM972WYskToBFWwcMG60Bm3tk1j1uvxhzTy07SCnbAeHf4-22FJdIEoMnuesFZX6MFculEB0TBLq)
+Período real para o desenvolvimento do projeto 
 
 ### 4.	Análise e conclusão:
 ### links das etapas
