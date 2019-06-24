@@ -20,21 +20,8 @@ Nesse experimento também será utilizada a equação de Bernoulli:
 P+gh+V22=constante 
 (ao longo de uma mesma linha de corrente)
 Com o intuito de medir a velocidade no extradorso da asa e avaliar o seu comportamento, espera-se que a velocidade aumente no extradorso da asa mostrando assim um efeito similar ao que acontece no tubo de venturi. De uma forma simples, podemos explicar a sustentação na asa de uma aeronave por meio da diferença de pressão entre o intradorso e o extradorso da asa, essa diferença de pressão ocorre pois na parte superior do aerofólio ocorre um aumento na velocidade devido ao seu formato, esse incremento na velocidade provoca uma redução na pressão, assim na parte inferior do aerofólio a pressão se mantém igual, logo a pressão embaixo é superior à de cima, criando assim a sustentação, a sustentação pode ser encontrada utilizando a fórmula:
-
-
-
-L=12CLSV2
-
-
-
-
-
-L ("Lift"): Força aplicada na asa
-⍴: Densidade do ar
-CL: Coeficiente de sustentaçao
-S ("Surface"): Area da superficie da asa
-V: Velocidade verdadeiro
-
+![formula 1]
+(https://lh4.googleusercontent.com/2hOZiQAJzz4CES5ufxGlcfB4rwof6iVGNXz7CiQ5_Um8PCrpH6wlCoSHoLpjqL8Nk-gTcc-8H1Ow2H5kmJRbr3MS9hjvGtkyUPKnBcrl)
 Mas o objetivo desse experimento não é encontrar a sustentação pois seria necessário um tempo maior de trabalho e programação para que isso fosse feito.
 Procedimentos experimentais, onde as seguintes informações deverão ser colocadas:
 
