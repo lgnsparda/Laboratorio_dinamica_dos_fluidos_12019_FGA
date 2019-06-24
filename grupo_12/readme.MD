@@ -127,10 +127,10 @@ Período real para o desenvolvimento do projeto
 	etapa 1	
 https://github.com/lgnsparda/Lboratorio_dinamica_dos_fluidos_12019_FGA/files/3293584/Laboratorio.dinamica.dos.fluidos.parte.1.pdf
 
-	etapa2 
+	etapa 2 
 	
 https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/files/3293585/Laboratorio.dinamica.dos.fluidos.parte.2.pdf
 	
-	etapa3 
+	etapa 3 
 	
 https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/files/3293564/Laboratorio.dinamica.dos.fluidos.parte.3.pdf
