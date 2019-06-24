@@ -102,7 +102,7 @@ Fotos do experimento montado;
 
 Abaixo é mostrado na imagem a foto do mecanismo para alteração do ângulo de ataque, juntamente com a o perfil de asa obtido para o experimento, foi utilizado esse mecanismo, foi utilizado lego para construção do suporte devido a facilidade que o proporcionou para a montagem.
 
-(https://lh3.googleusercontent.com/RySvibbktj0EQOkjoufNp1OqquHxPvRfODSu4zAHeZJIn_MKIODrcQMkzWggcUEOqPIL5Gtpe32uh7yUOQq2qUkyi9ixZNavB5LCjXXIg0cxNtHXGOIo2qYV8kcMfiC93QDKkv9F)
+![mecanismo](https://lh3.googleusercontent.com/RySvibbktj0EQOkjoufNp1OqquHxPvRfODSu4zAHeZJIn_MKIODrcQMkzWggcUEOqPIL5Gtpe32uh7yUOQq2qUkyi9ixZNavB5LCjXXIg0cxNtHXGOIo2qYV8kcMfiC93QDKkv9F)
 
  Figura 1: Mecanismo utilizado no experimento juntamente com o perfil de asa
 
