@@ -93,5 +93,55 @@ Espera-se que dentro do túnel de vento a velocidade do ar seja maior que do lad
 # Nota: 2,5
 
 ### 3.	Execução:
+
+#### 3.1 Instrumentos
+
+Anemometro: consiste num instrumento para medir a velocidade do vento ou de outros fluidos em movimento.
+
+Túnel de vento:  estrutura que propicia a simulação do comportamento do ar em relação a diversos tipos de objetos, como aviões, carros e até mesmo na construção civil.
+
+Trena:  serve para medições lineares.
+
+#### 3.2 Procedimento 
+
+Realizar medições da estrutura do túnel de vento.
+
+O anemômetro é colocado dentro do túnel de vento para se obter a velocidade do vento. A medição com o anemômetro é realizada três vezes.
+
+Observação: não foi necessário a calibração do anemômetro pois esse já estava calibrado.
+
+Medir a velocidade do vento fora do túnel de vento.
+
+Medir pressão fora do túnel de vento. 
+
+#### 3.3 Dados
+
+Túnel de vento:
+
+Figura 1: Túnel de vento
+
+Onde:
+
+D1: 1508  0.05 mm.
+D2: 843  0.05 mm.
+D3: 580  0.05 mm. 
+D4: 1914  0.05 mm.
+D5: 942  0.05 mm.
+D6: 945 0.05 mm.
+D7: 440  0.05 mm.
+
+
+Velocidade do vento no interior do túnel: 3.68  0.01 m/s; 3.60  0.01 m/s; 3.75  0.01 m/s.
+
+Velocidade fora do túnel de vento: a uma distância de três metros do bocal do túnel, a velocidade do vento foi de 0 m/s.
+
+Pressão fora do túnel de vento: a uma distância de três metros do bocal do túnel, a pressão  1 atm ou 101325 Pa.
+
+
+#### 3.4 Montagem experimental
+
+  Figura 2: Anemômetro no interior do túnel de vento
+
+
  
 ### 4.	Análise e conclusão:
