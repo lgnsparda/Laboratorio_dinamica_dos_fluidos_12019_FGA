@@ -118,6 +118,8 @@ Medir pressão fora do túnel de vento.
 
 Túnel de vento:
 
+![](t1.jpg)
+
 Figura 1: Túnel de vento
 
 Onde:
@@ -139,6 +141,8 @@ Pressão fora do túnel de vento: a uma distância de três metros do bocal do t
 
 
 #### 3.4 Montagem experimental
+
+![](t2.jpg)
 
   Figura 2: Anemômetro no interior do túnel de vento
 
