@@ -338,6 +338,28 @@ Como a pressão possui certo desvio padrão, calculamos a velocidade final para 
 * Lara Emilly Pereira Santos - 17/0070352 
 
 ### Apresentação dos dados medidos
+Como esclarecido na Seção 3, o primeiro objetivo do experimento foi calcular as variações de altura a partir do sopro: <br/>
+
+![tabela altura](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/tabela%20alturas.png) <br/>
+**Tabela 4**: Variação de altura no tubo. <br/>
+
+A segunda parte era, através das diferenças de altura, calcular a diferença de pressão para cada variação através da Equação 12, lembrando de tirar o termo Po, visto que visa-se obter a pressão manométrica do sopro humano: <br/>
+
+![tabela pressao](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/tabela%20press%C3%B5es.png) <br/>
+**Tabela 5**: Pressão manométrica correspondente à cada variação de altura no tubo. <br/>
+
+Como tudo foi medido utilizando-se instrumentos, é fato que os resultados apresentados acima carregam certa incerteza, que são chamadas de erros experimentais. <br/>
+O erro das medidas da altura vêm da incerteza da régua, que é 0,0005 metros, e do desvio padrão de seus valores (Equação 13). Já o erro da pressão foi obtido apenas pelo desvio padrão de todas as medidas. <br/>
+
+![desvio padrao](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/eq%20desvio%20padr%C3%A3o.gif) Equação 13 <br/>
+
+Sendo: 
+* xi os valores de pressão;
+* x com a barra a média desses valores;
+* n a quantidade de termos.
+
+![desvio p](
+
 
 
 ### Referências:
