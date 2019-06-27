@@ -112,6 +112,8 @@ Trena:  serve para medições lineares.
 
 4. Medir pressão fora do túnel de vento. 
 
+Foi possível a presença da dupla na realização do experimento, acarretando na mútua cooperação dos integrantes no procedimento experimental. 
+
 #### 3.3 Dados:
 
 Túnel de vento:
