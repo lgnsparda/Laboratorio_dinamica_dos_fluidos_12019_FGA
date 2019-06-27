@@ -104,15 +104,15 @@ Trena:  serve para medições lineares.
 
 #### 3.2 Procedimento 
 
-Realizar medições da estrutura do túnel de vento.
+1. Realizar medições da estrutura do túnel de vento.
 
-O anemômetro é colocado dentro do túnel de vento para se obter a velocidade do vento. A medição com o anemômetro é realizada três vezes.
+2. O anemômetro é colocado dentro do túnel de vento para se obter a velocidade do vento. A medição com o anemômetro é realizada três vezes.
 
 Observação: não foi necessário a calibração do anemômetro pois esse já estava calibrado.
 
-Medir a velocidade do vento fora do túnel de vento.
+3. Medir a velocidade do vento fora do túnel de vento.
 
-Medir pressão fora do túnel de vento. 
+4. Medir pressão fora do túnel de vento. 
 
 #### 3.3 Dados
 
