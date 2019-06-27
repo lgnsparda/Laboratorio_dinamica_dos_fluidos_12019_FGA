@@ -337,13 +337,17 @@ Como a pressão possui certo desvio padrão, calculamos a velocidade final para 
 * Alexandre Alencar de Melo - 17/0028046
 * Lara Emilly Pereira Santos - 17/0070352 
 
-### Apresentação dos dados medidos
+### Apresentação dos dados medidos e calculados
 Como esclarecido na Seção 3, o primeiro objetivo do experimento foi calcular as variações de altura a partir do sopro: <br/>
 
 ![tabela altura](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/tabela%20alturas.png) <br/>
 **Tabela 4**: Variação de altura no tubo. <br/>
 
-A segunda parte era, através das diferenças de altura, calcular a diferença de pressão para cada variação através da Equação 12, lembrando de tirar o termo Po, visto que visa-se obter a pressão manométrica do sopro humano: <br/>
+A segunda parte era, através das diferenças de altura, calcular a diferença de pressão para cada variação através da Equação 12, lembrando de tirar o termo Po, visto que visa-se obter a pressão manométrica do sopro humano. Os valores utilizados foram: <br/>
+
+* ![ro](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/r%C3%B4.gif) a massa específica da água (997 kg/ metros cúbicos);
+* g a gravidade como 9,81 m/s2;
+* h as alturas apresentadas na Tabela 4;
 
 ![tabela pressao](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/tabela%20press%C3%B5es.png) <br/>
 **Tabela 5**: Pressão manométrica correspondente à cada variação de altura no tubo. <br/>
@@ -351,14 +355,50 @@ A segunda parte era, através das diferenças de altura, calcular a diferença d
 Como tudo foi medido utilizando-se instrumentos, é fato que os resultados apresentados acima carregam certa incerteza, que são chamadas de erros experimentais. <br/>
 O erro das medidas da altura vêm da incerteza da régua, que é 0,0005 metros, e do desvio padrão de seus valores (Equação 13). Já o erro da pressão foi obtido apenas pelo desvio padrão de todas as medidas. <br/>
 
-![desvio padrao](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/eq%20desvio%20padr%C3%A3o.gif) Equação 13 <br/>
+s=![desvio padrao](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/eq%20desvio%20padr%C3%A3o.gif) Equação 13 <br/>
 
 Sendo: 
 * xi os valores de pressão;
 * x com a barra a média desses valores;
 * n a quantidade de termos.
 
-![desvio p](
+![desvio p](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/tabela%20desvios.png) <br/>
+**Tabela 6:** Desvios referentes à altura e à pressão. <br/>
+
+O próximo objetivo do experimento foi calcular a velocidade que o sopro passou por entre as chamas das velas. Para isto, usou-se a Equação 12, e todos os valores utilizados foram explicitados na Seção 3. Entretanto, a pressão do sopro calculada anteriormente apresenta um desvio padrão, então, para obter-se valores da velocidade mais próximos do real, utilizou-se a pressão mínima e a pressão máxima. <br/>
+
+![pmax](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/press%C3%A3o%20max.gif) ![pmin](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/press%C3%A3o%20min.gif) Equações 14 <br/>
+
+Pmax=1540,95 Pa e Pmin=1409,52 Pa. <br/>
+De posse dos dois valores de pressão, calculou-se duas velocidades: V1 e V2, que usaram Pmax e Pmin, respectivamente, na Equação 12. <br/>
+A velocidade V1 = 14,22 m/s e V2 = 14,23 m/s. <br/>
+
+### Apresentação dos gráficos e sua respectiva análise
+
+Como este experimento consistiu mais em cálculos e observação, os únicos gráficos que pudemos obter foi o da dispersão de valores da altura e da pressão. <br/>
+
+![graf altura](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/graf%20alturas.png) <br/>
+**Gráfico 1** <br/>
+
+![graf pressao](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/tabela%20press%C3%B5es.png) <br/>
+**Gráfico 2** <br/>
+Esses gráficos mostram que os valores obtidos oscilam em torno de sua média. Então, seu desvio padrão vai ser relativamente baixo, como podemos observar através da Tabela 6. <br/>
+
+### Comparação dos resultados com a teoria envolvida
+
+Na Seção 2, falou-se que o resultado esperado era observar uma velocidade do sopro maior do que a do outro lado. E, de fato, isso aconteceu. <br/>
+Como pode-se comprovar isso? <br/>
+De acordo com o Princípio de Bernoulli (Equação 11), a mudança de pressão em um sistema tende a causar variação na velocidade do seu escoamento. Pode-se observar esse acontecimento de duas formas neste experimento: <br/>
+* **Primeira forma**: Observando que a pressão do sopro é muito menor que a atmosférica, causando o aumento de velocidade entre as velas. <br/>
+* **Segunda forma**: É de conhecimento geral que o escoamente de um fluido tende a ir do local de maior pressão para o de menor pressão. Sendo assim, é esperado que as chamas inclinem para o local de menor pressão, já que o ar vai tender a seguir este trajeto. E realmente, é o que acontece. Olhando pelo lado da velocidade, 'fora' das velas temos a velocidade do vento de aproximadamente 0 m/s, e 'dentro' temos aproximadamente 14,22 m/s. Então, aumento de velocidade gera diminuição de pressão 'dentro' e leva o ar a se movimentar nesta direção. <br/>
+
+![velas e setas](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/ch.jpg) <br/>
+**Figura 5**: Representação da pressão, velocidade e movimento do ar. <br/>
+
+### Conclusão
+
+Destarde, foi possível observar que, com um simples experimento, consegue-se analisar na prática o Princípio de Bernoulli. Analisando as pressões envolvidas é factível encontrar as velocidades. E, analogamente, tendo as velocidades encontram-se as pressões. <br/>
+Um exemplo prático tão simples ensina como uma das equações mais temidas da Mecânica dos Fluidos pode ser analisada primordialmente numa situação básica para, após isto, elevar-se sua dificuldade. <br/>
 
 
 
