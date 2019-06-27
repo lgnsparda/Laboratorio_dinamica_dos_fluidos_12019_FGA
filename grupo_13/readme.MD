@@ -106,7 +106,7 @@ Trena:  serve para medições lineares.
 
 1. Realizar medições da estrutura do túnel de vento.
 
-2. O anemômetro é colocado dentro do túnel de vento para se obter a velocidade do vento. A medição com o anemômetro é realizada três vezes.
+2. Posicionar o anemômetro dentro do túnel de vento para se obter a velocidade do vento. A medição com o anemômetro é realizada três vezes.
 
 Observação: não foi necessário a calibração do anemômetro pois esse já estava calibrado.
 
