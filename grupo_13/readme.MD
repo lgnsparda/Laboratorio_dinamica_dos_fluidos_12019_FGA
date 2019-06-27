@@ -64,7 +64,7 @@ Vale lembrar que para a utilização da Equação de Bernoulli é necessário qu
 * Fluxo incompressível;
 * Fluxo irrotacional.
 
-#### 2.2.  Procedimentos
+#### 2.2.  Procedimentos:
 
 Os túneis de vento são equipamentos utilizados para a simulação de comportamentos aerodinâmicos, se trata de um túnel com a passagem contínua de ar, neles são testados, por exemplo, a aerodinâmica de carros e aviões. Neste experimento, o túnel de vento será utilizado como meio para provar o princípio de Bernoulli, para isso, a velocidade e a pressão do ar serão monitoradas dentro e na saída do túnel, tendo esses resultados poderemos substituir os mesmos na equação de Bernoulli, validando-a.
 
@@ -94,7 +94,7 @@ Espera-se que dentro do túnel de vento a velocidade do ar seja maior que do lad
 
 ### 3.	Execução:
 
-#### 3.1 Instrumentos
+#### 3.1 Instrumentos:
 
 Anemometro: consiste num instrumento para medir a velocidade do vento ou de outros fluidos em movimento.
 
@@ -102,7 +102,7 @@ Túnel de vento:  estrutura que propicia a simulação do comportamento do ar em
 
 Trena:  serve para medições lineares.
 
-#### 3.2 Procedimento 
+#### 3.2 Procedimento: 
 
 1. Realizar medições da estrutura do túnel de vento.
 
@@ -114,7 +114,7 @@ Observação: não foi necessário a calibração do anemômetro pois esse já e
 
 4. Medir pressão fora do túnel de vento. 
 
-#### 3.3 Dados
+#### 3.3 Dados:
 
 Túnel de vento:
 
@@ -140,7 +140,7 @@ Velocidade fora do túnel de vento: a uma distância de três metros do bocal do
 Pressão fora do túnel de vento: a uma distância de três metros do bocal do túnel, a pressão foi de 1 atm ou 101325 Pa.
 
 
-#### 3.4 Montagem experimental
+#### 3.4 Montagem experimental:
 
 ![](t2.jpg)
 
