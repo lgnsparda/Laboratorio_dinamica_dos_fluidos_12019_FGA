@@ -137,7 +137,7 @@ Velocidade do vento no interior do túnel: 3.68  0.01 m/s; 3.60  0.01 m/s; 3.75 
 
 Velocidade fora do túnel de vento: a uma distância de três metros do bocal do túnel, a velocidade do vento foi de 0 m/s.
 
-Pressão fora do túnel de vento: a uma distância de três metros do bocal do túnel, a pressão  1 atm ou 101325 Pa.
+Pressão fora do túnel de vento: a uma distância de três metros do bocal do túnel, a pressão foi de 1 atm ou 101325 Pa.
 
 
 #### 3.4 Montagem experimental
