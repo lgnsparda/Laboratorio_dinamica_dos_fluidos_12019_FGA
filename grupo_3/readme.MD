@@ -367,7 +367,7 @@ Sendo:
 
 O próximo objetivo do experimento foi calcular a velocidade que o sopro passou por entre as chamas das velas. Para isto, usou-se a Equação 12, e todos os valores utilizados foram explicitados na Seção 3. Entretanto, a pressão do sopro calculada anteriormente apresenta um desvio padrão, então, para obter-se valores da velocidade mais próximos do real, utilizou-se a pressão mínima e a pressão máxima. <br/>
 
-![pmax](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/press%C3%A3o%20max.gif) ![pmin](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/press%C3%A3o%20min.gif) Equações 14 <br/>
+![pmax](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/press%C3%A3o%20max.gif) <br/> ![pmin](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/press%C3%A3o%20min.gif) <br/> Equações 14 <br/>
 
 Pmax=1540,95 Pa e Pmin=1409,52 Pa. <br/>
 De posse dos dois valores de pressão, calculou-se duas velocidades: V1 e V2, que usaram Pmax e Pmin, respectivamente, na Equação 12. <br/>
@@ -380,7 +380,7 @@ Como este experimento consistiu mais em cálculos e observação, os únicos gr�
 ![graf altura](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/graf%20alturas.png) <br/>
 **Gráfico 1** <br/>
 
-![graf pressao](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/tabela%20press%C3%B5es.png) <br/>
+![graf pressao](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_3/graf%20pressoes.png) <br/>
 **Gráfico 2** <br/>
 Esses gráficos mostram que os valores obtidos oscilam em torno de sua média. Então, seu desvio padrão vai ser relativamente baixo, como podemos observar através da Tabela 6. <br/>
 
@@ -397,7 +397,7 @@ De acordo com o Princípio de Bernoulli (Equação 11), a mudança de pressão e
 
 ### Conclusão
 
-Destarde, foi possível observar que, com um simples experimento, consegue-se analisar na prática o Princípio de Bernoulli. Analisando as pressões envolvidas é factível encontrar as velocidades. E, analogamente, tendo as velocidades encontram-se as pressões. <br/>
+Destarte, foi possível observar que, com um simples experimento, consegue-se analisar na prática o Princípio de Bernoulli. Analisando as pressões envolvidas é factível encontrar as velocidades. E, analogamente, tendo as velocidades encontram-se as pressões. <br/>
 Um exemplo prático tão simples ensina como uma das equações mais temidas da Mecânica dos Fluidos pode ser analisada primordialmente numa situação básica para, após isto, elevar-se sua dificuldade. <br/>
 
 
