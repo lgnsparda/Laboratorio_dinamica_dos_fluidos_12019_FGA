@@ -118,22 +118,22 @@ Observação: não foi necessário a calibração do anemômetro pois esse já e
 
 Túnel de vento:
 
-![](t1.jpg)
+![](t1.png)
 
 Figura 1: Túnel de vento
 
 Onde:
 
-D1: 1508  0.05 mm.
-D2: 843  0.05 mm.
-D3: 580  0.05 mm. 
-D4: 1914  0.05 mm.
-D5: 942  0.05 mm.
-D6: 945 0.05 mm.
-D7: 440  0.05 mm.
+D1: 1508 ![](m.gif) 0.05 mm.
+D2: 843 ![](m.gif) 0.05 mm.
+D3: 580 ![](m.gif) 0.05 mm. 
+D4: 1914 ![](m.gif) 0.05 mm.
+D5: 942 ![](m.gif) 0.05 mm.
+D6: 945 ![](m.gif) 0.05 mm.
+D7: 440 ![](m.gif) 0.05 mm.
 
 
-Velocidade do vento no interior do túnel: 3.68  0.01 m/s; 3.60  0.01 m/s; 3.75  0.01 m/s.
+Velocidade do vento no interior do túnel: 3.68 ![](m.gif) 0.01 m/s; 3.60 ![](m.gif) 0.01 m/s; 3.75 ![](m.gif) 0.01 m/s.
 
 Velocidade fora do túnel de vento: a uma distância de três metros do bocal do túnel, a velocidade do vento foi de 0 m/s.
 
