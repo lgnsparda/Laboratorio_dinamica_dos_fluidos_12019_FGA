@@ -12,6 +12,8 @@ Nesse experimento será efetuado um ensaio em túnel de vento, a fim de  visuali
 Será necessário primeiramente dimensionar o túnel de vento, para que assim seja possível construir o protótipo de aerofólio que será testado no experimento. Em seguida serão fixadas ao corpo do objeto pequenas fitas para visualização das linhas de corrente e  de emissão.
  No segundo momento será necessário criar um mecanismo para alteração do ângulo de ataque do do aerofólio, dentro do túnel de vento, a fim de ser possível analisar o comportamento das linhas de emissão.
 	Finalizando o experimento, será necessário acoplar o aerofólio dentro do túnel de vento e analisar o comportamento das linhas de emissão com a variação do ângulo de ataque.
+	
+# Nota: 2,5
 
 # 2 Planejamento e Preparação:
 ## 2.1 Teoria do experimento;
@@ -61,6 +63,8 @@ Os dados a serem medidos com esse experimento será a Pressão e a velocidade do
 Com o experimento esperamos adquirir um maior conhecimento empírico que se embase em toda teoria aprendida em sala de aula, ele em si, como processo, terá maior importância do que os dados colhidos. Haverá rigor, na medida do aceitável, na quantificação das variáveis devido a instrumentação. No entanto aproximações podem ser feitas ao decorrer do experimento, tanto para efeitos de progresso como por efeitos de limitações já esperadas.
 Se o planejamento for bem executados é esperado que a pressão e velocidade sejam medidas. Devemos encontrar uma pressão no extradorso menor para que se dê o efeito de sustentação, e como a pressão diminui (pressão e velocidade são diretamente proporcionais), também é esperado que a velocidade no extradorso aumenta. 
 Pela mudança do ângulo no bordo de ataque, dependendo do ângulo, haverá uma mudança nas pressões. Essas mudanças deverão ser medidas para que se comprove a maior sustentação gerada com sua mudança. A inclinação gera uma maior sustentação até certo ângulo, passado ele vamos poder observar os efeitos do descolamento da camada limite e o estol (perda de sustentação).
+
+# Nota: 2,5
 
 
 # 3 Execução:
@@ -119,6 +123,8 @@ Infelizmente, devido a baixa velocidade do túnel de vento, não foi possível v
 ### Apêndice 1.1:
 ![apendice1](https://lh5.googleusercontent.com/Ykbdco3saZVXX3WEuH7_5zdqmU2eFAC-OGBQCl1GjTxiLwCWXLzmPMCvKdM5JM972WYskToBFWwcMG60Bm3tk1j1uvxhzTy07SCnbAeHf4-22FJdIEoMnuesFZX6MFculEB0TBLq)
 Período real para o desenvolvimento do projeto 
+
+# Nota: 2,5
 
 ## 4.	Análise e conclusão:
 
