@@ -110,6 +110,8 @@ Para o tubo de venturi é esperado um coeficiente de descarga entre 0.980 e 0,99
 
 WHITE, F, Mecanica dos Fluidos, McGrawHill, RJ, 1991.
 
+# Nota: 2,5
+
 
 
 ### 3.	Execução:
@@ -175,5 +177,7 @@ WHITE, F, Mecanica dos Fluidos, McGrawHill, RJ, 1991.
     Figura 5. Rotâmetro - Medição 2
 
     ![](https://github.com/Gezards/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_6/rotametro2.jpg) 
+    
+    # Nota: 2,5
 
 ### 4.	Análise e conclusão:
