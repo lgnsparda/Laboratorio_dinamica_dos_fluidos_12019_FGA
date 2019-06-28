@@ -125,3 +125,26 @@ Grupo 11:
   ![Teste de legenda de imagem 10](regime24s.jpg);
   
 ### 4.	Análise e conclusão:
+
+  ### 4.1	Cálculos e Resultados;
+  
+  Para realizar os cálculos desses experimento foi criado uma planilha no excel, utilizandos os seguintes valores constantes:
+  - Área de vazão;
+  - Diâmetro da mangueira;
+  - Viscosidade Cinemática;
+  - Volume;
+  fixando esse valores foi possível chegar no valores de número de Reyonolds experimental para os tempos medidos, sendo todos acima de 2000, confirmando o turbulência do fluído calculado observada nas 3.3.
+  
+  ![Teste de legenda de imagem 11](tabela9ate24.jpg);
+  
+  Como o número de Reynolds é uma relação linear sendo a varíavel o velocidade do flúido, foi possível projetar a partir de qual velocidade o fluído sairia do regime turbolento para um regime transiente.
+  
+  ![Teste de legenda de imagem 11](tabelacompleta.jpg);
+  
+  Com isso possível verificar que com a velocidade de 0,0693 m/s o regime passa a ser turbulento, infelizmente essa velocidade não é possível chegar no ambiente em que foi feito o experimento.
+  
+  ### 4.3 Conclusão;
+  
+  Esse experimento é uma forma bem didática de trabalhar com número de Reynolds em ambientes em que o controle não é alto. Durante a execução foi possível chegar em resultados plauísveis seguindo a base teórica dada na máteria de dinâmica de fluídos. Sendo assim, o experimento se torna aconselhável para demonstração da relação do número de Reyonolds e turbulência.
+
+
