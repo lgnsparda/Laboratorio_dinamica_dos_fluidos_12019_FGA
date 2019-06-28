@@ -135,11 +135,11 @@ Grupo 11:
   - Volume;
   fixando esse valores foi possível chegar no valores de número de Reyonolds experimental para os tempos medidos, sendo todos acima de 2000, confirmando o turbulência do fluído calculado observada nas 3.3.
   
-  ![Teste de legenda de imagem 11](tabela9ate24.jpg);
+  ![Teste de legenda de imagem 11](tabela9ate24s.jpg);
   
   Como o número de Reynolds é uma relação linear sendo a varíavel o velocidade do flúido, foi possível projetar a partir de qual velocidade o fluído sairia do regime turbolento para um regime transiente.
   
-  ![Teste de legenda de imagem 11](tabelacompleta.jpg);
+  ![Teste de legenda de imagem 12](tabelacompleta.jpg);
   
   Com isso possível verificar que com a velocidade de 0,0693 m/s o regime passa a ser turbulento, infelizmente essa velocidade não é possível chegar no ambiente em que foi feito o experimento.
   
