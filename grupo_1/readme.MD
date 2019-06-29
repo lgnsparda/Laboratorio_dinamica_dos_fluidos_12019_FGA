@@ -223,6 +223,7 @@ A1 = (0.086/2)^2 x π = 5,80*10^-3 m²
   
 
 Substituindo os valores e isolando v1:
+
 ![](https://lh6.googleusercontent.com/PJyiMsURl7DmkVWNKs_7-Po9a9pRcrdGxe8JcAOhQusPJw9yod5QUjg3ajdnP8WyizWE8lsjn1RkRPWizx2K1z80CNN24dM51EQPf2DPkvOdgyRVWEOgfcSm6ezfKZAgXb9FIsZ4)
 
 voltando em ( I ) e substituindo Δh por -6,5 (cm) :
@@ -254,7 +255,10 @@ A parte de menor área, tem a menor pressão e maior velocidade .
 
 ## Conclusões do experimento
 A partir da realização deste ensaio, foi possível comprovar, empiricamente, a existência do "Efeito Bernoulli", com a utilização de um Tubo de Venturi construído a partir de sucata. Paralelamente, foi possível observar a eficácia do Tubo de Pitot para medição da velocidade do escoamento. Entretanto, em ambos os tubos, houveram fatores que influenciaram diretamente os resultados e tornaram inviável a correlação dos mesmos.
+
 No caso do Tubo de Venturi, a área da secção transversal da fonte que provocava o escoamento era ligeiramente menor que a área inicial do tubo de Venturi. Ainda que tenha sido usada uma toalha, para minimizar a perda de fluxo, a diferença das áreas gerou alteração nos resultados.
+
 Já no Tubo de Pitot, estes fatores dizem respeito à vedação da estrutura do tubo, a junção do tubo com a mangueira de medição e à pequenas dobras ao longo desta mangueira que dificultavam a passagem da água. Foram realizadas alterações na propria estrutura, de forma a minimizar estes fatores, mas, assim como no Tubo de Venturi, os mesmo ainda podem ter causado alterações.
+
 Por fim podemos concluir que, apesar de todo o esforço do grupo, para mitigação dos erros intrínsecos à utilização de um aparelho caseiro, foram notadas alterações reais nos valores medidos e calculados que refletiram diretamente nos resultados finais. Ainda assim, foi possível observar, individualmente, os fenômenos referentes ao princípio de Bernoulli (que um escoamento dentro de tubo com diferentes áreas de secções transversais, irá ajustar suas características, tais como a velocidade e pressão, de forma a garantir a continuidade da vazão), bem como à medição da velocidade, à partir do Tubo de Pitot, atingindo assim o sucesso parcial do experimento.
 
