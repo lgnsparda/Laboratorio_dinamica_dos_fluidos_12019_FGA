@@ -97,17 +97,17 @@ Dados medidos:
   Para o cálculo da velocidade 1, foi utilizada a equação abaixo:
   https://github.com/Leocaldas15/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/Equacao1.gif
   Onde :
-   [dado 1] é a massa específica da água;
-   [dado 2] é a gravidade;
-   [dado 3] é a diferença de altura entre os meniscos;
-   e [dado 4]é a massa específica do ar.
-  Com o diâmetro maior da garrafa, temos [área 1=642,405mm²], e com o diâmetro menor, temos [área 2=71,478mm²]. 
-  Portanto, [v1=2,971m/s].
-  Com a relação abaixo, pode-se encontrar agora [v2].
+   https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(3).gif é a massa específica da água;
+   https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(1).gif é a gravidade;
+   https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(2).gif é a diferença de altura entre os meniscos;
+   e https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(4).gifé a massa específica do ar.
+  Com o diâmetro maior da garrafa, temos https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(7).gif, e com o diâmetro menor, temos https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(6).gif. 
+  Portanto, https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(8).gif.
+  Com a relação abaixo, pode-se encontrar agora https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(10).gif.
   https://github.com/Leocaldas15/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/Equacao2.gif
-  Então, [v2=26,702m/s].
-  Portanto, como demonstrado teoricamente, no relatório 2, [v2>v1]. 
-  A variação de pressão pode ser observada com a diferença de altura [dado 3] no tubo do manômetro.
+  Então, https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(9).gif.
+  Portanto, como demonstrado teoricamente, no relatório 2, https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(11).gif. 
+  A variação de pressão pode ser observada com a diferença de altura https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(12).gif no tubo do manômetro.
   
    Conclusão:
 O Efeito Bernoulli está presente e pode ser observado em várias situações do nosso dia a dia em que haja um fluido qualquer em um sistema de escoamento.Teoricamente, no relatório 2, demonstramos o que afirma o Efeito Bernoulli. Fazendo uso de materiais simples, nesta prática, foi possível comprovar experimentalmente este efeito, demonstrando a variação e relações de grandezas entre as velocidades e as pressões durante o escoamento do fluido. 
