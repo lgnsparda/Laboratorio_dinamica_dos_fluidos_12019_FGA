@@ -11,7 +11,7 @@ Dinâmicas dos fluídos  1/2019
  ### Objetivo  
  
   
-  Objetivo do experimento é estudar e analisar o efeito magnus quando aplicado em um cilindro girando em torno de seu próprio eixo. Utilizar seu efeito para substituir o motor tradicional de um veículos terrestres, ou seja, construir um rotor de Flettner em um veículo.  
+  Objetivo do experimento é estudar e analisar o efeito magnus quando aplicado em um cilindro girando em torno de seu próprio eixo. Utilizar seu efeito para substituir o motor tradicional de um veículos, ou seja, construir um rotor de Flettner em um veículo.  
    
    
 ### Efeito Magnus   
@@ -21,13 +21,13 @@ Dinâmicas dos fluídos  1/2019
 
 
 O Efeito Magnus é um fenômeno pelo qual a rotação de um objeto altera sua trajetória em um fluido. Ele recebe esse nome em honra ao químico e físico alemão chamado Heinrich Gustav Magnus. 
-	O Efeito Magnus ocorre pois quando o objeto rotaciona, cria uma diferença de pressão no qual ocorre uma força resultante no objeto na direção de menor pressão. Pois o princípio de Bernoulli nos diz que, em diferentes pontos de uma corrente uniforme, se o fluido se movimenta com velocidades diferentes, nos pontos de maior velocidade observa-se uma pressão menor e vice-versa. 
-  	Esse efeito depende da velocidade de rotação e também da quantidade de ar que o corpo arrasta quando gira. Quanto menos liso for o corpo, mais ar ela arrasta e maior o seu efeito.   
+O Efeito Magnus ocorre pois quando o objeto rotaciona, cria uma diferença de pressão no qual ocorre uma força resultante no objeto na direção de menor pressão. Pois o princípio de Bernoulli nos diz que, em diferentes pontos de uma corrente uniforme, se o fluido se movimenta com velocidades diferentes, nos pontos de maior velocidade observa-se uma pressão menor e vice-versa. 
+Esse efeito depende da velocidade de rotação e também da quantidade de ar que o corpo arrasta quando gira. Quanto menos liso for o corpo, mais ar ela arrasta e maior o seu efeito.   
     
   
 ### Rotor de Flettner 
 
- O Rotor de Flettner é um sistema de propulsão criado por Aton Flettner, esse sistema se consiste em uma cilindro em rotação que em conjunto com os ventos geram áreas de baixa e alta pressão e assim gerando uma força perpendicular ao eixo dos cilindros, essa é utilizada para a propulsão do veículo. O MS Buckau em 1921 foi o primeiro navio construído com este tipo de propulsão.  
+O Rotor de Flettner é um sistema de propulsão criado por Aton Flettner, esse sistema se consiste em uma cilindro em rotação que em conjunto com os ventos geram áreas de baixa e alta pressão e assim gerando uma força perpendicular ao eixo dos cilindros, essa é utilizada para a propulsão do veículo. O MS Buckau em 1921 foi o primeiro navio construído com este tipo de propulsão.  
  
  ![Flettner](https://upload.wikimedia.org/wikipedia/commons/3/3f/Buckau_Flettner_Rotor_Ship_LOC_37764u.jpg) 
    
@@ -49,7 +49,7 @@ Para realizar o experimento algumas tarefas terão que ser realizadas pelo grupo
 ### Teoria do experimento
  
 
-  Qualquer corpo que gira em torno do seu centro, estando sujeito a um escoamento é afetado a uma força perpendicular à direção do movimento e ao eixo de rotação. Esse efeito de desvio da trajetória do corpo é conhecido como efeito Magnus e tal força pode ser calculada pela Eq. (1)  
+Qualquer corpo que gira em torno do seu centro, estando sujeito a um escoamento é afetado a uma força perpendicular à direção do movimento e ao eixo de rotação. Esse efeito de desvio da trajetória do corpo é conhecido como efeito Magnus e tal força pode ser calculada pela Eq. (1)  
   
            Fm=12CsρAV2w×V|w×V| - Eq. 1
    
@@ -60,7 +60,7 @@ Onde W é a velocidade angular, Cs; o coeficiente de sustentação-grandeza adim
 ![vetor](http://www.scielo.br/img/revistas/rbef/v37n3//0102-4744-rbef-37-3-3505-gf05.jpg)
  
 
-  A explicação para tal fenômeno, se dá pelo seguinte: o movimento de rotação da bola faz com que ocorra o arrasto do ar ao redor do corpo. Aliado a esse movimento, o corpo se desloca em relação ao meio, fazendo com que o fluido, em que o corpo está presente, também passe ao redor do mesmo. Onde o corpo e o fluido se movimentam na mesma direção (Região A da Fig. 2), a velocidade é maior, portanto, a partir do princípio de Bernoulli, a pressão nessa região será menor. No outro extremo da bola, o ar está se movendo contrário ao movimento da bola (Região B da Fig.2), sendo assim, nessa região a velocidade será menor, enquanto que a pressão será maior. Dessa maneira, tal composição de movimentos gera uma situação em que há uma região de maior pressão onde a velocidade é baixa e outra de baixa pressão onde a velocidade é alta, conforme enunciado no princípio de Bernoulli.  
+ A explicação para tal fenômeno, se dá pelo seguinte: o movimento de rotação da bola faz com que ocorra o arrasto do ar ao redor do corpo. Aliado a esse movimento, o corpo se desloca em relação ao meio, fazendo com que o fluido, em que o corpo está presente, também passe ao redor do mesmo. Onde o corpo e o fluido se movimentam na mesma direção (Região A da Fig. 2), a velocidade é maior, portanto, a partir do princípio de Bernoulli, a pressão nessa região será menor. No outro extremo da bola, o ar está se movendo contrário ao movimento da bola (Região B da Fig.2), sendo assim, nessa região a velocidade será menor, enquanto que a pressão será maior. Dessa maneira, tal composição de movimentos gera uma situação em que há uma região de maior pressão onde a velocidade é baixa e outra de baixa pressão onde a velocidade é alta, conforme enunciado no princípio de Bernoulli.  
   
   A força Magnus sempre será perpendicular ao movimento do corpo e perpendicular à força de arrasto Por ser uma força que irá apontar para o centro de uma trajetória curvilínea, tal força pode ser encarada como uma força centrípeta, cujos direção e sentido apontam para o centro da trajetória. 
   
@@ -109,9 +109,9 @@ Onde W é a velocidade angular, Cs; o coeficiente de sustentação-grandeza adim
 
 ## Montagem  
 
-  A estimativa do cronograma apresentado no ponto de controle anterior não pode ser seguido devido ao erro na estimativa de duração e tempo de início de cada tarefa esse erro foi causado pela falta de ponderação de outras tarefas em outras disciplinas dos membros do grupo. O início da montagem sofreu um atraso de quase 2 semanas.  
+ A estimativa do cronograma apresentado no ponto de controle anterior não pode ser seguido devido ao erro na estimativa de duração e tempo de início de cada tarefa esse erro foi causado pela falta de ponderação de outras tarefas em outras disciplinas dos membros do grupo. O início da montagem sofreu um atraso de quase 2 semanas.  
   
-  A montagem foi dividida em dois subsistemas, o circuito e a parte mecânica do barco, o circuito foi montado e este foi acoplado ao barco. A seguir fotos do barco após a montagem. 
+ A montagem foi dividida em dois subsistemas, o circuito e a parte mecânica do barco, o circuito foi montado e este foi acoplado ao barco. A seguir fotos do barco após a montagem. 
   
  ![sup](sup.jpeg)
 Vista superior  
@@ -122,7 +122,7 @@ Vista superior
   ![iso](iso.jpeg)
   Vista isométrica  
   
-  Após a montagem e os testes o experimento foi realizado em duas etapas, na primeira o barco foi colocado na água e com o rotor de Flettner ligado foi observado a sua trajetória, já na segunda parte além do rotor ligado um ventilador foi ligado e o fluxo de ar foi direcionado para o rotor e foi observado sua trajetória. As trajetórias foram medidas de forma qualitativa em relação ao tempo de translação. 
+ Após a montagem e os testes o experimento foi realizado em duas etapas, na primeira o barco foi colocado na água e com o rotor de Flettner ligado foi observado a sua trajetória, já na segunda parte além do rotor ligado um ventilador foi ligado e o fluxo de ar foi direcionado para o rotor e foi observado sua trajetória. As trajetórias foram medidas de forma qualitativa em relação ao tempo de translação. 
   
 A seguir as trajetórias observadas:   
 
@@ -136,7 +136,18 @@ Trajetória 2
 
 #  Nota: 2,5
 
-### 4.	Análise e conclusão:
+### 4.	Análise e conclusão:  
+
+### Análise   
+
+ Como foi definido no objetivo do experimento, desenvolver um rotor de flettner e observar o efeito magnus, os dados coletados foram apenas qualitativos. Como é notado através das imagens da Trajetória 1 e Trajetória 2, o traslado do veículo pode ser observado, como já discutido neste relatório essa movimentação é em decorrência do efeito magnus no rotor de Flettner. 
+ 
+
+Foi observado, durante o experimento, que a velocidade do barco com pouca influência de vento foi menor do que a velocidade do barco com a presença de um ventilador, ou seja, com grande incidência de fluxo de gases. Devido a essa diferença de fluxo entre um lado do rotor e o outro houve um aumento na diferença entre as pressões, desta forma a força magnus obteve um maior módulo na trajetória 2 do que na Trajetória 1, o que se reflete na velocidades das trajetórias.
+
+### Conclusão  
+
+Por intermédio do experimento pode se observar o efeito magnus e uma aplicação do rotor de Flettner. O rotor de Flettner é uma alternativa para a motorização tradicional, combinado com fontes de energia renováveis é uma forma de reduzir a necessidade de combustíveis fósseis para a navegação. O rotor também é uma alternativa a navegação à vela.  
 
 ## Referências 
 
