@@ -88,3 +88,29 @@ Diferença de altura entre os dois meniscos do fluido: 4,4 cm
 # Nota: 2,5
 
 ### 4.	Análise e conclusão:
+
+Dados medidos:
+  - Diâmetro menor: 3 ± 0,05 cm.
+  - Diâmetro maior: 9 ± 0,05 cm.
+  - Diferença de altura entre os meniscos: 4,4 ± 0,05 cm.
+  
+  Para o cálculo da velocidade 1, foi utilizada a equação abaixo:
+  https://github.com/Leocaldas15/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/Equacao1.gif
+  Onde :
+   [dado 1] é a massa específica da água;
+   [dado 2] é a gravidade;
+   [dado 3] é a diferença de altura entre os meniscos;
+   e [dado 4]é a massa específica do ar.
+  Com o diâmetro maior da garrafa, temos [área 1=642,405mm²], e com o diâmetro menor, temos [área 2=71,478mm²]. 
+  Portanto, [v1=2,971m/s].
+  Com a relação abaixo, pode-se encontrar agora [v2].
+  https://github.com/Leocaldas15/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/Equacao2.gif
+  Então, [v2=26,702m/s].
+  Portanto, como demonstrado teoricamente, no relatório 2, [v2>v1]. 
+  A variação de pressão pode ser observada com a diferença de altura [dado 3] no tubo do manômetro.
+  
+   Conclusão:
+O Efeito Bernoulli está presente e pode ser observado em várias situações do nosso dia a dia em que haja um fluido qualquer em um sistema de escoamento.Teoricamente, no relatório 2, demonstramos o que afirma o Efeito Bernoulli. Fazendo uso de materiais simples, nesta prática, foi possível comprovar experimentalmente este efeito, demonstrando a variação e relações de grandezas entre as velocidades e as pressões durante o escoamento do fluido. 
+
+
+
