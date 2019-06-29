@@ -126,8 +126,16 @@ Período real para o desenvolvimento do projeto
 
 # Nota: 2,5
 
-## 4.	Análise e conclusão:
- Comparativo entre o experimento feito e o ensaio num tubo de vento com velocidade superior;
+# 4.	Análise e conclusão:
+
+## 4.1 integrantes do grupo 
+o grupo premaneceu o mesmo do início ao fim do experimento composto por 
+- Daniel Farkat Alves Fontes - 15/0122331
+- Arthur Pereira Teodoro - 17/0056384
+- Victor Augusto Pereira da Silva - 15/0047525
+
+## 4.2 Comparativo entre o experimento feito e o ensaio num tubo de vento com velocidade superior;
+
 Em paralelo, devido aos resultados não terem sido obtidos como esperados devido às limitações do aparato laboratorial utilizado, foram buscados resultados consistentes em outro experimento. Semelhante a ideia original do que foi proposto, no entanto de várias formas diferentes quanto a realização, condições de contorno e resultados obtidos.
  Primeiramente, foi utilizado um túnel de vento da companhia inglesa (já fora do mercado) Plint & Partners Ltd. e aparato técnico como se segue:
 
@@ -145,6 +153,8 @@ Régua (Einstrumental: ±0,5 cm);
 Paquímetro (Einstrumental: ±0,025 mm);
 Barômetro (Einstrumental: ±0,5 mm Hg);
 Termômetro (Einstrumental: ±0,5 ºC).
+
+### 4.2.1 Apresentação dos dados medidos no experimento com seu respectivo erro experimental
 
 Para temperatura e pressão na data do experimento foram medidos 26 ºC e 677 mmHg respectivamente (ou 299,15 K e 90259,3 Pa). Considerando o ar como sendo seco (sem umidade), podemos aproximar a medida da densidade do ar pela equação:
 
@@ -176,12 +186,16 @@ Figura 4: momento que o aerofólio começar a estolar.
 		
  É possível associar o comportamento do estol, o porque do ângulo crítico ser tão baixo com o estol, ao compararmos com a literatura. Em "Theory of Wing Sections" de Abott e Von Doenhoff é descrito que o ângulo de estol para um NACA 0012 é de 16°, no entanto o número de Reynolds no qual essa análise foi feita é de 3 milhões, o que pressupõe um escoamento turbulento. No experimento realizado, pela ordem do número de reynolds, é possível afirmar que o escoamento é predominantemente laminar com pequenas flutuações turbulentas. Era até possível visualizar pequenos vórtices se formando nas paredes (que foram desconsiderados). É inviável comparar, afim de cálculos, um escoamento turbulento a um laminar, no entanto pode servir como boa ilustração de como o número de reynolds influencia no comportamento do escoamento.
 
+### 4.2.2 Apresentação de gráficos e sua respectiva análise
+
 ![teste](https://lh6.googleusercontent.com/yxunxt_Qxkew5NI86RAHfBR6iXz0hiCvjDNStZpd0NPs6DbMp6SlptIi0OSmgMRRWb-eWx5DcmKTzL8R1wm3f8Xdgr8F_gEe3KSR41wbRffzccsUt6uB8HY7v-i_5fZiiF-cS-86)
 Figura 5: Coeficiente de sustentação e ângulo de ataque com Reynolds da ordem de 105.
 
+ ## 4.3 Comparação dos resultados com a teoria envolvida
  O aerofolio de isopor que foi utilizado no túnel de vento tinha uma corda "L" igual a 14,4 cm. Com a velocidade do escoamento de 4,14 m/s e essa corda teorizamos que o ângulo de ataque para qual o aerofólio atingiria o estol seria ainda menor que 10º devido ao número de Reynolds ser da ordem de 104, o que reforça que, com os equipamentos utilizados, seria impossível verificar o ângulo de estol do aerofólio num túnel de vento com tão baixa velocidade. A conclusão que podemos retirar é que no dado experimento, os efeitos viscosos eram predominantes sobre os de inércia. Se tivéssemos utilizado um material mais leve que o barbante (filetes feitos de sacola plástica) talvez seria possível ao menos enxergar como o escoamento passaria no extradorso do aerofólio feito de isopor.
 
-
+## 4.4 Conclusões do experimento
+ Embora o experimento não tenha superado os objetivos quanto a valores experimentais o desenvolvimento quanto a escala pessoal foi altíssima pois neste projeto foi possível trabalha sério em equipe e gerar um conteúdo didático que explicou de forma prática a parte teórica aplicada em sala de aula
 # links das etapas
 
 	etapa 1	
