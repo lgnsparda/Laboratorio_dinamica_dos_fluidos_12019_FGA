@@ -197,4 +197,5 @@ https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/files/32
 	
 	etapa 4
 	
+https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/files/3341228/Laboratorio.dinamica.dos.fluidos.parte.4.pdf
 
