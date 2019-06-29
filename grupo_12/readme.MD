@@ -127,6 +127,60 @@ Período real para o desenvolvimento do projeto
 # Nota: 2,5
 
 ## 4.	Análise e conclusão:
+ Comparativo entre o experimento feito e o ensaio num tubo de vento com velocidade superior;
+Em paralelo, devido aos resultados não terem sido obtidos como esperados devido às limitações do aparato laboratorial utilizado, foram buscados resultados consistentes em outro experimento. Semelhante a ideia original do que foi proposto, no entanto de várias formas diferentes quanto a realização, condições de contorno e resultados obtidos.
+ Primeiramente, foi utilizado um túnel de vento da companhia inglesa (já fora do mercado) Plint & Partners Ltd. e aparato técnico como se segue:
+
+![foto1](https://lh4.googleusercontent.com/EVdZC3hqJcHVOUm2SYCQNT3Rhb1IZ_tqtwW7wXuom051-5QV_6vLDvPfHmNBTtxtY3JiksWZSqpMjCs2eIUYvwKHUFIxD9W4ybjG0vFB)
+Figura 2: Túnel de vento.
+
+![medidor de angulo](https://lh5.googleusercontent.com/cPJb36q0XY1hdbVff9bZiqDn5spT8aHvx8oH_jzfbtawqS7ALGAV_C4DbD2juDwqYKBm5hN1MONTgE5BaBTHl0llUCGsxrmqbr8ObXuugpHkIuezK6Cg5AZPKJc2sFPTDjFiYxrW)
+Figura 3: Detalhe do medidor de ângulo de ataque.
+
+Aerofólio NACA 0012 (com flape e barbantes);
+Túnel de vento ( aprox. 46x46 cm de secção);
+Manometro digital (Validyne PS309. Einstrumental: ±0,01 cm H2O);
+Controlador de ângulo de ataque (Einstrumental: ±0,5º);
+Régua (Einstrumental: ±0,5 cm);
+Paquímetro (Einstrumental: ±0,025 mm);
+Barômetro (Einstrumental: ±0,5 mm Hg);
+Termômetro (Einstrumental: ±0,5 ºC).
+
+Para temperatura e pressão na data do experimento foram medidos 26 ºC e 677 mmHg respectivamente (ou 299,15 K e 90259,3 Pa). Considerando o ar como sendo seco (sem umidade), podemos aproximar a medida da densidade do ar pela equação:
+
+![eq1](https://lh3.googleusercontent.com/PB-jajTgsuIyfAibmX3C31Cc2wP98x0J-bntpjkntWZO9FFEaZQROlAulsAICnegQJEo3dkNiYKGxwKk5xO1kHRLSrJ57Umyqz2j_C5BcBCAuWhW050lWHuvQmYkKfqQqdBcqn95)
+Equação : Densidade do ar.
+
+Latex: \rho_{ar}= \frac{P}{R_{esp}\cdot T}=\frac{90259,2 [Pa]}{287,058 [J\cdot kg^{-1}\cdot K^{-1}]\cdot 299,15[K]}=1,051 \; kg \cdot m^{-3} 
+
+ A pressão antes do experimento, dentro do túnel de vento foi medida em 0,04 cm de H2O. Com o túnel de vento ligado, a uma distância segura onde o aerofólio não perturbasse o escoamento, a pressão foi medida em 1,04 cm de H2O. Podemos calcular a velocidade do escoamento a partir da equação:
+
+![velescoa](https://lh6.googleusercontent.com/B4Qndi7tQly4cLaqiDEiI2jD8kGcMTzUuJr5psH7mbyIDco6ILW8H9cvtOu9ePBXwEBI7QeTLHQA5AQVoM1HhONl6zpuiacwqB45iZwAudzvnkBNrpQdNMViE9HhtQBt8jwaXOrq)
+Equação : velocidade do escoamento.
+	
+Latex: v_{esc.}=\sqrt{\frac{2\cdot (P_{estag.} - P_{estatic.})}{\rho _{ar}}} = \sqrt{\frac{2\cdot (101,9892 - 3,9226)[Pa]}{1,051[kg\cdot m^{-3}]}} = 13,66\; m\cdot s^{-1}
+
+Com esses dados é possível calcular o número de Reynolds com a seguinte ressalva: vamos utilizar a viscosidade do ar seco a uma pressão de 1 bar, pois a viscosidade do mesmo depende majoritariamente da pressão. A viscosidade do ar é igual a μar=1,7524⋅10-5 kg⋅m-1⋅s-1. Temos também as medidas do aerofólio: uma envergadura de 153 mm  e corda de 18,7 mm (Que será nossa largura característica). São esses dados que o configuram como um NACA 0012. Com essas informações em mente podemos finalmente prosseguir:
+
+![re](https://lh3.googleusercontent.com/_80lApAJ6iU8oiQsTptEwhl3NJwFSbDpx-xu_AEz2kkWp1adC2iG6GG9pc_cZauAb1aL4O91JKlCzRZouiUtyTedBDNxT7JdVp4V3Eq-BQwLNR_deoAPBqyk002sU8uwG97kS3zf)
+Equação : número de Reynolds.
+
+Latex 1: Re=\frac{\rho_{ar} \cdot v_{esc.} \cdot L }{\mu_{ar}}=\frac{1,051[kg \cdot m^{-3}] \cdot 13,66[m \cdot s^{-1}] \cdot 0,153[m]}{1,841 \cdot 10^{-5}[kg \cdot m^{-1} \cdot s^{-1}]}
+
+Latex 2: Re=15320,10625
+	
+Com o aerofólio posicionado dentro do túnel de vento foi-se aumentando lentamente o ângulo de ataque. Com 8º já era possível visualizar um aumento da camada no bordo de fuga, com 10º havia um início de descolamento na traseira do aerofólio e com 12º o descolamento da camada limite propagou-se para todo o extradorso.
+
+![](https://lh5.googleusercontent.com/Mv6dnc2lC2UkU9Zx2y7BYR4MK14ev7iDJhq3zSkQ2i1tRxVPacnpbAD5j48CRJmB_O8cHo-EBMMFP9pEykw9xc9bO5HvTWlXbf_GFyucOGHMTt8qbvUtS4i7hzwRZHkAReJ1dICk)
+Figura 4: momento que o aerofólio começar a estolar.
+		
+ É possível associar o comportamento do estol, o porque do ângulo crítico ser tão baixo com o estol, ao compararmos com a literatura. Em "Theory of Wing Sections" de Abott e Von Doenhoff é descrito que o ângulo de estol para um NACA 0012 é de 16°, no entanto o número de Reynolds no qual essa análise foi feita é de 3 milhões, o que pressupõe um escoamento turbulento. No experimento realizado, pela ordem do número de reynolds, é possível afirmar que o escoamento é predominantemente laminar com pequenas flutuações turbulentas. Era até possível visualizar pequenos vórtices se formando nas paredes (que foram desconsiderados). É inviável comparar, afim de cálculos, um escoamento turbulento a um laminar, no entanto pode servir como boa ilustração de como o número de reynolds influencia no comportamento do escoamento.
+
+![teste](https://lh6.googleusercontent.com/yxunxt_Qxkew5NI86RAHfBR6iXz0hiCvjDNStZpd0NPs6DbMp6SlptIi0OSmgMRRWb-eWx5DcmKTzL8R1wm3f8Xdgr8F_gEe3KSR41wbRffzccsUt6uB8HY7v-i_5fZiiF-cS-86)
+Figura 5: Coeficiente de sustentação e ângulo de ataque com Reynolds da ordem de 105.
+
+ O aerofolio de isopor que foi utilizado no túnel de vento tinha uma corda "L" igual a 14,4 cm. Com a velocidade do escoamento de 4,14 m/s e essa corda teorizamos que o ângulo de ataque para qual o aerofólio atingiria o estol seria ainda menor que 10º devido ao número de Reynolds ser da ordem de 104, o que reforça que, com os equipamentos utilizados, seria impossível verificar o ângulo de estol do aerofólio num túnel de vento com tão baixa velocidade. A conclusão que podemos retirar é que no dado experimento, os efeitos viscosos eram predominantes sobre os de inércia. Se tivéssemos utilizado um material mais leve que o barbante (filetes feitos de sacola plástica) talvez seria possível ao menos enxergar como o escoamento passaria no extradorso do aerofólio feito de isopor.
+
 
 # links das etapas
 
@@ -140,3 +194,7 @@ https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/files/32
 	etapa 3 
 	
 https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/files/3293564/Laboratorio.dinamica.dos.fluidos.parte.3.pdf
+	
+	etapa 4
+	
+
