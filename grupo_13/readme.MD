@@ -124,19 +124,19 @@ Figura 1: Túnel de vento
 
 Onde:
 
-D1: 1508 ![](m.gif) 0.05 mm.
+D1: 1508 ![](m.gif) 0.5 mm.
 
-D2: 843 ![](m.gif) 0.05 mm.
+D2: 843 ![](m.gif) 0.5 mm.
 
-D3: 580 ![](m.gif) 0.05 mm. 
+D3: 580 ![](m.gif) 0.5 mm. 
 
-D4: 1914 ![](m.gif) 0.05 mm.
+D4: 1914 ![](m.gif) 0.5 mm.
 
-D5: 942 ![](m.gif) 0.05 mm.
+D5: 942 ![](m.gif) 0.5 mm.
 
-D6: 945 ![](m.gif) 0.05 mm.
+D6: 945 ![](m.gif) 0.5 mm.
 
-D7: 440 ![](m.gif) 0.05 mm.
+D7: 440 ![](m.gif) 0.5 mm.
 
 
 Velocidade do vento no interior do túnel: 3.68 ![](m.gif) 0.01 m/s; 3.60 ![](m.gif) 0.01 m/s; 3.75 ![](m.gif) 0.01 m/s.
