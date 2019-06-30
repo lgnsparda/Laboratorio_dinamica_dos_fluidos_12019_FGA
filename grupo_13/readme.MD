@@ -134,6 +134,7 @@ D4: 1914 ![](m.gif) 0.5 mm.
 
 D5: 942 ![](m.gif) 0.5 mm.
 
+
 D6: 945 ![](m.gif) 0.5 mm.
 
 D7: 440 ![](m.gif) 0.5 mm.
@@ -155,3 +156,41 @@ Pressão fora do túnel de vento: a uma distância de três metros do bocal do t
 
  
 ### 4.	Análise e conclusão:
+#### 4.1 Resultados
+	
+Tendo as velocidades do vento no interior do túnel: 3.68 ![](m.gif) 0.01 m/s; 3.60 ![](m.gif) 0.01 m/s; 3.75 ![](m.gif) 0.01 m/s. Pode-se encontrar os seguintes dados:
+
+Média aritmética das velocidades: 3,68 ![](m.gif) 0.005 m/s.
+
+Desvio padrão: ![](m.gif) 0,06 m/s.
+
+Logo tem-se que o erro total é ![](m.gif) 0,075 m/s, dessa forma tem-se que a velocidade média mais o erro é 3,68 ![](m.gif) 0.075 m/s.
+
+Aplicando a formula de Bernoulli:
+
+![](EQ1.gif)
+
+P1 = ?;
+
+![](RHO.gif) = 1,184 kg/m^3;
+
+v1 = 3,68 m/s;
+
+P2 = 101325 Pa;
+
+v2 = 0 m/s;
+
+A densidade do ar dentro do túnel (1) é igual a densidade do ar fora do túnel (2). Considerou-se a temperatura de 25°C constante nos dois pontos.
+
+A variação da altura dentro é 0, já que a altura dentro do túnel (h1) e fora dele (h2) são iguais, assim como a densidade () e a gravidade (g), dessa forma, ao subtrair os termos correspondentes o resultado é zero, sendo assim, pode-se desconsiderar ambos.
+
+O valor de P1 encontrado ao utilizar a fórmula de Bernoulli foi de 101308,97 Pa
+
+#### 4.2 Discussão
+
+Considerando dois pontos, ponto A e ponto B, ambos na mesma altura e com densidade do fluido constante. De acordo com a fórmula de Bernoulli, se no ponto A o fluido escoa em uma velocidade maior do que no ponto B, a pressão no ponto A deve ser menor do que no ponto B. O valor de P1 encontrado condiz com a teoria.
+
+#### 4.3 Conclusão
+
+ushduhasdadss
+	
