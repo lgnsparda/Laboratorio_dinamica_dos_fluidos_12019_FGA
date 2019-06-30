@@ -180,9 +180,9 @@ P2 = 101325 Pa;
 
 v2 = 0 m/s;
 
-A densidade do ar dentro do túnel (1) é igual a densidade do ar fora do túnel (2). Considerou-se a temperatura de 25°C constante nos dois pontos.
+A densidade do ar dentro do túnel (1) é igual a densidade do ar fora do túnel (2). Considerou-se a temperatura de 25°C constante nos dois pontos e o ar um gás ideal.
 
-A variação da altura dentro é 0, já que a altura dentro do túnel (h1) e fora dele (h2) são iguais, assim como a densidade () e a gravidade (g), dessa forma, ao subtrair os termos correspondentes o resultado é zero, sendo assim, pode-se desconsiderar ambos.
+A variação da altura é 0, já que a altura dentro do túnel (h1) e fora dele (h2) são iguais, assim como a densidade () e a gravidade (g), dessa forma, ao subtrair os termos correspondentes o resultado é zero, sendo assim, pode-se desconsiderar ambos.
 
 O valor de P1 encontrado ao utilizar a fórmula de Bernoulli foi de 101308,97 Pa
 
