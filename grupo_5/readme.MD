@@ -325,7 +325,7 @@ Para analisar se o valor obtido é considerado válido para este experimento ser
 ![tabela2](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/d3904464ff4847c216d40a289ccdd4d7d8d7b99d/grupo_5/tabela%20cd.jpg)<br>
 
 Observa-se a partir da tabela acima a variação dos valores de coeficiente de vazão encontrados para diversos orifícios com diferentes vazões.Os valores aproximados variam entre 0,60 e 0,99. <br>
-Observa-se então que o resultado para Cq =0,8056 é condizente com o comportamento previsto pela literatura. Sabe-se que o coeficiente de vazão varia em função da vazão, da carga e área do orifício. O comportamento observado é confirmado por Porto (2006), que afirma que o coeficiente Cd em geral não é constante para um dado orifício, variando com a carga, as condições de fluxo e a viscosidade do líquido. <br>
+Observa-se então que o resultado para Cq =0,8056 é condizente com o comportamento previsto pela literatura. Sabe-se que o coeficiente de vazão varia em função da vazão, da carga e área do orifício. O comportamento observado é confirmado por Porto (2006), que afirma que o coeficiente Cq em geral não é constante para um dado orifício, variando com a carga, as condições de fluxo e a viscosidade do líquido. <br>
 
 
 **4.2.2 Cálculo  e análise do número de Reynolds para placa de orifício**<br><br>
@@ -354,7 +354,8 @@ Através do número de Reynolds pode-se definir se um escoamento está em regime
 Será utilizada a equação (1.1) para calcular os respectivos valores de número de Reynolds.<br>
 Antes de se utilizar a equação(1.1) característica, torna-se necessário calcular os valores de velocidades reais em cada ponto escolhido  do escoamento. Para isso utiliza-se a equação (4.1) abaixo:<br><br>
 
-- **Equação(4.1):**"Cálculo da velocidade real num dado ponto".<br>
+- **Equação(4.1):**"Cálculo da velocidade real num dado ponto".<br><br>
+
 ![Equação4.1](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/d70d3d4e73c1f2ecaf4fe352790984e44a358f03/grupo_5/velreale.png)<br>
 
 Após obter o valor da velocidade no local designado utiliza-se a equação(1.1) para obter o respectivo valor de número de Reynolds.
@@ -389,7 +390,7 @@ Obteve-se o valor de velocidade real para o ponto 2, V2=26,73m/s. Da mesma forma
  Re =220 690,76<br><br>
  
  Assim, conclui-se que o escoamento na "vena contracta" encontra-se em regime turbulento.<br>
- Com isto podemos observar o comportamento do escoamento tubular quando adicionamos uma placa de orifício. Inicialmente, a montante da placa, o escoamento se encontra em regime transiente  e devido a diminuição abrupta da seção transversal o fluido de trabalho perde em quesito de potencial de pressão e ganha no potencial de velocidade, onde podemos observar os valores de velocidades  reais onde encontramos para o tubo v=0,49 m/s, para o orifício v=16,04e para a área da vena contracta v=26,73m/s. Logo observamos também que, a adição da placa ao escoamento gera uma perturbação no número de Reynolds onde foi encontrado o valor de Re=2442,67a montante da placa caracterizado como regime transiente e Re =216 773,162 a jusante da placa caracterizado como regime turbulento. Logo, pode-se concluir que a partir do cálculo de número de Reynolds foi possível observar como o comportamento de um escoamento, varia ao inserir uma placa de orifício ao longo de seu deslocamento.<br><br>
+ Com isto podemos observar o comportamento do escoamento tubular quando adicionamos uma placa de orifício. Inicialmente, a montante da placa, o escoamento se encontra em regime transiente  e devido a diminuição abrupta da seção transversal o fluido de trabalho perde em quesito de potencial de pressão e ganha no potencial de velocidade, onde podemos observar os valores de velocidades  reais onde encontramos para o tubo v=0,49 m/s, para o orifício v=16,04e para a área da vena contracta v=26,73m/s. Logo observamos também que, a adição da placa ao escoamento gera uma perturbação no número de Reynolds onde foi encontrado o valor de Re=2442,67a montante da placa caracterizado como regime transiente e Re =216 773,162 a jusante da placa caracterizado como regime turbulento. Logo, pode-se concluir que a partir do cálculo de número de Reynolds foi possível observar como o comportamento de um escoamento, varia ao inserir uma placa de orifício ao longo de seu desenvolvimento.<br><br>
  
 **4.2.3 Comparação com a teoria envolvida**<br><br>
 
@@ -416,13 +417,25 @@ Obteve-se o valor de velocidade real para o ponto 2, V2=26,73m/s. Da mesma forma
  
  <br>
  
- A partir das tabelas acima pode-se considerar que foram obtidos através do experimento resultados consideráveis comparados aos valores ideais obtidos teoricamente. As provevéis flutuações ocorreram provavelmente devido a as diferenças observadas nas medições são a espessura da placa e do orifício, a retilineidade e planeza, fatores referentes à tolerância de forma, e também fatores referentes à microgeometria como a rugosidade (SILVA, 2007). E também que as placas de orifício possuem uma grande desvantagem que é a perda de carga imposta ao escoamento, em função da expansão a jusante da placa. Sua incerteza de medição fica em torno de 2 a 4% do fundo de escala (SCHNEIDER, 2007).<br>
+ A partir das tabelas acima pode-se considerar que foram obtidos através do experimento resultados consideráveis comparados aos valores ideais obtidos teoricamente. As flutuações ocorreram provavelmente devido a as diferenças observadas nas medições são elas a espessura da placa e do orifício, a retilineidade e planeza, fatores referentes à tolerância de forma, e também fatores referentes à microgeometria como a rugosidade (SILVA, 2007). E também que as placas de orifício possuem uma grande desvantagem que é a perda de carga imposta ao escoamento, em função da expansão a jusante da placa. Sua incerteza de medição fica em torno de 2 a 4% do fundo de escala (SCHNEIDER, 2007).<br><br>
  
+**4.3 Conclusões do experimento**<br>
+
+Através do experimento realizado esperava-se compreender o comportamento de um escoamento de um fluido conhecido através de uma placa de orifício. Foi observado, ao calcular o valor de coeficiente de vazão, as velocidades teóricas características em diversos pontos do escoamento e através delas observar que a medida que o fluido passa pela placa, sua velocidade aumenta pois o fluido tende  a passar pelo orifício e é então, acelerado. Comprovando o comportamento esperado pela literatura. Além disso foram encontrados valores de coeficiente de vazão dentro da faixa esperada pela literatura. <br>
+Em relação ao número de Reynolds, esperava-se que o fluido ao passar pelo orifício da placa fosse acelerado, tendo como consequência um aumento em seu número de Reynolds. Foram obtidos valores de número de Reynolds a montante e a jusante da placa e, foram obtidos resultados como esperados. Obteve-se que o fluido antes de escoar através da placa de orifício obtinha um Re= 2442,67, caracterizando um escoamento transiente e ao escoar a jusante da placa obteve-se Re= 220.690,76 o que caracteriza um escoamento turbulento. <br>
+No geral, considera-se que os resultados encontrados foram satisfatórios, lembrando que eles podem ser melhorados corrigindo possíveis falhas e utilizando-se instrumentos experimentais mais precisos. <br><br>
 
 
+**4.4 Referências**<br>
 
+AZEVEDO NETTO, J. M.; FERNÁNDEZ Y FERNÁNDEZ, M. **Manual de
+hidráulica**. 9º ed. São Paulo: Blucher, 2015;<br>
+DI BERNARDO, L.; GIORGETTI, M.F. The use of perforated baffles at
+the inlet of settling basis. **Journal of the American Water Works Association**, v. 72, n. 9, p. 528-553, 1980; <br>
+PORTO, R. M. **Hidráulica Básica**. 4° ed. São Carlos: EESC-USP, 2006;<br>
+ALMEIDA, Antonia Samylla; SALES, Manoe; NETO, José. **Determinação do coeficiente de descarga para orifícios de parede delgada considerando números de Reynolds reduzidos**. Revista DAE, [S. l.], p. 210-212, 1 abr. 2018. Disponível em: http://revistadae.com.br/artigos/artigo_edicao_210_n_1715.pdf. Acesso em: 14 jun. 2019.<br>
+**ORIFÍCIO e Bocais**. Ufersa, [21-]. Disponível em: http://www2.ufersa.edu.br/portal/view/uploads/setores/111/orificios_e_bocais.pdf. Acesso em: 28 jun. 2019.<br>
 
-**4.3 Conclusões do experimento**<br><br>
 
 
 
