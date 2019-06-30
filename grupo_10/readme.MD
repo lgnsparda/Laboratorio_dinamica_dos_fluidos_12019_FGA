@@ -273,6 +273,7 @@ Vale ressaltar que os erros estavam crescendo com as amostras, o que está de ac
 
 ### Conclusão:
 Com este experimento, foi possível observar de uma maneira simples e didática os efeitos que a velocidade tem sobre o tipo de escoamento que acontece dentro de um tubo. 
+O experimento foi suficiente para se ter uma ideia básica, porém essencial, sobre a teoria do experimento de Reynolds, o que atendeu às expectativas do grupo.
 
 ### Referências
 **[1] Coeficiente de Reynolds.** Disponível em: https://pt.wikipedia.org/wiki/Coeficiente_de_Reynolds. Acesso em: 28 de Abril de 2019.
