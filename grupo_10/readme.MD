@@ -269,11 +269,15 @@ Pode-se explicar o caráter linear da seguinte maneira: de acordo com a Equaçã
 
 Outro ponto importante que deve ser considerado é que houve discordâncias entre o palpite feito pelo grupo e o número de Reynolds desses escoamentos, como observado nas amostras 8 e 9 da Tabela 2. Esse erro provavelmente ocorreu devido ao erro humano dos integrantes do grupo. No qual a seção da mangueira analisada para o palpite era insuficiente para se ter, com precisão, uma ideia clara do tipo de escoamento. Houve casos, também, em que a opinião do grupo estava dividida sobre o escoamento, o que também pode ser considerado como erro.
 
+Além disso, foi possível afirmar a veracidade dos palpites de algumas amostras, por meio dos cálculos feitos, sendo possível notar que houve a presença dos escoamentos laminar (amostras 1 a 9) e turbulento (amostra 10).
+
 Vale ressaltar que os erros estavam crescendo com as amostras, o que está de acordo com a ideia de propagação do erro: os erros das amostra anteriores vão se acumulando e influenciando nas amostras futuras.
 
-### Conclusão:
+
+### Conclusões:
 Com este experimento, foi possível observar de uma maneira simples e didática os efeitos que a velocidade tem sobre o tipo de escoamento que acontece dentro de um tubo. 
 O experimento foi suficiente para se ter uma ideia básica, porém essencial, sobre a teoria do experimento de Reynolds, o que atendeu às expectativas do grupo.
+Por fim, foi possível observar na prática as características dos escoamentos laminar e turbulento, que posteriormente foram comprovados com a teoria envolvida.  
 
 ### Referências
 **[1] Coeficiente de Reynolds.** Disponível em: https://pt.wikipedia.org/wiki/Coeficiente_de_Reynolds. Acesso em: 28 de Abril de 2019.
