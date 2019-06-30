@@ -207,14 +207,14 @@ Ao executar o experimento, obteve-ser os seguintes resultados:
 
 **Tabela 2:** Resultados do experimento
 
-Os erros experimentais da velocidade, da pressão e do número de Reynolds foram obtidos tendo como base a idéia da incerteza relativa.
+Os erros experimentais da velocidade, da pressão e do número de Reynolds foram obtidos tendo como base a ideia da incerteza relativa.
 Para o erro da pressão, a única variável que foi considerada foi a diferença de altura "h". Para a velocidade, foram considerados o volume e a variação de tempo e, finalmente, para o número de Reynolds, somente a velocidade foi considerada para o cálculo do erro:
 
 
 Sendo:
-* ![]() o erro do tempo: 0,01 s;
-* ![]() o erro do volume: 0,00025 m³;
-* ![]() o erro da altura: 0.0005 m;
+* ![t'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/t'.gif) o erro do tempo: 0,01 s;
+* ![dv'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/dv'.jfif) o erro do volume: 0,00025 m³;
+* ![h'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/h'.jfif) o erro da altura: 0.0005 m;
 
 ### Apresentação do gráfico e análise:
 
@@ -228,11 +228,11 @@ Ao observar o gráfico, é possível observar que o número de Reynolds possui u
 ### Comparação dos resultados com a teoria envolvida:
 Pode-se explicar o caráter linear da seguinte maneira: de acordo com a Equação 2, a massa específica, a viscosidade da água e o diâmetro do tubo são todos constantes no experimento e, por consequência, a velocidade é a única variável. Tendo em vista esse fato, pode-se dizer que a Equação 2 se aproxima da equação de um reta do tipo y =ax+b, com coeficiente linar (b) igual a 0. O que justifica a linearidade entre a velocidade e o número de Reynolds.
 
-Outro ponto importante que deve ser é que houve discordâncias entre o palpite feito pelo grupo e o número de Reynlds desses escoamentos, como observado nas amostras 8 e 9 da Tabela 2. Esse erro provavelmente ocorreu devido ao erro humano dos integrantes do grupo. No qual a seção da mangueira analisada para o palpite era insuficiente para se ter, com precisão, uma idéia clara do tipo de escoamento. Houve casos, também, em que a opinião do grupo estava dividida sobre o escoamento, o que também pode ser considerado como erro.
+Outro ponto importante que deve ser considerado é que houve discordâncias entre o palpite feito pelo grupo e o número de Reynolds desses escoamentos, como observado nas amostras 8 e 9 da Tabela 2. Esse erro provavelmente ocorreu devido ao erro humano dos integrantes do grupo. No qual a seção da mangueira analisada para o palpite era insuficiente para se ter, com precisão, uma ideia clara do tipo de escoamento. Houve casos, também, em que a opinião do grupo estava dividida sobre o escoamento, o que também pode ser considerado como erro.
 
-Vale ressaltar que os erros estavam crescendo com as amostras, o que está de acordo com a idéia de propagação do erro: os erros das amostra anteriores vão se acumulando e influenciando nas amostras futuras.
+Vale ressaltar que os erros estavam crescendo com as amostras, o que está de acordo com a ideia de propagação do erro: os erros das amostra anteriores vão se acumulando e influenciando nas amostras futuras.
 
-### Conclusõão:
+### Conclusão:
 Com este experimento, foi possível observar de uma maneira simples e didática os efeitos que a velocidade tem sobre o tipo de escoamento que acontece dentro de um tubo. 
 
 ### Referências
