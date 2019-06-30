@@ -98,4 +98,12 @@ O erro utilizado foi a metade da menor medido,pois não foi possivel realizar v�
 - Comprimento do cano a esquerda da placa de orifício: 50 ± 0,025 centimetros
 - Comprimento do cano a direita da placa de orifício: 67 ± 0,025 centimetros
 - Diferença de pressão: 163 ± 0,5 mmHg
-- Velocidade do escoamento: 
+- Velocidade do escoamento: 0,2205 ± 0,025 m/s 
+
+•	Comparação dos resultados com a teoria envolvida;
+De acordo com os dados obtidos no experimento, foi possível analisar a vazão volumétrica e Diferença de pressão para a placa de orifício utilizada. A placa de orifício funciona restringindo a tubulação onde a medição é realizada. Com a restrição da placa foi possível observar que  o fluxo é obrigado a mudar de velocidade, e, em consequência provocar um diferencial de pressão.
+
+Portanto pode-se concluir que o experimento foi satisfatório, na medida em que foi possível determinar as vazões,a diferença de press~~ao e velo do fluido e observar a descentralização da placa.
+•	Conclusões do experimento;
+
+
