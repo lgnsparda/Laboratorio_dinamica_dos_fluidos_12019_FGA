@@ -279,7 +279,7 @@ Vazão real- A partir do rotâmetro foi obtido o valor de 5000 litros por hora ,
 ![Cq](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/d3904464ff4847c216d40a289ccdd4d7d8d7b99d/grupo_5/cq.png) = ![errovazão](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/d3904464ff4847c216d40a289ccdd4d7d8d7b99d/grupo_5/erro%20vaz%C3%A3o.png)<br><br>
 Variação de altura do fluido manométrico- A partir de um manômetro de mercúrio montado na bancada  equivalente a 163 mmHg. Com erro máximo de 1% da escala milimétrica obtém-se:<br><br>
 ![deltah](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/d3904464ff4847c216d40a289ccdd4d7d8d7b99d/grupo_5/deltah.png)= ![errodeltah](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/d3904464ff4847c216d40a289ccdd4d7d8d7b99d/grupo_5/erro%20adeltah.png)<br><br>
-Dimensões da placa de orifício-  fornecidas  pelo fabricante da bancada de hidráulica- HD98B. Não foi fornecido junto a valores das dimensões os valores dos respectivos erros associados a medição.<br><br>
+Dimensões da placa de orifício-  fornecidas  pelo fabricante da bancada de hidráulica- HD98B. Não foi fornecido junto aos valores das dimensões os valores dos respectivos erros associados a medição.<br><br>
 
 
 **4.2 Comparação dos resultados com a teoria envolvida**<br><br>
@@ -319,7 +319,7 @@ Portanto, conclui-se que a velocidade do escoamento do experimento realizado com
 Obtida a velocidade teórica no orifício, utilizou-se a equação (1.2) para finalmente obter o valor de coeficiente de vazão calculado abaixo:<br><br>
 ![cq](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/d3904464ff4847c216d40a289ccdd4d7d8d7b99d/grupo_5/cq.png)=0,8056.<br><br>
 
-Para analisar se o valor obtido é considerado válido para este experimento será analisada uma tabela obtida a partir da Revista Dae artigo científico:<br>
+Para analisar se o valor obtido é considerado válido para este experimento, será analisada uma tabela obtida a partir da Revista Dae artigo científico:<br>
 
 - **Tabela 3:**"Condições hidráulicas e coeficientes de vazão”
 ![tabela2](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/d3904464ff4847c216d40a289ccdd4d7d8d7b99d/grupo_5/tabela%20cd.jpg)<br>
@@ -329,7 +329,7 @@ Observa-se então que o resultado para Cq =0,8056 é condizente com o comportame
 
 
 **4.2.2 Cálculo  e análise do número de Reynolds para placa de orifício**<br><br>
-Para o cálculo do número de Reynolds para o escoamento torna-se necessário utilizar os seguintes dados abaixo:<br><br>
+Para o cálculo do número de Reynolds para o escoamento torna-se necessário utilizar os seguintes dados abaixo:<br>
 
 - **Tabela 4:**"Valores utilizados para análise"<br>
 
@@ -345,14 +345,14 @@ Diâmetro do tubo	         |60 mm
 
 <br>
 
-Será calculado o número de reynolds para 3 pontos característicos, o ponto 1 antes da passagem do escoamento na placa de orifício, o ponto 0 é localizado exatamente na placa de orifício e o ponto 2 a é localizado na “vena contracta”. Identifica-se os locais estudados a partir da imagem abaixo.<br>
+Será calculado o número de Reynolds para 3 pontos característicos, o ponto 1 antes da passagem do escoamento na placa de orifício, o ponto 0 é localizado exatamente na placa de orifício e o ponto 2 a é localizado na “vena contracta”. Identifica-se os locais estudados a partir da imagem abaixo.<br>
 
 - **Imagem 10**:"Pontos escolhidos para o calculo de número de reynolds" <br>
 ![imagem10](https://raw.githubusercontent.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/8e56b1be5f95914cda455035cc55cd7ce682be2f/modificada.png)<br>
 
 Através do número de Reynolds pode-se definir se um escoamento está em regime laminar ou turbulento.<br>
 Será utilizada a equação (1.1) para calcular os respectivos valores de número de Reynolds.<br>
-Antes de se utilizar a equação(1.1) característica, torna-se necessário calcular os valores de velocidades reais em cada ponto escolhido  do escoamento. Para isso utiliza-se a equação (4.1) abaixo:<br><br>
+Antes de se utilizar a equação(1.1) característica, torna-se necessário calcular os valores de velocidades reais em cada ponto escolhido  do escoamento. Para isso utiliza-se a equação (4.1) abaixo:<br>
 
 - **Equação(4.1):**"Cálculo da velocidade real num dado ponto".<br><br>
 
@@ -390,9 +390,11 @@ Obteve-se o valor de velocidade real para o ponto 2, V2=26,73m/s. Da mesma forma
  Re =220 690,76<br><br>
  
  Assim, conclui-se que o escoamento na "vena contracta" encontra-se em regime turbulento.<br>
- Com isto podemos observar o comportamento do escoamento tubular quando adicionamos uma placa de orifício. Inicialmente, a montante da placa, o escoamento se encontra em regime transiente  e devido a diminuição abrupta da seção transversal o fluido de trabalho perde em quesito de potencial de pressão e ganha no potencial de velocidade, onde podemos observar os valores de velocidades  reais onde encontramos para o tubo v=0,49 m/s, para o orifício v=16,04e para a área da vena contracta v=26,73m/s. Logo observamos também que, a adição da placa ao escoamento gera uma perturbação no número de Reynolds onde foi encontrado o valor de Re=2442,67a montante da placa caracterizado como regime transiente e Re =216 773,162 a jusante da placa caracterizado como regime turbulento. Logo, pode-se concluir que a partir do cálculo de número de Reynolds foi possível observar como o comportamento de um escoamento, varia ao inserir uma placa de orifício ao longo de seu desenvolvimento.<br><br>
+ Com isto podemos observar o comportamento do escoamento tubular quando adicionamos uma placa de orifício. Inicialmente, a montante da placa, o escoamento se encontra em regime transiente  e devido a diminuição abrupta da seção transversal o fluido de trabalho perde em quesito de potencial de pressão e ganha no potencial de velocidade, onde podemos observar os valores de velocidades  reais onde encontramos para o tubo v=0,49 m/s, para o orifício v=16,04e para a área da vena contracta v=26,73m/s. Logo observamos também que, a adição da placa ao escoamento gera uma perturbação no número de Reynolds onde foi encontrado o valor de Re=2442,67a montante da placa caracterizado como regime transiente e Re =220 690,76 a jusante da placa caracterizado como regime turbulento. Logo, pode-se concluir que a partir do cálculo de número de Reynolds foi possível observar como o comportamento de um escoamento, varia ao inserir uma placa de orifício ao longo de seu desenvolvimento.<br><br>
  
 **4.2.3 Comparação com a teoria envolvida**<br><br>
+
+Utiliza-se os valores de velocidade reais  e velocidades teóricas para comparar os dados obtidos e caso ocorra flutuações, os possíveis motivos para a mesma. Observa-se abaixo na "tabela 6" as flutuações da velocidade obtida. <br>
 
 - **Tabela 6:**"Comparação valores experimentais e teóricos"<br>
 
@@ -421,9 +423,9 @@ Obteve-se o valor de velocidade real para o ponto 2, V2=26,73m/s. Da mesma forma
  
 **4.3 Conclusões do experimento**<br>
 
-Através do experimento realizado esperava-se compreender o comportamento de um escoamento de um fluido conhecido através de uma placa de orifício. Foi observado, ao calcular o valor de coeficiente de vazão, as velocidades teóricas características em diversos pontos do escoamento e através delas observar que a medida que o fluido passa pela placa, sua velocidade aumenta pois o fluido tende  a passar pelo orifício e é então, acelerado. Comprovando o comportamento esperado pela literatura. Além disso foram encontrados valores de coeficiente de vazão dentro da faixa esperada pela literatura. <br>
+Através do experimento realizado esperava-se compreender o comportamento de um escoamento de um fluido conhecido através de uma placa de orifício. Foi observado, ao calcular o valor de coeficiente de vazão, as velocidades teóricas características em diversos pontos do escoamento e através delas foi possível observar que a medida que o fluido passa pela placa, sua velocidade aumenta pois o fluido tende  a passar pelo orifício, e este é então acelerado. Comprovando o comportamento esperado pela literatura. Além disso foram encontrados valores de coeficiente de vazão dentro da faixa esperada pela literatura. <br>
 Em relação ao número de Reynolds, esperava-se que o fluido ao passar pelo orifício da placa fosse acelerado, tendo como consequência um aumento em seu número de Reynolds. Foram obtidos valores de número de Reynolds a montante e a jusante da placa e, foram obtidos resultados como esperados. Obteve-se que o fluido antes de escoar através da placa de orifício obtinha um Re= 2442,67, caracterizando um escoamento transiente e ao escoar a jusante da placa obteve-se Re= 220.690,76 o que caracteriza um escoamento turbulento. <br>
-No geral, considera-se que os resultados encontrados foram satisfatórios, lembrando que eles podem ser melhorados corrigindo possíveis falhas e utilizando-se instrumentos experimentais mais precisos. <br><br>
+No geral, considera-se que os resultados encontrados foram satisfatórios, lembrando-se que eles podem ser melhorados corrigindo possíveis falhas e utilizando-se instrumentos experimentais mais precisos. <br><br>
 
 
 **4.4 Referências**<br>
