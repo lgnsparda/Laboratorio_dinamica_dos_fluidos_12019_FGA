@@ -100,10 +100,10 @@ O erro utilizado foi a metade da menor medido,pois não foi possivel realizar v�
 - Diferença de pressão: 163 ± 0,5 mmHg
 - Velocidade do escoamento: 0,2205 ± 0,025 m/s 
 
-•	Comparação dos resultados com a teoria envolvida;
+# •	Comparação dos resultados com a teoria envolvida; #
 De acordo com os dados obtidos no experimento, foi possível analisar a vazão volumétrica e Diferença de pressão para a placa de orifício utilizada. A placa de orifício funciona restringindo a tubulação onde a medição é realizada. Com a restrição da placa foi possível observar que  o fluxo é obrigado a mudar de velocidade, e, em consequência provocar um diferencial de pressão.
+# •	Conclusões do experimento; #
+Portanto pode-se concluir que o experimento foi satisfatório, na medida em que foi possível determinar as vazões,a diferença de pressão e a velocidade do fluido.
 
-Portanto pode-se concluir que o experimento foi satisfatório, na medida em que foi possível determinar as vazões,a diferença de press~~ao e velo do fluido e observar a descentralização da placa.
-•	Conclusões do experimento;
 
 
