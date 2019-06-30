@@ -91,5 +91,13 @@ Para realização do experimento, as seguintes tarefas são necessárias: obten�
     
 ### 3.	Execução:
 
+### Integrantes do grupo
+- Thaís Gomes de Melo - 17/0022749
+- Isla Kalleny Marques Brandão - 17/0059308
+- João Pedro Leal Vieira - 17/0036910
+
+### Divisão das tarefas
+Conforme descrito na Etapa II desse relatório,
+
 ### 4.	Análise e conclusão: 
 
