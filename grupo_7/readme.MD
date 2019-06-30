@@ -75,7 +75,7 @@ Como especificado na etapa anterior, não ocorreu mudança na divisão de tarefa
 https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_7/experimentomontado.jpg
 # • Dados medidos; #
 - Diâmetro externo da placa de orifício: 3,37 centimetros
-- Raido interno da placa de orifício: 0,525 centimetros
+- Raio interno da placa de orifício: 0,525 centimetros
 - Vazão:5000 Litros por hora
 - Diâmetro do cano: 60 milimetros
 - Comprimento do cano a esquerda da placa de orifício: 50 centimetros
