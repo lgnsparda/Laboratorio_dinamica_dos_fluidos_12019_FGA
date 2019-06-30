@@ -84,3 +84,18 @@ https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/mas
 
 #  Nota: 2,5
 ### 4.	Análise e conclusão:
+
+# •	Identificação do grupo; #
+-	Danilo Marinho - 18/0136313
+-	Mateus Lino Do Amaral - 14/0155457
+
+# • Dados medidos com seu respectivo erro experimental; #
+O erro utilizado foi a metade da menor medido,pois não foi possivel realizar várias medições no laboratório pelo problema que aconteceu na bancada onde o mercúrio andou e foi parar dentro da placa de orificio.
+- Diâmetro externo da placa de orifício: 3,37 ± 0,025 centimetros
+- Raio interno da placa de orifício: 0,525 ± 0,025 centimetros
+- Vazão:5000 ± 0,5 Litros por hora
+- Diâmetro do cano: 60 ± 0,025 milimetros
+- Comprimento do cano a esquerda da placa de orifício: 50 ± 0,025 centimetros
+- Comprimento do cano a direita da placa de orifício: 67 ± 0,025 centimetros
+- Diferença de pressão: 163 ± 0,5 mmHg
+- Velocidade do escoamento: 
