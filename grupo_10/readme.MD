@@ -208,7 +208,46 @@ Ao executar o experimento, obteve-ser os seguintes resultados:
 **Tabela 2:** Resultados do experimento
 
 Os erros experimentais da velocidade, da pressão e do número de Reynolds foram obtidos tendo como base a ideia da incerteza relativa.
-Para o erro da pressão, a única variável que foi considerada foi a diferença de altura "h". Para a velocidade, foram considerados o volume e a variação de tempo e, finalmente, para o número de Reynolds, somente a velocidade foi considerada para o cálculo do erro:
+Para o erro da pressão, a única variável que foi considerada foi a diferença de altura "h":
+
+
+![p'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/p'.jfif)
+
+**Equação 7**
+
+![p](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/p.jfif)
+
+**Equação 8**
+
+
+
+Para a velocidade, foram considerados o volume e a variação de tempo:
+
+![v'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/v'.jfif)
+
+**Equação 10**
+
+
+![v](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/v.jfif)
+
+**Equação 11**
+
+
+
+E, finalmente, para o número de Reynolds, somente a velocidade foi considerada para o cálculo do erro:
+
+![re'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/re'.jfif)
+
+**Equação 12**
+
+
+![re](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/re.jfif)
+
+
+**Equação 13**
+
+
+O valor obtido para a pressão manométrica foi de: (2354,4 +- 4,905) Pa, considerando uma diferença de altura de 24 cm.
 
 
 Sendo:
