@@ -220,7 +220,6 @@ Para o erro da pressão, a única variável que foi considerada foi a diferença
 **Equação 8**
 
 
-
 Para a velocidade, foram considerados o volume e a variação de tempo:
 
 ![v'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/v'.jfif)
@@ -254,6 +253,7 @@ Sendo:
 * ![t'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/t'.gif) o erro do tempo: 0,01 s;
 * ![dv'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/dv'.jfif) o erro do volume: 0,00025 m³;
 * ![h'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/h'.jfif) o erro da altura: 0.0005 m;
+* P', V' e Re' os erros associados à incerteza das equações da pressão, velocidade e do número de Reynolds, respectivamente.
 
 ### Apresentação do gráfico e análise:
 
