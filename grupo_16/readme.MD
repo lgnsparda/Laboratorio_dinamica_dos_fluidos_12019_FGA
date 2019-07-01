@@ -97,7 +97,12 @@ Para realização do experimento, as seguintes tarefas são necessárias: obten�
 - João Pedro Leal Vieira - 17/0036910
 
 ### Divisão das tarefas
-Conforme descrito na Etapa II desse relatório,
+Conforme descrito na Etapa II, a obtenção dos materiais foi realizada como previsto até o dia 29/05 por Thaís Gomes e João Pedro. A montagem, todavia, não pôde ser executada na data correta devido a problemas durante a junção das tampas, que serão relatados e justificados em "procedimentos experimentais". Tanto a montagem, execução e análise foram efetuadas pelos membros do grupo descritos na tabela da Etapa II.
 
+### Procedimentos realizados
+Possuindo os materiais, o primeiro passo para a realização do experimento foi a conexão das tampas das garrafas com durepox, todavia, não foi possível efetuar essa conexão, visto que, mesmo após o tempo ideal de secagem da cola, a mesma não funcionava e não permitia a geração do vórtice quando a água passava de uma garrafa para outra pois essa água vazava entre as tampas. A fim de solucionar esse problema, houve a tentativa de unir as tampas com o auxílio de fita crepe e outras colas, mesmo assim, não foi obtido sucesso. A alternativa para esse imprevisto foi utilizar apenas uma garrafa sem tampa e deixar a água fluir livremente após o vórtice, como mostra a figura 1.
+
+
+ 
 ### 4.	Análise e conclusão: 
 
