@@ -100,15 +100,15 @@ Para realização do experimento, as seguintes tarefas são necessárias: obten�
 Conforme descrito na Etapa II, a obtenção dos materiais foi realizada como prevista até o dia 29/05 por Thaís Gomes e João Pedro. A montagem, todavia, não pôde ser executada na data correta devido a problemas durante a junção das tampas, que serão relatados e justificados em "procedimentos realizados". Tanto a montagem, execução e análise foram efetuadas pelos membros do grupo descritos na tabela da Etapa II. As datas prévias dessas três partes infelizmente não foram cumpridas devido aos problemas da junção e a ausência de soluções rápidas e efetivas.
 
 ### Procedimentos realizados
-Possuindo os materiais, o primeiro passo para a realização do experimento foi a conexão das tampas das garrafas com durepox, todavia, não foi possível efetuar essa conexão, visto que, mesmo após o tempo ideal de secagem da cola, a mesma não funcionava e não permitia a geração do vórtice quando a água passava de uma garrafa para outra pois essa água vazava entre as tampas. A fim de solucionar esse problema, houve a tentativa de unir as tampas com o auxílio de fita crepe e outras colas, mesmo assim, não foi obtido sucesso. A alternativa para esse imprevisto foi utilizar apenas uma garrafa sem tampa, realizar movimento giratório na garrafa para gerar o vórtice e deixar a água fluir livremente após o vórtice, como mostra a figura 1.
+Possuindo os materiais, o primeiro passo para a realização do experimento foi a conexão das tampas das garrafas com durepox, todavia, não foi possível efetuar essa conexão, visto que, mesmo após o tempo ideal de secagem da cola, a mesma não funcionava e não permitia a geração do vórtice quando a água passava de uma garrafa para outra pois essa água vazava entre as tampas. A fim de solucionar esse problema, houve a tentativa de unir as tampas com o auxílio de fita crepe e outras colas, mesmo assim, não foi obtido sucesso. A alternativa para esse imprevisto foi utilizar apenas uma garrafa sem tampa, realizar o movimento giratório na garrafa para gerar o vórtice e deixar a água fluir livremente após o vórtice, como mostra a figura 1.
 
 ![Vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort2.PNG)<br/>
 **Figura 1:** Vórtice executado no experimento. <br/><br/>
 
-Cabe ressaltar que a substituição de duas garrafas e uma conexão por apenas uma garrafa segurada na mão não prejudicou a realização do experimento e permitiu a obtenção dos dados esperados.
+Cabe ressaltar que a substituição de duas garrafas e uma conexão por apenas uma garrafa segurada na mão não prejudicou a realização do ensaio e permitiu a obtenção dos dados esperados.
 
 ### Dados medidos
-Após a realização do experimento, foi possível observar a geração do vórtice na água e seu sentido de rotação, como esperado.
+Após a realização do experimento, foi possível observar a geração do vórtice na água e seu sentido de rotação, como previsto.
  
 ### 4.	Análise e conclusão: 
 
