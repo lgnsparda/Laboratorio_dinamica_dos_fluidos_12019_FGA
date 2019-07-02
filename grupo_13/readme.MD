@@ -194,4 +194,8 @@ Considerando dois pontos, ponto A e ponto B, ambos na mesma altura e com densida
 
 O objetivo inicial de verificar a fórmula de Bernoulli não foi atingido porque a dupla não conseguiu obter um barômetro. Assim não foi possivel medir a pressão dentro do túnel. Se tivesse sido obtido o valor da pressão dentro do túnel através de medição, teria como descobrir a velocidade pela fórmula de Bernoulli e comparar com o valor da velocidade obtido pela medição com o anemômetro.
 A solução foi encontrar a pressão dentro do túnel através de Bernoulli e ver se o resultado ia de encontro com o que a teoria diz. O resultado foi condizente com a formula, pois a velocidade de escoamento do fluido dentro do túnel de vento foi maior do que a do lado de fora, porém a pressão do lado de fora foi maior do que a do interior do túnel.
+
+#  Nota: 1,5
+
+# Análise pobre dos resultados
 	
