@@ -147,4 +147,8 @@ Grupo 11:
   
   Esse experimento é uma forma bem didática de trabalhar com número de Reynolds em ambientes em que o controle não é alto. Durante a execução foi possível chegar em resultados plauísveis seguindo a base teórica dada na máteria de dinâmica de fluídos. Sendo assim, o experimento se torna aconselhável para demonstração da relação do número de Reyonolds e turbulência.
 
+#  Nota: 1,5
+
+#  Erros de digitação
+#  Análise pobre dos resultados
 
