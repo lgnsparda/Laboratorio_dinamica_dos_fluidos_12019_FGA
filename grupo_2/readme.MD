@@ -138,3 +138,4 @@ Figura 10 e 11: Gráfico de pressão pelo tempo do sistema com uma vazão de 560
                
    Em consideração a metodologia utilizada, ela poderia ser evoluída, caso fosse possível a instalação de um controlador ou micro-controlador eletrônico, como por exemplo um arduíno, que fizesse essas aberturas e fechamentos eletronicamente. Isso tornaria o experimento mais controlável e, consequentemente, haveria a possibilidade de fazer cálculos mais aprofundados e dados mais precisos, além de que, dependendo do sistema adotado, o próprio controlador consegue fazer o gráfico a partir das oscilações de pressão do sistema. Porém, mesmo sem o sistema proposto, o grupo conseguiu verificar a existência do fenômeno na prática, o que não invalida o experimento. Por fim, o escopo definido também foi concluído como um todo no decorrer do trabalho.
 
+#  Nota: 2,5
