@@ -105,5 +105,9 @@ De acordo com os dados obtidos no experimento, foi possível analisar a vazão v
 # •	Conclusões do experimento; #
 Portanto pode-se concluir que o experimento foi satisfatório, na medida em que foi possível determinar as vazões,a diferença de pressão e a velocidade do fluido.
 
+#  Nota: 1,0
+
+# Análise pobre
+
 
 
