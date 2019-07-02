@@ -196,6 +196,11 @@ Figura 5: Coeficiente de sustentação e ângulo de ataque com Reynolds da ordem
 
 ## 4.4 Conclusões do experimento
  Embora o experimento não tenha superado os objetivos quanto a valores experimentais o desenvolvimento quanto a escala pessoal foi altíssima pois neste projeto foi possível trabalha sério em equipe e gerar um conteúdo didático que explicou de forma prática a parte teórica aplicada em sala de aula
+ 
+ #  Nota: 1,5
+ # Análise pobre dos resultados
+ # Erros de digitação e formatação
+ 
 # links das etapas
 
 	etapa 1	
