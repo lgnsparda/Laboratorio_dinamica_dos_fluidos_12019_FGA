@@ -140,3 +140,7 @@ Não foi possível a realização de uma análise matemática do processo devido
 ### Conclusão
 Com a realização do experimento, pode-se estudar os efeitos de vorticidade e realizar uma demonstração de um vórtice na água. O estudo de vorticidade tem uma grande importância para as áreas de meteorologia (rotação do ar atmosférico) e hidrodinâmica (estudo de escoamentos), logo, o experimento auxiliou a analisar como um vórtice ocorre e em quais condições ele se forma, assim como a estudar o efeito coriolis. 
 
+#  Nota: 2,0
+
+# Análise incompleta
+# erros de digitação
