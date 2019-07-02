@@ -400,6 +400,7 @@ De acordo com o Princípio de Bernoulli (Equação 11), a mudança de pressão e
 Destarte, foi possível observar que, com um simples experimento, consegue-se analisar na prática o Princípio de Bernoulli. Analisando as pressões envolvidas é factível encontrar as velocidades. E, analogamente, tendo as velocidades encontram-se as pressões. <br/>
 Um exemplo prático tão simples ensina como uma das equações mais temidas da Mecânica dos Fluidos pode ser analisada primordialmente numa situação básica para, após isto, elevar-se sua dificuldade. <br/>
 
+#  Nota: 2,5
 
 
 ### Referências:
