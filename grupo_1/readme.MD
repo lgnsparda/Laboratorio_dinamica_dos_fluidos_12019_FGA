@@ -262,3 +262,7 @@ Já no Tubo de Pitot, estes fatores dizem respeito à vedação da estrutura do 
 
 Por fim podemos concluir que, apesar de todo o esforço do grupo, para mitigação dos erros intrínsecos à utilização de um aparelho caseiro, foram notadas alterações reais nos valores medidos e calculados que refletiram diretamente nos resultados finais. Ainda assim, foi possível observar, individualmente, os fenômenos referentes ao princípio de Bernoulli (que um escoamento dentro de tubo com diferentes áreas de secções transversais, irá ajustar suas características, tais como a velocidade e pressão, de forma a garantir a continuidade da vazão), bem como à medição da velocidade, à partir do Tubo de Pitot, atingindo assim o sucesso parcial do experimento.
 
+#  Nota: 1,5
+
+# Análise dos dados insuficiente
+
