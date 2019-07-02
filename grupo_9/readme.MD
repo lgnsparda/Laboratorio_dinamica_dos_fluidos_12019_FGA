@@ -112,5 +112,9 @@ Dados medidos:
    Conclusão:
 O Efeito Bernoulli está presente e pode ser observado em várias situações do nosso dia a dia em que haja um fluido qualquer em um sistema de escoamento.Teoricamente, no relatório 2, demonstramos o que afirma o Efeito Bernoulli. Fazendo uso de materiais simples, nesta prática, foi possível comprovar experimentalmente este efeito, demonstrando a variação e relações de grandezas entre as velocidades e as pressões durante o escoamento do fluido. 
 
+#  Nota: 1,0
+
+# Análise pobre
+
 
 
