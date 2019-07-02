@@ -156,3 +156,5 @@ Por intermédio do experimento pode se observar o efeito magnus e uma aplicaçã
  Rotor ship. Disponível em: <https://en.wikipedia.org/wiki/Rotor_ship>. Acesso em: 04 abr. 2019.  
  
  Magnus effect. Disponível em: <https://en.wikipedia.org/wiki/Magnus_effect>. Acesso em: 29 mar. 2019.
+ 
+ #  Nota: 2,5
