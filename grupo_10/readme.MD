@@ -279,6 +279,10 @@ Com este experimento, foi possível observar de uma maneira simples e didática 
 O experimento foi suficiente para se ter uma ideia básica, porém essencial, sobre a teoria do experimento de Reynolds, o que atendeu às expectativas do grupo.
 Por fim, foi possível observar na prática as características dos escoamentos laminar e transitório, que posteriormente foram comprovados com a teoria envolvida.  
 
+#  Nota: 2,0
+
+# faltou analisar os gráficos
+
 ### Referências
 **[1] Coeficiente de Reynolds.** Disponível em: https://pt.wikipedia.org/wiki/Coeficiente_de_Reynolds. Acesso em: 28 de Abril de 2019.
 
