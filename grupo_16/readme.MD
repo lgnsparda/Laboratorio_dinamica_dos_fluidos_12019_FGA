@@ -29,6 +29,8 @@ Como o objetivo do experimento é observar e analisar a formação de vótices, 
 
 **[2]** VÓRTICE. 2013. Disponível em: <https://pt.wikipedia.org/wiki>. Acesso em: 27 abr. 2019.
 
+# Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 
 - Grupo 16: Vorticidade 
@@ -84,8 +86,57 @@ Para realização do experimento, as seguintes tarefas são necessárias: obten�
 **[1]** NOLETO, Luciano; OLIVEIRA, Taygoara. DINAMICA DOS FLUIDOS: NOTAS DE AULA. 2019. 147 f. Curso de Engenharia, Faculdade Unb Gama, Universidade de BrasÍilia, Brasília, 2019. Disponível em: <https://aprender.ead.unb.br/pluginfile.php/166074/mod_resource/content/9/dinflu.pdf>. Acesso em: 24 fev. 2019
 
 **[2]** VÓRTICE. 2013. Disponível em: <https://pt.wikipedia.org/wiki>. Acesso em: 24 Abr. 2019.
+
+# Nota: 2,5
     
 ### 3.	Execução:
 
+### Integrantes do grupo
+- Thaís Gomes de Melo - 17/0022749
+- Isla Kalleny Marques Brandão - 17/0059308
+- João Pedro Leal Vieira - 17/0036910
+
+### Divisão das tarefas
+Conforme descrito na Etapa II, a obtenção dos materiais foi realizada como prevista até o dia 29/05 por Thaís Gomes e João Pedro. A montagem, todavia, não pôde ser executada na data correta devido a problemas durante a junção das tampas, que serão relatados e justificados em "procedimentos realizados". Tanto a montagem, execução e análise foram efetuadas pelos membros do grupo descritos na tabela da Etapa II. As datas prévias dessas três partes infelizmente não foram cumpridas devido aos problemas da junção e a ausência de soluções rápidas e efetivas.
+
+### Procedimentos realizados
+Possuindo os materiais, o primeiro passo para a realização do experimento foi a conexão das tampas das garrafas com durepox, todavia, não foi possível efetuar essa conexão, visto que, mesmo após o tempo ideal de secagem da cola, a mesma não funcionava e não permitia a geração do vórtice quando a água passava de uma garrafa para outra pois essa água vazava entre as tampas. A fim de solucionar esse problema, houve a tentativa de unir as tampas com o auxílio de fita crepe e outras colas, mesmo assim, não foi obtido sucesso. A alternativa para esse imprevisto foi utilizar apenas uma garrafa sem tampa, realizar o movimento giratório na garrafa para gerar o vórtice e deixar a água fluir livremente após o vórtice, como mostra a figura 1.
+
+![Vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort2.PNG)<br/>
+**Figura 1:** Vórtice executado no experimento. <br/><br/>
+
+Cabe ressaltar que a substituição de duas garrafas e uma conexão por apenas uma garrafa segurada na mão não prejudicou a realização do ensaio e permitiu a obtenção dos dados esperados.
+
+### Dados medidos
+Após a realização do experimento, foi possível observar a geração do vórtice na água e seu sentido de rotação, como previsto.
+ 
 ### 4.	Análise e conclusão: 
+
+### Integrantes do grupo
+- Thaís Gomes de Melo - 17/0022749
+- Isla Kalleny Marques Brandão - 17/0059308
+- João Pedro Leal Vieira - 17/0036910
+
+### Dados do experimento
+O experimento foi realizado de forma a demonstrar os efeitos de vórtice em um escoamento dado por uma garrafa aberta contendo água como mostrado na figura abaixo.
+
+![Vort](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/vort2.PNG)<br/>
+**Figura 1:** Vórtice executado no experimento. <br/><br/>
+
+Os dados obtidos foram apenas visuais, sendo eles: o vórtice na água no interior da garrafa e o sentido do mesmo.
+
+### Análise
+Sabendo-se que vorticidade é uma medida para a rotação do escoamento e seu valor corresponde a duas vezes o valor da velocidade angular do escoamento, é possível analisar as possíveis causas que geram este movimento.
+
+Uma das forças que agem de forma a rotacionar o fluido é chamada de força inercial de Coriolis, que atua em um sistema de referência em rotação (Terra) e agem ortogonalmente à direção da velocidade da partícula em relação à Terra e ortogonalmente à direção do eixo de rotação da Terra. Sua aceleração produzida em uma partícula na Terra é sempre inferior à 1,5 x 10-4 x V m/s2, sendo V a velocidade da partícula em relação a Terra. Seus efeitos são citados na formação de vórtices na atmosfera (Ciclones) demonstrando-se que tem sentido anti-horário no hemisfério norte e sentido horário no hemisfério sul. Suas influências possuem grande importância na meteorologia, porém, ao analisarmos com a velocidade de escoamento presente na garrafa, a aceleração de Coriolis máxima pertence a uma escala de 1,5 x 10 -6 m/s2, sendo assim irrelevante para as causas deste vórtice.
+
+![Coriolis](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_16/Coriolis.PNG)<br/>
+**Figura 2:** Efeito Coriolis. <br/><br/>
+
+No caso do experimento adotado, o vórtice poderia ocorrer devido ao formato da garrafa, o movimento gerado pela sucção da parte aberta da garrafa, o rodopio residual do enchimento, etc. Mas para uma melhor visualização do efeito o vórtice foi gerado através da força manual rotacionando o recipiente, e como resultado foi obtido um campo de velocidade com sentido igual ao da perturbação gerada.
+
+Não foi possível a realização de uma análise matemática do processo devido a complexidade para a simulação numérica deste efeito e a impossibilidade de se medir o campo de velocidade gerado dentro da garrafa, sendo possível assim apenas uma observação visual dos efeitos citados teoricamente.
+
+### Conclusão
+Com a realização do experimento, pode-se estudar os efeitos de vorticidade e realizar uma demonstração de um vórtice na água. O estudo de vorticidade tem uma grande importância para as áreas de meteorologia (rotação do ar atmosférico) e hidrodinâmica (estudo de escoamentos), logo, o experimento auxiliou a analisar como um vórtice ocorre e em quais condições ele se forma, assim como a estudar o efeito coriolis. 
 

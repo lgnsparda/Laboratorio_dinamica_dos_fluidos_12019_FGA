@@ -15,6 +15,8 @@ Grupo 11:
   
   ### 1.3 Escopo do experimento:
   Será trabalhado um fluído newtoniano, neste caso a água, onde será variado a velocidade da água em uma mangueira transparente e com uma seringa será injentado no fluído uma água com corante onde será possível verificar visualmente a turbulência no fluído.
+  
+  # Nota: 2,5
 
 ### 2.	Planejamento e Preparação:
 
@@ -86,7 +88,63 @@ Grupo 11:
   - Para valores menores que 2000, regime laminar;
   - Para valores entre 2000 e 2400, regime transitório;
   - Para valores maiores que 2400, regime turbolento.
+  
+  # Nota: 2,0
+  
+# - Erros de digitação 
 
 ### 3.	Execução:
 
+  ### 3.1	Divisão de tarefas:
+
+ ![Teste de legenda de imagem 06](novocronograma.JPG);
+ Devido a conflitos de agenda por questão de matérias, eventos e saúde o cronograma de execução foi modificado pra a execução desse experimento seguindo a nova agenda de data determinada acima.
+ 
+ ### 3.2	Procedimentos:
+ 
+ O experimento foi executado no Campus Gama próximo aos containers, devido a localização algumas modificações foram executados para a montagem do experimento.
+ 
+ ![Teste de legenda de imagem 07](montagem.jpg);
+ 
+ - A mangueira foi conectada no torneira e foi utilizado dois suporte, onde a mangueira foi presa com fita adesiva nos dois suporte, a seringa com a agua com corante foi conectada um pouco antes do suporte, pois como suporte é branco permitiu ver melhor o comportamento do fluído, o balde de 10 litros foi substituido por uma garrafa de 2 litros, para verificar a velocidade em que o sistema liberava os 2 litros.
+ 
+  ### 3.3	Dados:
+  
+  Os dados aferidos nesse experimento foram o tempo para encher a garrafa de 2 litros e para cada tempo foram tiradas fotografias do comportamento do fluído. Os tempos medidos foram 9 segundos, 18 segundos e 24 segundos.
+  
+  - Regime em 9 segundos;
+  
+  ![Teste de legenda de imagem 08](regime9s.jpg);
+  
+  - Regime em 18 segundos;
+  
+  ![Teste de legenda de imagem 09](regime18s.jpg);
+  
+  - Regime em 24 segundos.
+  
+  ![Teste de legenda de imagem 10](regime24s.jpg);
+  
 ### 4.	Análise e conclusão:
+
+  ### 4.1	Cálculos e Resultados;
+  
+  Para realizar os cálculos desses experimento foi criado uma planilha no excel, utilizandos os seguintes valores constantes:
+  - Área de vazão;
+  - Diâmetro da mangueira;
+  - Viscosidade Cinemática;
+  - Volume;
+  fixando esse valores foi possível chegar no valores de número de Reyonolds experimental para os tempos medidos, sendo todos acima de 2000, confirmando o turbulência do fluído calculado observada nas 3.3.
+  
+  ![Teste de legenda de imagem 11](tabela9ate24s.JPG);
+  
+  Como o número de Reynolds é uma relação linear sendo a varíavel o velocidade do flúido, foi possível projetar a partir de qual velocidade o fluído sairia do regime turbolento para um regime transiente.
+  
+  ![Teste de legenda de imagem 12](tabelacompleta.JPG);
+  
+  Com isso possível verificar que com a velocidade de 0,0693 m/s o regime passa a ser turbulento, infelizmente essa velocidade não é possível chegar no ambiente em que foi feito o experimento.
+  
+  ### 4.3 Conclusão;
+  
+  Esse experimento é uma forma bem didática de trabalhar com número de Reynolds em ambientes em que o controle não é alto. Durante a execução foi possível chegar em resultados plauísveis seguindo a base teórica dada na máteria de dinâmica de fluídos. Sendo assim, o experimento se torna aconselhável para demonstração da relação do número de Reyonolds e turbulência.
+
+

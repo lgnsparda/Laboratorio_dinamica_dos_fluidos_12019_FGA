@@ -36,6 +36,8 @@ A partir dessa lei é explicado o Efeito Magnus, pois como a pressão na parte d
 
 O empuxo dinâmico resultante da combinação de um escoamento uniforme com uma circulação também é responsável pela sustentação dos aviões, gerando um “upforce” (força para cima, sustentação). Já nos carros de fórmula 1 a mesma força é responsável pela “downforce” (força para baixo), que pressiona os carros contra a pista. <br/><br/>
 
+# Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 
 A confecção material do experimento é simples, são necessários apenas alguns elementos e poucas horas para a montagem e reprodução do mesmo, a parte mais trabalhosa está relacionada à instrumentação necessária  para  acompanhar a trajetória dos corpos de prova após lançados e aos softwares que à avaliarão de modo a obter dados necessários para análise experimental. <br/><br/>
@@ -88,6 +90,8 @@ Após a realização do experimento espera-se por meio da análise das imagens o
 ![Resultados](resultados_esperados.png)<br/>
 **Figura 4.** Trajetória de voo obtida por cálculos analíticos. <br/><br/>
 
+# Nota: 2,5
+
 ### 3.	Execução:
 
 A execução do experimento foi realizada dentro da sala S9 da Faculdade UnB-Gama. Estavam presentes todos os 3 integrantes do grupo. Os integrantes Dérick Fernando Oliveira e Charles Henrique dos Santos foram responsáveis pela montagem e lançamento do planador de Magnus, enquanto o integrante Rodrigo Ribeiro responsabilisou-se pela filmagem. <br/><br/>
@@ -120,3 +124,51 @@ Utilizando a filmagem produzida, é feito um gráfico da trajetória do planador
 ![Trajetória do planador](Trajeto_planador.jpg)<br/>
 
 ### 4.	Análise e conclusão:
+
+Para a solução teórica do problema assumiu-se que: <br/><br/>
+
+* Fluido (ar) é incompressível;
+* O fluxo é semi-laminar a frente do corpo e turbulento após o corpo (segundo o número de reynolds para a velocidade do corpo e a densidade do ar de 1,11 kg/m³);
+* O corpo é cilíndrico;
+* O corpo gira em sentido horário;
+* Deslocamento Bidimensional <br/><br/>
+
+### As equações do problema:
+
+As equações do problema são baseadas na teoria de Bernoulli para um fluxo incompreensível e permanente e do teorema de Kutta-Joukowski para um cilindro, as equações descrevem o movimento teórico do corpo em que se comporta como um projétil com uma velocidade inicial e um ângulo positivo em relação ao horizonte e são decompostas nos eixos x e y segundo o quadro abaixo: 
+
+![Direções](Direções.png)<br/>
+
+Em que L representa a sustentação e D o arrasto induzido. <br/><br/>
+
+### Trajetória teórica:
+
+Para se obter a trajetória foi estabelecido que o corpo é lançado a uma altura de 1,5 [m] do solo com velocidade inicial de 3 [m/s] decomposta nas direções do plano cartesiano paralelo ao plano da circunferência do corpo de prova. As forças de campo são consideradas, A velocidade no eixo Y (eixo 1) é permanente e no eixo Y (eixo 2) é transiente. <br/><br/>
+
+![Trajetória teórica](Trajetória_teórica.png)<br/>
+
+### Dados coletados:
+
+Os dados coletados são apenas a fim de observação da trajetória do corpo de prova. A trajetória obtida no experimento (espelhado no eixo vertical, porque o lançamento foi efetuado no sentido contrário) é mostrada na figura abaixo:
+
+![Trajetória do planador](Trajeto_planador.jpg)<br/>
+
+### Análise dos dados:
+
+Ao analisar a trajetória obtida experimentalmente e comparar com o gráfico teórico notou-se que a mesma foi bem parecida com o esperado, e que não foi idêntica devido a erros a qual o experimento está sujeito, como: <br/><br/>
+
+* Velocidade no lançamento do planador;
+* Possíveis rajadas de ventos em diferentes direções;
+* Ao segurar o planador, o elástico volta em um caminho errado (muito acima ou muito baixo) isso causa movimento errado no planador;
+* Aspereza na superfície do planador: isso aumenta a fricção e muda o caminho do movimento. <br/><br/>
+
+No entanto foi possível perceber um acréscimo de altitude devido efeitos de sustentação do corpo seguida de uma queda gradual da altitude conforme o corpo se desloca horizontalmente, tal comportamento evidencia os efeitos de sustentação provenientes do efeito magnus  visto que o mesmo comportamento não é apresentado para corpos cilíndricos em deslocamento com ausência de rotação em torno de seu eixo longitudinal.
+
+### Conclusão:
+
+Podemos concluir que o efeito magnus gera uma força de sustentação no planador lançado durante um certo período, e logo após ele volta a sua trajetória natural de queda livre com a força peso atuando com mais intensidade e também com a cooperação da força de arrasto. Também nota-se que quanto mais leve for o planador, mais alto voará, pois a força peso a ser vencida será menor.
+
+
+
+
+

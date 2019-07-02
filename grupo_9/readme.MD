@@ -10,6 +10,8 @@ Medir as pressões antes e depois de um bocal, utilizando um tubo de escoamento 
 Escopo:
 Comparação da base teórica pesquisada sobre o Efeito de Bernoulli com o experimento a ser executado no laboratório de termofluidos, no qual serão medidas as pressões antes e depois de um bocal, utilizando um tubo de escoamento.
 
+# Nota: 2,5
+
 ### 2.	Planejamento e Preparação:
 Teoria:
 O Efeito Bernoulli é um fenômeno que ocorre quando um fluido entra em movimento criando uma zona de pressão menor em relação a pressão do fluido parado. Esse efeito pode ser provado com o auxílio das equações de Bernoulli, da Continuidade e de um Tubo Venturi. Para a realização dos cálculos experimentais, será necessário o auxílio de um manômetro caseiro. Para calcular a variação de pressão dentro do Tubo, será utilizado o princípio dos vasos comunicantes, com a Lei de Stevin. O Tubo Venturi é um instrumento que indica a variação de pressão exercida por um fluido em movimento por meio de  tubos com áreas variáveis. Para o experimento será utilizado um bocal convergente-divergente.
@@ -43,6 +45,8 @@ Dados a serem medidos:
 Os dados a serem medidos são as áreas antes e depois do bocal e a diferença de altura no cano do manômetro.
 Resultados esperados:
  É esperado a visualização de uma diferença de altura quando o secador de cabelo for ligado dentro do Tubo caseiro. Podendo assim ser calculada uma diferença de pressão positiva, para ser calculada a velocidade 1 e 2. Mostrando assim que a velocidade 1 é menor que a 2, e que a diferença de pressão do ponto 1 para o ponto 2 é positiva, logo, a pressão 1 é maior que a pressão 2 e provando o Efeito Bernoulli matematicamente e experimentalmente.
+ 
+ # Nota: 2,5
 
 ### 3.	Execução:
 - Divisão de tarefas:
@@ -81,4 +85,32 @@ Diâmetro menor da garrafa: 3 cm
 Diâmetro maior da garrafa: 9 cm
 Diferença de altura entre os dois meniscos do fluido: 4,4 cm
 
+# Nota: 2,5
+
 ### 4.	Análise e conclusão:
+
+Dados medidos:
+  - Diâmetro menor: 3 ± 0,05 cm.
+  - Diâmetro maior: 9 ± 0,05 cm.
+  - Diferença de altura entre os meniscos: 4,4 ± 0,05 cm.
+  
+  Para o cálculo da velocidade 1, foi utilizada a equação abaixo:
+  https://github.com/Leocaldas15/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/Equacao1.gif
+  Onde :
+   https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(3).gif é a massa específica da água;
+   https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(1).gif é a gravidade;
+   https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(2).gif é a diferença de altura entre os meniscos;
+   e https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(4).gifé a massa específica do ar.
+  Com o diâmetro maior da garrafa, temos https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(7).gif, e com o diâmetro menor, temos https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(6).gif. 
+  Portanto, https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(8).gif.
+  Com a relação abaixo, pode-se encontrar agora https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(10).gif.
+  https://github.com/Leocaldas15/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/Equacao2.gif
+  Então, https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(9).gif.
+  Portanto, como demonstrado teoricamente, no relatório 2, https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(11).gif. 
+  A variação de pressão pode ser observada com a diferença de altura https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_9/CodeCogsEqn%20(12).gif no tubo do manômetro.
+  
+   Conclusão:
+O Efeito Bernoulli está presente e pode ser observado em várias situações do nosso dia a dia em que haja um fluido qualquer em um sistema de escoamento.Teoricamente, no relatório 2, demonstramos o que afirma o Efeito Bernoulli. Fazendo uso de materiais simples, nesta prática, foi possível comprovar experimentalmente este efeito, demonstrando a variação e relações de grandezas entre as velocidades e as pressões durante o escoamento do fluido. 
+
+
+

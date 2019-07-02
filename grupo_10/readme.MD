@@ -24,6 +24,8 @@ Grupo 10:
   * 2000 < Re < 2400 - Escoamento de Transição;
   * Re > 2400 - Escoamento Turbulento;
   
+  # Nota: 2,5
+  
 ### 2.	Planejamento e Preparação:
 
 ### Integrantes
@@ -122,8 +124,10 @@ Serão usados as seguintes constantes no experimento: [5]
   * Re < 2000 - Escoamento Laminar;
   * 2000 < Re < 2400 - Escoamento de Transição;
   * Re > 2400 - Escoamento Turbulento;
-  * Viscosidade dinâmica da água [Pa.s]: 0,001030;
+  * Viscosidade dinâmica da água [Pa.s]: 0,0010030;
   * Massa específica da água [kg/m³]: 1000.
+  
+  # Nota: 2,5
 
 ### 3.	Execução:
 
@@ -188,8 +192,92 @@ Serão usados as seguintes constantes no experimento: [5]
 
 Por fim, os erros experimentais do volume, da pressão e do tempo foram calculados, para saber quanto de variação houve durente a realização. 
 
-### 4.	Análise e conclusão:
+# Nota: 2,5
 
+### 4.	Análise e conclusão:
+### Integrantes
+* Cláudio Luiz - 15/0122021
+* Lucas Gomes - 17/0080102
+* Mateus de Alencar - 17/0018849
+
+### Apresentação dos dados medidos:
+Ao executar o experimento, obteve-ser os seguintes resultados:
+
+![DinaFlu](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/DinaFlu.PNG)
+
+**Tabela 2:** Resultados do experimento
+
+Os erros experimentais da velocidade, da pressão e do número de Reynolds foram obtidos tendo como base a ideia da incerteza relativa.
+Para o erro da pressão, a única variável que foi considerada foi a diferença de altura "h":
+
+
+![p'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/p'.jfif)
+
+**Equação 7**
+
+![p](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/p.jfif)
+
+**Equação 8**
+
+
+Para a velocidade, foram considerados o volume e a variação de tempo:
+
+![v'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/v'.jfif)
+
+**Equação 10**
+
+
+![v](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/v.jfif)
+
+**Equação 11**
+
+
+
+E, finalmente, para o número de Reynolds, somente a velocidade foi considerada para o cálculo do erro:
+
+![re'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/re'.jfif)
+
+**Equação 12**
+
+
+![re](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/re.jfif)
+
+
+**Equação 13**
+
+
+O valor obtido para a pressão manométrica foi de: (2354,4 +- 4,905) Pa, considerando uma diferença de altura de 24 cm.
+
+
+Sendo:
+* ![t'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/t'.gif) o erro do tempo: 0,01 s;
+* ![dv'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/dv'.jfif) o erro do volume: 0,00025 m³;
+* ![h'](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/h'.jfif) o erro da altura: 0.0005 m;
+* P', V' e Re' os erros associados à incerteza das equações da pressão, velocidade e do número de Reynolds, respectivamente.
+
+### Apresentação do gráfico e análise:
+
+![vxr](https://github.com/lgnsparda/Laboratorio_dinamica_dos_fluidos_12019_FGA/blob/master/grupo_10/vxr.PNG)
+
+**Gráfico 1** 
+
+Ao observar o gráfico, é possível observar que o número de Reynolds possui uma relação linear com a velocidade do escoamento.
+
+
+### Comparação dos resultados com a teoria envolvida:
+Pode-se explicar o caráter linear da seguinte maneira: de acordo com a Equação 2, a massa específica, a viscosidade da água e o diâmetro do tubo são todos constantes no experimento e, por consequência, a velocidade é a única variável. Tendo em vista esse fato, pode-se dizer que a Equação 2 se aproxima da equação de um reta do tipo y =ax+b, com coeficiente linar (b) igual a 0. O que justifica a linearidade entre a velocidade e o número de Reynolds.
+
+Além disso, foi possível afirmar a veracidade dos palpites de algumas amostras, por meio dos cálculos feitos, sendo possível notar que houve a presença dos escoamentos laminar (amostras 1 a 9) e transitório (amostra 10).
+
+Outro ponto importante que deve ser considerado é que houve discordâncias entre o palpite feito pelo grupo e o número de Reynolds desses escoamentos, como observado nas amostras 8 e 9 da Tabela 2. Esse erro provavelmente ocorreu devido ao erro humano dos integrantes do grupo. No qual a seção da mangueira analisada para o palpite era insuficiente para se ter, com precisão, uma ideia clara do tipo de escoamento. Houve casos, também, em que a opinião do grupo estava dividida sobre o escoamento, o que também pode ser considerado como erro.
+
+Vale ressaltar que os erros estavam crescendo com as amostras, o que está de acordo com a ideia de propagação do erro: os erros das amostra anteriores vão se acumulando e influenciando nas amostras futuras.
+
+
+### Conclusões:
+Com este experimento, foi possível observar de uma maneira simples e didática os efeitos que a velocidade tem sobre o tipo de escoamento que acontece dentro de um tubo. 
+O experimento foi suficiente para se ter uma ideia básica, porém essencial, sobre a teoria do experimento de Reynolds, o que atendeu às expectativas do grupo.
+Por fim, foi possível observar na prática as características dos escoamentos laminar e transitório, que posteriormente foram comprovados com a teoria envolvida.  
 
 ### Referências
 **[1] Coeficiente de Reynolds.** Disponível em: https://pt.wikipedia.org/wiki/Coeficiente_de_Reynolds. Acesso em: 28 de Abril de 2019.
