@@ -168,6 +168,10 @@ No entanto foi possível perceber um acréscimo de altitude devido efeitos de su
 
 Podemos concluir que o efeito magnus gera uma força de sustentação no planador lançado durante um certo período, e logo após ele volta a sua trajetória natural de queda livre com a força peso atuando com mais intensidade e também com a cooperação da força de arrasto. Também nota-se que quanto mais leve for o planador, mais alto voará, pois a força peso a ser vencida será menor.
 
+#  Nota: 1,5
+
+# Análise pobre dos resultados
+
 
 
 
