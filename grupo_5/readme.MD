@@ -427,6 +427,10 @@ Através do experimento realizado esperava-se compreender o comportamento de um 
 Em relação ao número de Reynolds, esperava-se que o fluido ao passar pelo orifício da placa fosse acelerado, tendo como consequência um aumento em seu número de Reynolds. Foram obtidos valores de número de Reynolds a montante e a jusante da placa e, foram obtidos resultados como esperados. Obteve-se que o fluido antes de escoar através da placa de orifício obtinha um Re= 2442,67, caracterizando um escoamento transiente e ao escoar a jusante da placa obteve-se Re= 220.690,76 o que caracteriza um escoamento turbulento. <br>
 No geral, considera-se que os resultados encontrados foram satisfatórios, lembrando-se que eles podem ser melhorados corrigindo possíveis falhas e utilizando-se instrumentos experimentais mais precisos. <br><br>
 
+#  Nota: 2,0
+
+# Problemas de digitação e formatação
+
 
 **4.4 Referências**<br>
 
