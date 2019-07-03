@@ -124,6 +124,10 @@ Grupo 11:
   
   ![Teste de legenda de imagem 10](regime24s.jpg);
   
+# Nota: 2,0
+
+# erros de formatação
+  
 ### 4.	Análise e conclusão:
 
   ### 4.1	Cálculos e Resultados;
