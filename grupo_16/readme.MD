@@ -109,6 +109,8 @@ Cabe ressaltar que a substituição de duas garrafas e uma conexão por apenas u
 
 ### Dados medidos
 Após a realização do experimento, foi possível observar a geração do vórtice na água e seu sentido de rotação, como previsto.
+
+# Nota: 2,5
  
 ### 4.	Análise e conclusão: 
 
