@@ -84,4 +84,6 @@ A solução quente adicionada se dissipou rapidamente na superfície mais quente
 O experimento foi gravado e pode ser visualizado através do seguinte link:
 https://drive.google.com/file/d/1orbfhu4s3BQvqgE0vIq341sLQMs1Yhkk/view?usp=sharing
 
+# Nota: 2,5
+
 ### 4.	Análise e conclusão:
