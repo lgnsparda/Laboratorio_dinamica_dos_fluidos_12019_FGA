@@ -76,6 +76,8 @@ Em função disso o estudo do fenômeno da perda de carga foi escolhido no intui
 
  #### Resultados esperados:
   Espera-se medir uma perda de pressão proporcional ao comprimento da seção medida e ao fator de atrito do duto de pvc.
+  
+  #  Nota: 2,5
 
 ### 3.	Execução:
 
