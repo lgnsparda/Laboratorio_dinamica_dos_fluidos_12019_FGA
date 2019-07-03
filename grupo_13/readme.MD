@@ -153,7 +153,7 @@ Pressão fora do túnel de vento: a uma distância de três metros do bocal do t
 
   Figura 2: Anemômetro no interior do túnel de vento
 
-
+# Nota: 2,5
  
 ### 4.	Análise e conclusão:
 #### 4.1 Resultados
