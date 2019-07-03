@@ -123,6 +123,8 @@ Utilizando a filmagem produzida, é feito um gráfico da trajetória do planador
 
 ![Trajetória do planador](Trajeto_planador.jpg)<br/>
 
+# Nota: 2,5
+
 ### 4.	Análise e conclusão:
 
 Para a solução teórica do problema assumiu-se que: <br/><br/>
